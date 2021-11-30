@@ -22,6 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_size: cover
+    background_image: images/e-sport-arena.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
