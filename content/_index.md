@@ -66,7 +66,7 @@ sections:
     actions:
       - label: Discord
         url: 'https://discord.gg/X7QysZ287U'
-        style: primary
+        style: secondary
         new_window: true
         no_follow: true
     actions_position: bottom
