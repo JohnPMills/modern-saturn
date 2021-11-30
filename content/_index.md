@@ -227,7 +227,7 @@ sections:
       feel comfortable talking about their worries or concerns that they might
       be dealing with.
     actions:
-      - label: Learn More
+      - label: Discord
         url: /features
         style: secondary
     actions_position: right
