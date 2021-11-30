@@ -215,10 +215,7 @@ sections:
     background_color: none
   - type: cta_section
     title: GET SUPPORT
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: "To speak with someone immediately, contact\_[NHS 111](https://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergency-care/nhs-111/)\_on 111 or contact\_[Samaritans](http://www.samaritans.org/how-we-can-help-you/contact-us)\_on 116 123.\n\nIf you're ever worried that someone's life is in immediate danger, call 999 or go directly to emergency services.\n"
     actions:
       - label: Button
         url: /pricing
