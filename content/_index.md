@@ -118,6 +118,7 @@ sections:
     align: center
     background_color: secondary
     background_image_opacity: 5
+    background_image_size: cover
   - type: features_section
     features:
       - title: >-
