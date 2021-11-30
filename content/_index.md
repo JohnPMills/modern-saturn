@@ -117,6 +117,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    background_image_opacity: 5
   - type: features_section
     features:
       - title: >-
