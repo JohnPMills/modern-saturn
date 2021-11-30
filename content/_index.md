@@ -99,6 +99,51 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - type: features_section
+    title: MENTAL HEALTH DISORDERS
+    subtitle: ENHANCE YOUR UNDERSTANDING OF
+    features:
+      - title: DEPRESSION
+        subtitle: 'The Big D. The Black Dog. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-1.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
+      - title: The Big Title For the Feature
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-2.png
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: none
+    background_image_opacity: 5
+    background_image_size: cover
+    background_image_repeat: no-repeat
+    background_image: >-
+      images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
   - type: grid_section
     title: PERFORMANCE
     subtitle: IMPROVE YOUR PERFORMANCE
@@ -169,51 +214,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: features_section
-    title: MENTAL HEALTH DISORDERS
-    subtitle: ENHANCE YOUR UNDERSTANDING OF
-    features:
-      - title: DEPRESSION
-        subtitle: 'The Big D. The Black Dog. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: none
-    background_image_opacity: 5
-    background_image_size: cover
-    background_image_repeat: no-repeat
-    background_image: >-
-      images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
