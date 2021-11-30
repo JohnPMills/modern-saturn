@@ -256,6 +256,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
+    background_image_opacity: 5
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
