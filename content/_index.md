@@ -231,6 +231,7 @@ sections:
         url: 'https://discord.gg/X7QysZ287U'
         style: primary
         new_window: true
+        no_follow: true
     actions_position: right
     actions_width: fourty
     align: left
