@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: GAMERS VS. DEPRESSION
-    subtitle: Optional hero section subtitle
+    subtitle: GAME CHANGING MENTAL HEALTH
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
