@@ -23,6 +23,7 @@ sections:
     background_color: primary
     background_image_size: cover
     background_image: images/e-sport-arena.jpg
+    background_image_repeat: no-repeat
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
