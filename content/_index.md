@@ -228,7 +228,7 @@ sections:
       be dealing with.
     actions:
       - label: Discord
-        url: /features
+        url: 'https://discord.gg/X7QysZ287U'
         style: secondary
     actions_position: right
     actions_width: fourty
