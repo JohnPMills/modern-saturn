@@ -238,6 +238,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: >-
+      images/endless-flight-futuristic-dark-corridor-with-neon-lighting-bright-neon-circle-front.jpg
   - type: grid_section
     title: TEAM
     subtitle: MEET OUR
