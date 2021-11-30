@@ -193,32 +193,6 @@ sections:
     background_image_repeat: no-repeat
     background_image: >-
       images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
-  - type: grid_section
-    title: TEAM
-    subtitle: MEET OUR
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
