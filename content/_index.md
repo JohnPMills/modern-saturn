@@ -59,9 +59,10 @@ sections:
   - type: cta_section
     title: WANT TO CHAT?
     content: >
-      Join our Discord. We are gaming community made specifically to help people
-      feel comfortable talking about any worries or concerns that they might be
-      dealing with. 
+      We know depression can make you feel isolated. It can be helpful to chat
+      with with other people who understand what it's like.  At Gamers vs.
+      Depression, we just have these discussions and provide this support for
+      each other over a game.  
     actions:
       - label: Discord
         url: 'https://discord.gg/X7QysZ287U'
