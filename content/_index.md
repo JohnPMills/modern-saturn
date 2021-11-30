@@ -24,7 +24,7 @@ sections:
     background_image_size: cover
     background_image: images/e-sport-arena.jpg
     background_image_repeat: no-repeat
-    background_image_opacity: 1
+    background_image_opacity: 5
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
