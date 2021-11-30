@@ -56,6 +56,28 @@ sections:
     background_image_opacity: 5
     background_image_repeat: no-repeat
     background_image_size: cover
+  - type: cta_section
+    title: NEED TO CHAT?
+    content: >
+      Join our Discord. We are gaming community made specifically to help people
+      feel comfortable talking about their worries or concerns that they might
+      be dealing with.
+    actions:
+      - label: Discord
+        url: 'https://discord.gg/X7QysZ287U'
+        style: primary
+        new_window: true
+        no_follow: true
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: none
+    background_image: images/men-playing-video-games.jpg
+    background_image_opacity: 5
+    background_image_repeat: no-repeat
+    background_image_size: cover
   - type: features_section
     title: MENTAL HEALTH DISORDERS
     subtitle: ENHANCE YOUR UNDERSTANDING OF
@@ -171,28 +193,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: NEED TO CHAT?
-    content: >
-      Join our Discord. We are gaming community made specifically to help people
-      feel comfortable talking about their worries or concerns that they might
-      be dealing with.
-    actions:
-      - label: Discord
-        url: 'https://discord.gg/X7QysZ287U'
-        style: primary
-        new_window: true
-        no_follow: true
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image: images/men-playing-video-games.jpg
-    background_image_opacity: 5
-    background_image_repeat: no-repeat
-    background_image_size: cover
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
