@@ -56,7 +56,6 @@ sections:
     background_image_opacity: 5
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image: images/e-sport-arena.jpg
   - type: cta_section
     title: NEED TO CHAT?
     content: >
