@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 5
   - type: grid_section
     title: LEARN
-    subtitle: Grid Section Example
+    subtitle: LEARN ABOUT YOUR
     align: center
     grid_items:
       - image: images/logo-1.svg
