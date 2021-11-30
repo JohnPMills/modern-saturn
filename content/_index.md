@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     background_image_size: cover
     background_image: images/e-sport-arena.jpg
     background_image_repeat: no-repeat
