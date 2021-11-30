@@ -57,7 +57,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: cta_section
-    title: NEED TO CHAT?
+    title: WANT TO CHAT?
     content: >
       Join our Discord. We are gaming community made specifically to help people
       feel comfortable talking about their worries or concerns that they might
