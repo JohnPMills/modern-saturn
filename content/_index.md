@@ -60,8 +60,8 @@ sections:
     title: WANT TO CHAT?
     content: >
       Join our Discord. We are gaming community made specifically to help people
-      feel comfortable talking about their worries or concerns that they might
-      be dealing with.
+      feel comfortable talking about any worries or concerns that they might be
+      dealing with. 
     actions:
       - label: Discord
         url: 'https://discord.gg/X7QysZ287U'
