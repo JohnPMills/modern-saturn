@@ -238,8 +238,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: >-
-      images/endless-flight-futuristic-dark-corridor-with-neon-lighting-bright-neon-circle-front.jpg
+    background_image: images/men-playing-video-games.jpg
     background_image_opacity: 5
     background_image_repeat: no-repeat
     background_image_size: cover
