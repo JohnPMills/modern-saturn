@@ -79,7 +79,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: grid_section
-    title: Cards Grid Section
+    title: PROGRAMMES
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
