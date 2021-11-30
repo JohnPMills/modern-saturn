@@ -21,13 +21,13 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/features",
+                "label": "Events",
+                "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Events",
-                "url": "/pricing",
+                "label": "About",
+                "url": "/features",
                 "style": "link"
             },
             {
