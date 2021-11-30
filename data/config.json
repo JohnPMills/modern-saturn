@@ -11,6 +11,11 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "Play",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
                 "label": "About",
                 "url": "/features",
                 "style": "link"
@@ -23,11 +28,6 @@
             {
                 "label": "Learn",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Play",
-                "url": "/style-guide",
                 "style": "link"
             },
             {
