@@ -22,7 +22,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 5
   - type: grid_section
-    title: Image Grid
+    title: LEARN
     subtitle: Grid Section Example
     align: center
     grid_items:
