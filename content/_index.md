@@ -21,9 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    video_embed_html: >-
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
