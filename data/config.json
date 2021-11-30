@@ -46,7 +46,7 @@
             {
                 "label": "Level Up Your Mental Health",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": true,
