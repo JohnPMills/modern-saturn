@@ -237,7 +237,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team
+    title: TEAM
     subtitle: Meet Our
     actions:
       - label: Join the team
