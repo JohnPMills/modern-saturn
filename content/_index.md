@@ -229,7 +229,7 @@ sections:
     actions:
       - label: Discord
         url: 'https://discord.gg/X7QysZ287U'
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
