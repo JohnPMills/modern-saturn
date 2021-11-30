@@ -57,7 +57,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: features_section
-    title: Features Section
+    title: MENTAL HEALTH DISORDERS
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: The Big Title For the Feature
