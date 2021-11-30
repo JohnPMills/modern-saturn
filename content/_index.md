@@ -69,7 +69,7 @@ sections:
         style: primary
         new_window: true
         no_follow: true
-    actions_position: left
+    actions_position: bottom
     actions_width: fourty
     align: left
     padding_top: large
