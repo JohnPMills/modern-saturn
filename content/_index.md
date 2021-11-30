@@ -222,10 +222,10 @@ sections:
     background_color: secondary
   - type: cta_section
     title: NEED TO CHAT?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Join our Discord. We are gaming community made specifically to help people
+      feel comfortable talking about their worries or concerns that they might
+      be dealing with.
     actions:
       - label: Learn More
         url: /features
