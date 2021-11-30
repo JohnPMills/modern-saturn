@@ -22,7 +22,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 5
   - type: grid_section
-    title: LEARN
+    title: EVENTS
     subtitle: TAKE PART IN ONE OF OUR
     align: center
     grid_items:
