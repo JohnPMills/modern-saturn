@@ -228,7 +228,7 @@ sections:
     background_image_size: cover
     background_image_repeat: no-repeat
 seo:
-  title: Stackbit DIY Theme
+  title: Gamers vs. Depression
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
