@@ -80,7 +80,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     title: PERFORMANCE
-    subtitle: TAKE PART
+    subtitle: IMPROVE YOUR PERFORMANCE
     grid_items:
       - title: Section Item 1
         title_align: left
