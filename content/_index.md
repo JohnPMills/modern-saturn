@@ -60,7 +60,7 @@ sections:
     title: MENTAL HEALTH DISORDERS
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: The Big Title For the Feature
+      - title: DEPRESSION
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
