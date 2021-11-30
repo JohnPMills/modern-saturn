@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
-    subtitle: GAME CHANGING MENTAL HEALTH
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
