@@ -64,7 +64,7 @@ sections:
       Depression, we just have these discussions and provide this support for
       each other over a game.  
     actions:
-      - label: Discord
+      - label: Join our D
         url: 'https://discord.gg/X7QysZ287U'
         style: secondary
         new_window: true
