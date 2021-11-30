@@ -4,7 +4,7 @@
     "style": "bold",
     "palette": "gray",
     "mode": "dark",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "DIY",
         "logo_alt": "DIY logo",
