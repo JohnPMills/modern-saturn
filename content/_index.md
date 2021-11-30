@@ -58,8 +58,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_image_opacity: 5
-    background_image: >-
-      images/endless-flight-futuristic-dark-corridor-with-neon-lighting-bright-neon-circle-front.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: features_section
