@@ -238,7 +238,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Team
-    subtitle: Grid Section Example
+    subtitle: Meet Our
     actions:
       - label: Join the team
         url: /style-guide
