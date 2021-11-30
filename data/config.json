@@ -26,13 +26,13 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Play",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Play",
-                "url": "/style-guide",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             }
         ],
