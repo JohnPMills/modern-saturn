@@ -61,6 +61,7 @@ sections:
     background_image: >-
       images/endless-flight-futuristic-dark-corridor-with-neon-lighting-bright-neon-circle-front.jpg
     background_image_repeat: no-repeat
+    background_image_size: cover
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
