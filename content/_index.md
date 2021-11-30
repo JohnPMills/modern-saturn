@@ -229,7 +229,7 @@ sections:
     background_image_repeat: no-repeat
 seo:
   title: Gamers vs. Depression
-  description: The preview of the DIY theme
+  description: Game Changing Mental Health
   extra:
     - name: 'og:type'
       value: website
