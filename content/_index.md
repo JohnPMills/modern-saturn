@@ -71,7 +71,7 @@ sections:
         no_follow: true
     actions_position: bottom
     actions_width: fourty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: none
