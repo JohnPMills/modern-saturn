@@ -104,10 +104,8 @@ sections:
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: LIFE CAN THROW UP CURVEBALLS
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          WRITE AN INTRODUCTION TO MEN'S MENTAL HEALTH MORE BROADLY.
         actions:
           - label: Learn More
             url: /style-guide
