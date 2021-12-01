@@ -37,7 +37,6 @@ sections:
           autoplay; clipboard-write; encrypted-media; gyroscope;
           picture-in-picture" allowfullscreen></iframe>
       - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           In addition to our depression literacy programme, we also provide
           access to resources and training developed in the world of performance
