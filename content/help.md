@@ -123,10 +123,12 @@ sections:
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_position: right
       - title: NHS
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          The National Health Service (NHS) website provides a series of
+          reliable explanations on a range of mental health disorders. 
+
+
+          [CLICK HERE](https://www.nhs.uk/mental-health/conditions/)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
