@@ -130,6 +130,7 @@ sections:
 
           [CLICK HERE](https://www.nhs.uk/mental-health/conditions/)
         image: images/NHS.jpeg
+        image_position: right
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
