@@ -104,7 +104,6 @@ sections:
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: LIFE CAN THROW UP CURVEBALLS
-        subtitle: 'The Big D. The Black Dog. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
