@@ -97,7 +97,9 @@ sections:
       - title: JAPAN
         title_align: left
         content: |
-          \- Tell Lifeline on 03-5774-0992
+          *   Emergency services on 119
+
+          *   Tell Lifeline on 03-5774-0992
 
           Websites: https://telljp.com/lifeline
         content_align: left
