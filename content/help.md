@@ -29,9 +29,6 @@ sections:
       - title: AUSTRALIA
         title_align: left
         content: >+
-          #### AUSTRALIA
-
-
           \- Lifeline 13 11 14
 
 
@@ -49,21 +46,6 @@ sections:
 
           Free, private and confidential 24/7 phone and online counselling
           service for young people aged 5 to 25
-
-
-          #### NEW ZEALAND
-
-
-          \- Lifeline 0800 543 354 (0800 LIFELINE) or free text 4357 (HELP)
-
-
-          \- Suicide Crisis Helpline 0508 828 865 (0508 TAUTOKO)
-
-
-          \- Healthline 0800 611 116
-
-
-          \- Samaritans 0800 726 666
 
         content_align: left
         actions: []
