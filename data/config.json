@@ -26,16 +26,6 @@
                 "style": "link"
             },
             {
-                "label": "About Us",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "News",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "Outreach",
                 "url": "/outreach",
                 "style": "link",
@@ -44,6 +34,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "About Us",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "News",
+                "url": "/blog",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
