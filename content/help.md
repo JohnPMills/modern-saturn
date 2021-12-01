@@ -75,7 +75,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: SOUTH AFRICA
-        subtitle: lorem-ipsum
         title_align: left
         content: |+
           ##### SOUTH AFRICA
