@@ -57,13 +57,15 @@ sections:
       - title: NEW ZEALAND
         title_align: left
         content: |
-          \- Lifeline 0800 543 354 (0800 LIFELINE) or free text 4357 (HELP)
+          *   Emergency services on 111
 
-          \- Suicide Crisis Helpline 0508 828 865 (0508 TAUTOKO)
+          *   Lifeline 0800 543 354 (0800 LIFELINE) or free text 4357 (HELP)
 
-          \- Healthline 0800 611 116
+          *    Suicide Crisis Helpline 0508 828 865 (0508 TAUTOKO)
 
-          \- Samaritans 0800 726 666
+          *   Healthline 0800 611 116
+
+          *   Samaritans 0800 726 666
         content_align: left
         actions: []
         actions_align: left
