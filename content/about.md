@@ -98,10 +98,15 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >+
+          Lee is also an avid gamer, spending a lot of his time playing high
+          level Rocket League with his friends. He has also amassed over 1.5
+          million views on his YouTube Channel, and is continuing to grow. He
+          also studied his undergraduate degree at the University of
+          Hertfordshire and graduated with a 2:1 in 2015. He then went on to
+          complete his Masters in Sport Psychology at the University of Essex in
+          2021, graduating with first class honours.
+
         content_align: left
         actions:
           - label: Get Directions
