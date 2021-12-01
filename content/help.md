@@ -119,6 +119,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         image: images/Movember_Partner Stack_Funded Project_Black.png
+        image_position: right
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
