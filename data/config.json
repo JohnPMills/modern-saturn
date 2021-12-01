@@ -73,7 +73,7 @@
         "primary_nav_title": "Organisation",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "About Us",
                 "url": "/about",
                 "style": "link"
             },
