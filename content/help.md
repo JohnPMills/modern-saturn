@@ -26,7 +26,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: AUSTRALIA & NEW ZEALAND
+      - title: AUSTRALIA
         title_align: left
         content: >+
           #### AUSTRALIA
