@@ -6,6 +6,10 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    subtitle: >-
+      As much as we want to be able to help your Mental Health, we know that
+      sometimes you need even more assistance. Listed below is a list of mental
+      health helplines for a variety of different countries.
   - type: grid_section
     grid_items:
       - title: UNITED KINGDOM & IRELAND
