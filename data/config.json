@@ -11,13 +11,13 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "About Us",
-                "url": "/about",
+                "label": "How GVD Works",
+                "url": "/how",
                 "style": "link"
             },
             {
-                "label": "How GVD Works",
-                "url": "/how",
+                "label": "About Us",
+                "url": "/about",
                 "style": "link"
             },
             {
