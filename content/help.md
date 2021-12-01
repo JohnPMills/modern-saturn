@@ -19,7 +19,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: UNITED STATES OF AMERICA
-        subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
