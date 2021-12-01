@@ -18,7 +18,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: UNITED STATES OF AMERICA
         subtitle: Optional subtitle
         title_align: left
         content: |-
