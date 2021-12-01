@@ -111,7 +111,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: OTHER PLACES TO SEEK SUPPORT
+    title: OTHER SOURCES OF INFORMATION
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
