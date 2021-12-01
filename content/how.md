@@ -2,7 +2,7 @@
 title: Learn
 sections:
   - type: hero_section
-    title: LEARN
+    title: HOW GVD WORKS
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
