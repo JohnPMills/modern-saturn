@@ -7,9 +7,10 @@ sections:
     padding_top: large
     padding_bottom: small
     subtitle: >-
-      If you're ever worried that someone's life is in immediate danger, call
-      999 or go directly to emergency services. In other situations, here is a
-      list of mental health helplines for a variety of different countries.
+      If you're ever worried that someone's life is in immediate danger, call or
+      go directly to the emergency services in your country. In other
+      situations, here is a list of mental health helplines for a variety of
+      different countries.
   - type: grid_section
     grid_items:
       - title: UNITED KINGDOM & IRELAND
