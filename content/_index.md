@@ -117,7 +117,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: WE'RE IN IT TOGETHER
+      - title: WE'RE ALL PART OF THE SAME TEAM
         content: |
           DISCUSS THE IMPORTANCE OF SOCIAL CONNECTIONS
         actions:
