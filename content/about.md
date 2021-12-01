@@ -7,6 +7,7 @@ sections:
     background_color: none
     background_image: >-
       images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
+    background_image_size: cover
   - type: features_section
     features:
       - title: ABOUT THE ORGANISATION
