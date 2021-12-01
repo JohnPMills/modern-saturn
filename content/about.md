@@ -135,7 +135,7 @@ sections:
     content: |
       Join our DISCORD community now.
     actions:
-      - label: Compare Plans
+      - label: DISCORD
         url: /pricing
         style: primary
     align: center
