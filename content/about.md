@@ -132,7 +132,8 @@ sections:
     background_color: none
   - type: cta_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Join our DISCORD community now.
     actions:
       - label: Compare Plans
         url: /pricing
