@@ -8,7 +8,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: UNITED KINGDOM
+      - title: UNITED KINGDOM & IRELAND
         subtitle: Optional subtitle
         title_align: left
         content: "#### UNITED KINGDOM\_\n\n\\- Mind Infoline on 0300 123 3393 (Monday to Friday, 9am to 6pm)\n\nFor advice and support on a wide range of mental health problems.\n\n\\- Samaritans free at any time, on 116 123\n\nFor people experiencing suicidal thoughts.\n\n#### IRELAND\n\n\\- Connect counselling Helpline: 1800 477 477\n\nWebsite: https://connectcounselling.ie/\n\n\\- Samaritans: FreePhone 116123\_\n\n"
