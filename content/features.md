@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Learn
 sections:
   - type: hero_section
     title: Explore Features
