@@ -116,10 +116,10 @@ sections:
       - title: MOVEMBER
         content: >
           Movember's website holds a variety of additional information regarding
-          a variety of topics. 
+          a variety of topics.
 
 
-          <https://uk.movember.com/mens-health/get-support>
+          [CLICK HERE](https://uk.movember.com/mens-health/get-support)
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_position: right
       - title: Sagittis vitae et leo duis ut diam?
