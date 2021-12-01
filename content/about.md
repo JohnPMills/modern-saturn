@@ -79,10 +79,14 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          Sam is an avid gamer, currently playing Rainbow Six Siege
+          semi-professionally for JLINGZ Esports. He also studied Sport and
+          Exercise Science at the University of Essex and graduated with first
+          class honours in 2021. With a passion for both mental health and
+          gaming, he found himself perfectly suited to develop Gamers vs
+          Depression into something that can help gamers overcome their mental
+          health issues.
         content_align: left
         actions:
           - label: Get Directions
