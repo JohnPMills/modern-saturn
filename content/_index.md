@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: Try Free
+      - label: JOIN NOW
         url: /pricing
         style: primary
       - label: Learn More
