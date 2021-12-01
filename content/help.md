@@ -55,7 +55,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: NEW ZEALAND
-        title_align: left
+        title_align: center
         content: |
           *   Emergency services on 111
 
