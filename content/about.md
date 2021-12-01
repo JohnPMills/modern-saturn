@@ -51,7 +51,7 @@ sections:
           Gamers vs Depression is generously supported by men’s health charity
           Movember. The organisation was founded in 2019 and currently has three
           members of staff, based in the South-East of England (UK).
-        image: images/about-2.jpg
+        image: images/Movember_Partner Stack_Funded Project_Black.png
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
