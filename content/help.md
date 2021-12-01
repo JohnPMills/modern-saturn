@@ -22,7 +22,7 @@ sections:
         actions_width: full-width
       - title: UNITED STATES OF AMERICA
         title_align: left
-        content: "#### USA\_\n\n\\- National Alliance on Mental Illness (NAMI) hotline 1-800-950-NAMI (6264) or info@nami.org\n\n\\- Crisis Text Line – Text NAMI to 741-741\n\nConnect with a trained crisis counsellor to receive free, 24/7 crisis support via text message.\n\n\\- National Suicide Prevention Lifeline – Call 800-273-TALK (8255)\n\nIf you or someone you know is in crisis—whether they are considering suicide or not—please call the toll-free Lifeline at 800-273-TALK (8255) to speak with a trained crisis counsellor 24/7.\n"
+        content: "#### USA\_\n\n*   Emergency services on 911\n\n*   National Alliance on Mental Illness (NAMI) hotline 1-800-950-NAMI (6264) or info@nami.org\n\n*   Crisis Text Line – Text NAMI to 741-741\n\nConnect with a trained crisis counsellor to receive free, 24/7 crisis support via text message.\n\n*   National Suicide Prevention Lifeline – Call 800-273-TALK (8255)\n\nIf you or someone you know is in crisis—whether they are considering suicide or not—please call the toll-free Lifeline at 800-273-TALK (8255) to speak with a trained crisis counsellor 24/7.\n"
         content_align: left
         actions: []
         actions_align: left
