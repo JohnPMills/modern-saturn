@@ -20,7 +20,7 @@ sections:
           diam.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Get In Touch
             url: /general-enquiries
             style: link
             has_icon: true
