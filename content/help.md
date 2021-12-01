@@ -7,8 +7,9 @@ sections:
     padding_top: large
     padding_bottom: small
     subtitle: >-
-      Listed below is a list of mental health helplines for a variety of
-      different countries.
+      If you're ever worried that someone's life is in immediate danger, call
+      999 or go directly to emergency services.Listed below is a list of mental
+      health helplines for a variety of different countries.
   - type: grid_section
     grid_items:
       - title: UNITED KINGDOM & IRELAND
