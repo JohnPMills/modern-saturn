@@ -76,7 +76,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: SOUTH AFRICA
-        title_align: left
+        title_align: center
         content: |
           *   Emergency services on 112
 
