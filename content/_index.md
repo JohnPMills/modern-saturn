@@ -104,8 +104,12 @@ sections:
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: LIFE CAN THROW UP CURVEBALLS
-        content: |
-          WRITE AN INTRODUCTION TO MEN'S MENTAL HEALTH MORE BROADLY.
+        content: >
+          There is no denying that life can be tough. We're all in this journey
+          together and there is a lot more we can often do to look after
+          ourselves and the people we care about. At GVD, we provide a platform
+          for gamers experiencing tough times or who'd like to support those who
+          are to come together and support each other. 
         actions:
           - label: Learn More
             url: /style-guide
