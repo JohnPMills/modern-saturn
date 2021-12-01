@@ -78,11 +78,13 @@ sections:
       - title: SOUTH AFRICA
         title_align: left
         content: |
-          \- Suicide Crisis Helpline 0800 567 567
+          *   Emergency services on 112
 
-          \- 24hr Substance Abuse Helpline 0800 12 13 14
+          *   Suicide Crisis Helpline 0800 567 567
 
-          \- Mental Health Helplines 0800 456 789 / 0800 21 22 23
+          *   24hr Substance Abuse Helpline 0800 12 13 14
+
+          *   Mental Health Helplines 0800 456 789 / 0800 21 22 23
         content_align: left
         actions: []
         actions_align: left
