@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Get Help
 sections:
   - type: hero_section
     title: Pick Your Plan
