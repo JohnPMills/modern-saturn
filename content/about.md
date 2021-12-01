@@ -78,6 +78,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        image: images/Screenshot 2021-11-30 at 14.56.13.png
       - title: SAM WILLIAMS
         content: >
           Sam is an avid gamer, currently playing Rainbow Six Siege
