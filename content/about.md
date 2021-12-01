@@ -144,6 +144,8 @@ sections:
     has_border: false
     background_color: none
     background_image_opacity: 10
+    background_image: >-
+      images/endless-flight-futuristic-dark-corridor-with-neon-lighting-bright-neon-circle-front.jpg
 seo:
   title: About
   description: This is the about us page
