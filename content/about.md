@@ -10,10 +10,40 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+
+          Gamers vs Depression is a global mental health programme that uses
+          gaming to teach young men about the importance of mental health,
+          self-care, and social connections.
+
+
+          With support from men’s health charity Movember, Gamers vs Depression
+          is aiming to establish whether esports can be used as a vehicle to
+          deliver mental health literacy programmes to young men around the
+          world. We also aim to reduce stigma and increase help seeking
+          behaviours in gamers.
+
+
+          Our community is a place where gamers can feel empowered to talk
+          freely about any problems or concerns they may have with likeminded
+          peers, without fear of judgement, prejudice, or discrimination. We
+          game together, chat, and support one another. It's that simple.
+
+
+          In addition to our depression literacy programme, we also provide
+          access to resources and training developed in the world of performance
+          sport including improving sleep hygiene, creating positive exercise
+          routines, and maintaining a nutritious diet.
+
+
+          In doing so, we are equipping gamers with the tools to manage their
+          own mental health and the ability to spot the signs of distress in
+          others.
+
+
+          Gamers vs Depression is generously supported by men’s health charity
+          Movember. The organisation was founded in 2019 and currently has three
+          members of staff, based in the South-East of England (UK).
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
