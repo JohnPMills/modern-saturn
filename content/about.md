@@ -56,7 +56,7 @@ sections:
         media_position: left
         media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: TEAM
     grid_items:
       - title: Some City
         content: >-
