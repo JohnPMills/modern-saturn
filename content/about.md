@@ -143,6 +143,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    background_image_opacity: 10
 seo:
   title: About
   description: This is the about us page
