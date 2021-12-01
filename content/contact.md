@@ -40,7 +40,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: /help
             style: secondary
             has_icon: true
             icon: arrow-right
