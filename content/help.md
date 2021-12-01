@@ -115,8 +115,8 @@ sections:
     grid_items:
       - title: MOVEMBER
         content: >
-          Movember's website holds a variety of additional information regarding
-          a variety of topics.
+          Movember's website contains links to a range of more specialist mental
+          health service providers.
 
 
           [CLICK HERE](https://uk.movember.com/mens-health/get-support)
