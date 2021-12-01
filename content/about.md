@@ -58,7 +58,7 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: Some City
+      - title: 'JOHN P. MILLS PHD, FHEA, CPSYCHOL'
         content: >
           John achieved his PhD from the University of Birmingham in 2015 and
           works as a University Lecturer alongside his role here. His research
