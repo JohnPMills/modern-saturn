@@ -89,8 +89,6 @@ sections:
       - title: JAPAN
         title_align: left
         content: |
-          JAPAN
-
           \- Tell Lifeline on 03-5774-0992
 
           Websites: https://telljp.com/lifeline
