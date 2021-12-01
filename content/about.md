@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: GAMERS VS. DEPRESSION
         subtitle: ABOUT THE ORGANISATION
         content: >
 
