@@ -70,7 +70,7 @@ sections:
           two sons under five which keep him busy.
         content_align: left
         actions:
-          - label: Get Directions
+          - label: LEARN MORE
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: link
             has_icon: true
