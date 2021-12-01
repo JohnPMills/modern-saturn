@@ -112,6 +112,16 @@
         "secondary_nav_title": "WHAT'S NEW",
         "secondary_nav_links": [
             {
+                "label": "Events",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "News",
                 "url": "/blog/category/news",
                 "style": "link"
@@ -125,16 +135,6 @@
                 "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link"
-            },
-            {
-                "label": "Events",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_tertiary_nav": true,
