@@ -58,7 +58,7 @@ sections:
           ligula, cursus id molestie vel.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Ask a Question
             url: /general-enquiries
             style: primary
             has_icon: true
