@@ -100,7 +100,7 @@ sections:
     has_border: false
     background_color: none
   - type: features_section
-    title: MENTAL HEALTH DISORDERS
+    title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: DEPRESSION
