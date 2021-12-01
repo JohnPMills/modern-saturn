@@ -59,10 +59,15 @@ sections:
     title: TEAM
     grid_items:
       - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          John achieved his PhD from the University of Birmingham in 2015 and
+          works as a University Lecturer alongside his role here. His research
+          focuses on how values, virtues, norms, practices, identities, and
+          psychosocial mechanisms combine to regulate both individual and group
+          behaviour. He is a Fellow of the Higher Education Academy and has
+          twenty years experience of working as a coach, teacher, and now
+          lecturer. Outside of work, John has been married for 13 years and has
+          two sons under five which keep him busy.
         content_align: left
         actions:
           - label: Get Directions
