@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: ABOUT THE ORGANISATION
         content: >
 
           Gamers vs Depression is a global mental health programme that uses
