@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: ABOUT US
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     features:
       - title: ABOUT THE ORGANISATION
