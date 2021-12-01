@@ -38,10 +38,21 @@ sections:
           picture-in-picture" allowfullscreen></iframe>
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          In addition to our depression literacy programme, we also provide
+          access to resources and training developed in the world of performance
+          sport including improving sleep hygiene, creating positive exercise
+          routines, and maintaining a nutritious diet.
+
+
+          In doing so, we are equipping gamers with the tools to manage their
+          own mental health and the ability to spot the signs of distress in
+          others.
+
+
+          Gamers vs Depression is generously supported by men’s health charity
+          Movember. The organisation was founded in 2019 and currently has three
+          members of staff, based in the South-East of England (UK).
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
