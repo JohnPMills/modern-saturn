@@ -13,8 +13,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: ABOUT THE ORGANISATION
-        content: >+
+      - content: >+
           Gamers vs Depression is a global mental health programme that uses
           gaming to teach young men about the importance of mental health,
           self-care, and social connections.
