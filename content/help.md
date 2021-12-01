@@ -3,7 +3,6 @@ title: Get Help
 sections:
   - type: hero_section
     title: GET SUPPORT
-    subtitle: Optional hero section subtitle
     align: center
     padding_top: large
     padding_bottom: small
