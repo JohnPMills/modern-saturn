@@ -51,6 +51,25 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
+      - title: NEW ZEALAND
+        title_align: left
+        content: |
+          \- Lifeline 0800 543 354 (0800 LIFELINE) or free text 4357 (HELP)
+
+          \- Suicide Crisis Helpline 0508 828 865 (0508 TAUTOKO)
+
+          \- Healthline 0800 611 116
+
+          \- Samaritans 0800 726 666
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - title: SOUTH AFRICA
         title_align: left
         content: |
@@ -74,25 +93,6 @@ sections:
           \- Tell Lifeline on 03-5774-0992
 
           Websites: https://telljp.com/lifeline
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: NEW ZEALAND
-        title_align: left
-        content: |
-          \- Lifeline 0800 543 354 (0800 LIFELINE) or free text 4357 (HELP)
-
-          \- Suicide Crisis Helpline 0508 828 865 (0508 TAUTOKO)
-
-          \- Healthline 0800 611 116
-
-          \- Samaritans 0800 726 666
         content_align: left
         actions: []
         actions_align: left
