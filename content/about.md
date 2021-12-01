@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: GAMERS VS. DEPRESSION
+      - title: ABOUT THE ORGANISATION
         content: >
 
           Gamers vs Depression is a global mental health programme that uses
