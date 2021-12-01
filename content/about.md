@@ -9,8 +9,7 @@ sections:
   - type: features_section
     features:
       - title: ABOUT THE ORGANISATION
-        content: >
-
+        content: >+
           Gamers vs Depression is a global mental health programme that uses
           gaming to teach young men about the importance of mental health,
           self-care, and social connections.
@@ -28,21 +27,6 @@ sections:
           peers, without fear of judgement, prejudice, or discrimination. We
           game together, chat, and support one another. It's that simple.
 
-
-          In addition to our depression literacy programme, we also provide
-          access to resources and training developed in the world of performance
-          sport including improving sleep hygiene, creating positive exercise
-          routines, and maintaining a nutritious diet.
-
-
-          In doing so, we are equipping gamers with the tools to manage their
-          own mental health and the ability to spot the signs of distress in
-          others.
-
-
-          Gamers vs Depression is generously supported by men’s health charity
-          Movember. The organisation was founded in 2019 and currently has three
-          members of staff, based in the South-East of England (UK).
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
