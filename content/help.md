@@ -84,7 +84,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: NEW ZEALAND
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
