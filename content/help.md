@@ -29,25 +29,27 @@ sections:
         actions_width: full-width
       - title: AUSTRALIA
         title_align: left
-        content: >+
-          \- Lifeline 13 11 14
+        content: >
+          *   Emergency services on 000
 
 
-          \- Beyond Blue 1300 22 4636
+          *   Lifeline 13 11 14
 
 
-          \- Suicide callback service 1300 659 467
+          *   Beyond Blue 1300 22 4636
 
 
-          \- The MindSpot Clinic 1800 61 44 34
+          *   Suicide callback service 1300 659 467
 
 
-          \- Kids Helpline 1800 55 1800
+          *   The MindSpot Clinic 1800 61 44 34
+
+
+          *   Kids Helpline 1800 55 1800
 
 
           Free, private and confidential 24/7 phone and online counselling
           service for young people aged 5 to 25
-
         content_align: left
         actions: []
         actions_align: left
