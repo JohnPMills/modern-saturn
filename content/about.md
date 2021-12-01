@@ -137,7 +137,7 @@ sections:
     actions:
       - label: DISCORD
         url: /pricing
-        style: primary
+        style: secondary
     align: center
     padding_top: medium
     padding_bottom: medium
