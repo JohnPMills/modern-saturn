@@ -152,7 +152,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
     background_image_opacity: 5
     background_image_size: cover
     background_image_repeat: no-repeat
