@@ -114,10 +114,12 @@ sections:
     title: OTHER SOURCES OF INFORMATION
     grid_items:
       - title: MOVEMBER
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Movember's website holds a variety of additional information regarding
+          a variety of topics. 
+
+
+          <https://uk.movember.com/mens-health/get-support>
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_position: right
       - title: Sagittis vitae et leo duis ut diam?
