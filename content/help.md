@@ -29,7 +29,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: AUSTRALIA & NEW ZEALAND
-        subtitle: Optional subtitle
         title_align: left
         content: >+
           #### AUSTRALIA
