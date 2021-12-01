@@ -118,6 +118,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        image: images/Screenshot 2021-12-01 at 11.18.53.png
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
