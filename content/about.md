@@ -78,7 +78,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Some City
+      - title: SAM WILLIAMS
         content: >
           Sam is an avid gamer, currently playing Rainbow Six Siege
           semi-professionally for JLINGZ Esports. He also studied Sport and
