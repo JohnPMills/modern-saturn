@@ -79,6 +79,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
+    background_image_opacity: 10
 seo:
   title: Contact
   description: This is the contact page
