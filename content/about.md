@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: ABOUT US
+    title: ABOUT GVD
     align: center
     background_color: none
     background_image: >-
