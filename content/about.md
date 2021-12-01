@@ -98,7 +98,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Some City
+      - title: LEE CUMBERS
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
           level Rocket League with his friends. He has also amassed over 1.5
