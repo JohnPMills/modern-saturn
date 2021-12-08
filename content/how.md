@@ -88,7 +88,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    title: Ready to level up your mental health?
+    title: READY TO LEVEL UP YOUR MENTAL HEALTH?
 seo:
   title: Features
   description: This is the features page
