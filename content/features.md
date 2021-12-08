@@ -2,7 +2,7 @@
 title: Learn
 sections:
   - type: hero_section
-    title: LEARN
+    title: Improving Men's Mental Health Literacy
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
