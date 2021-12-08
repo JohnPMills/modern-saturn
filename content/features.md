@@ -7,7 +7,6 @@ sections:
   - type: features_section
     features:
       - title: Level Up Your Mental Health Literacy
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Level Up is our free, online, interactive mental health literacy
           training programme, built for gamers, by gamers.
