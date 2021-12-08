@@ -7,7 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Our Mission
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           At GvD, we strive to use gaming and esports as a vehicle to deliver
