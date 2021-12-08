@@ -45,7 +45,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: The GvD community
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >
           This is a place where gamers can feel empowered to talk freely about
           any problems or concerns they make have with likeminded peers, without
