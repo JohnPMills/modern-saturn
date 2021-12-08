@@ -50,7 +50,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Reviews Section
+    title: Hear from our Champions
     subtitle: Grid Section Example
     grid_items:
       - content: >-
