@@ -44,7 +44,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: Section Title Three
+      - title: The GvD community
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >
           This is a place where gamers can feel empowered to talk freely about
