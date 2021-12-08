@@ -6,7 +6,7 @@ sections:
     subtitle: Features Page Demo
     background_color: none
     background_image: images/men-playing-video-games.jpg
-    background_image_opacity: 20
+    background_image_opacity: 15
   - type: features_section
     features:
       - title: Our Mission
