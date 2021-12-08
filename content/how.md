@@ -79,7 +79,7 @@ sections:
   - type: cta_section
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: JOIN NOW
         url: /pricing
         style: primary
     actions_position: right
