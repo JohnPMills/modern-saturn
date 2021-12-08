@@ -5,7 +5,6 @@ sections:
     title: HOW GVD WORKS
     subtitle: Features Page Demo
     background_color: primary
-    image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
   - type: features_section
     features:
       - title: Our Mission
