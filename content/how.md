@@ -44,7 +44,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: The GvD community
+      - title: The GvD Community
         content: >
           This is a place where gamers can feel empowered to talk freely about
           any problems or concerns they make have with likeminded peers, without
