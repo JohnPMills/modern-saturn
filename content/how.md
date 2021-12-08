@@ -29,14 +29,13 @@ sections:
         media_width: fifty
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >+
-          **What’s in our inventory?: **We provide classroom taught and online
-          Mental Health Literacy programmes, consisting of interactive and
-          engaging content. Additionally, we supply resources and training
-          designed to improve gaming performance as well as promoting positive
-          mental health. Covering aspects such as exercise routines, diet and
-          other useful guides to boost your stats and upgrade your wellbeing.
-
+        content: >
+          We provide online and classroom based Mental Health Literacy
+          programmes, consisting of interactive and engaging content.
+          Additionally, we supply resources and training designed to improve
+          gaming performance as well as promoting positive mental health.
+          Covering aspects such as exercise routines, diet and other useful
+          guides to boost your stats and upgrade your wellbeing.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
