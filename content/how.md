@@ -21,7 +21,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: What’s in our Inventory?
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           We provide online and classroom based Mental Health Literacy
           programmes, consisting of interactive and engaging content.
