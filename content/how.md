@@ -8,7 +8,6 @@ sections:
   - type: features_section
     features:
       - title: Our Mission
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           At GvD, we strive to use gaming and esports as a vehicle to deliver
           Mental Health Literacy (MHL) programmes to young men around the World
