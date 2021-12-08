@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: HOW GVD WORKS
     subtitle: Features Page Demo
-    background_color: primary
+    background_color: none
     background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
     background_image_opacity: 10
   - type: features_section
