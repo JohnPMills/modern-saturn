@@ -51,7 +51,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Hear from our Champions
-    subtitle: Grid Section Example
+    subtitle: Don't take our word for it
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
