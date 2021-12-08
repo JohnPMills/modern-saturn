@@ -77,7 +77,6 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: JOIN NOW
         url: /pricing
