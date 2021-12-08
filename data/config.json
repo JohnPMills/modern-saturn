@@ -46,7 +46,8 @@
             {
                 "label": "Donate",
                 "url": "https://donorbox.org/gamers-vs-depression",
-                "style": "secondary"
+                "style": "secondary",
+                "no_follow": true
             }
         ],
         "has_anncmnt": true,
