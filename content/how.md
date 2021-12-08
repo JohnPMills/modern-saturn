@@ -46,10 +46,13 @@ sections:
         media_width: fifty
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          This is a place where gamers can feel empowered to talk freely about
+          any problems or concerns they make have with likeminded peers, without
+          any fear of judgement, prejudice, or discrimination. We game together,
+          and support each other on and off the virtual field of play, it’s that
+          simple! Check out our Community page and join our Discord server for
+          more information!
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
