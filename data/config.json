@@ -21,7 +21,7 @@
                 "style": "link"
             },
             {
-                "label": "Learn",
+                "label": "Level Up Your Mental Health",
                 "url": "/features",
                 "style": "link"
             },
@@ -47,8 +47,7 @@
                 "label": "Donate",
                 "url": "https://donorbox.org/gamers-vs-depression",
                 "style": "secondary",
-                "no_follow": true,
-                "new_window": true
+                "no_follow": true
             }
         ],
         "has_anncmnt": true,
