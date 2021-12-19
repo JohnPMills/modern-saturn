@@ -95,7 +95,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    background_image_opacity: 5
+    background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image: >-
