@@ -22,7 +22,7 @@ sections:
         actions:
           - label: Get In Touch
             url: /general-enquiries
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: right
