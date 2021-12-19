@@ -93,7 +93,7 @@
                 "no_follow": false
             },
             {
-                "label": "General",
+                "label": "News",
                 "url": "/blog/category/general",
                 "style": "link"
             }
