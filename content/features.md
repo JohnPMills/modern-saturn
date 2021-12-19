@@ -159,7 +159,7 @@ sections:
   - type: cta_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: Compare Plans
+      - label: JOIN NOW
         url: /pricing
         style: primary
     actions_position: right
