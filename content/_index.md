@@ -99,7 +99,8 @@ sections:
     background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image: images/modern-gamepads.jpg
+    background_image: >-
+      images/upset-professional-woman-gamer-wearing-headset-losing-space-shooter-game-cybersport-competition-tired-pro-cyber-player-gaming-online-video-games-powerful-personal-computer-with-rgb-lights.jpg
   - type: cta_section
     title: WANT A GAME?
     content: >
