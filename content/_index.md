@@ -21,6 +21,50 @@ sections:
     background_image: images/e-sport-arena.jpg
     background_image_repeat: no-repeat
     background_image_opacity: 5
+  - type: features_section
+    title: MEN'S MENTAL HEALTH
+    subtitle: ENHANCE YOUR UNDERSTANDING OF
+    features:
+      - title: LIFE CAN THROW UP CURVEBALLS
+        content: >
+          There is no denying that life can be tough. We're all in this journey
+          together and there is a lot more we can often do to look after
+          ourselves and the people we care about. At GVD, we provide a platform
+          for gamers experiencing tough times or who'd like to support those who
+          are to come together and support each other. 
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-1.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
+      - title: WE'RE ALL PART OF THE SAME TEAM
+        content: |
+          DISCUSS THE IMPORTANCE OF SOCIAL CONNECTIONS
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-2.png
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: none
+    background_image_opacity: 5
+    background_image_size: cover
+    background_image_repeat: no-repeat
+    background_image: >-
+      images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
   - type: grid_section
     title: EVENTS
     subtitle: TAKE PART IN ONE OF OUR
@@ -99,50 +143,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: features_section
-    title: MEN'S MENTAL HEALTH
-    subtitle: ENHANCE YOUR UNDERSTANDING OF
-    features:
-      - title: LIFE CAN THROW UP CURVEBALLS
-        content: >
-          There is no denying that life can be tough. We're all in this journey
-          together and there is a lot more we can often do to look after
-          ourselves and the people we care about. At GVD, we provide a platform
-          for gamers experiencing tough times or who'd like to support those who
-          are to come together and support each other. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-      - title: WE'RE ALL PART OF THE SAME TEAM
-        content: |
-          DISCUSS THE IMPORTANCE OF SOCIAL CONNECTIONS
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: none
-    background_image_opacity: 5
-    background_image_size: cover
-    background_image_repeat: no-repeat
-    background_image: >-
-      images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
   - type: cta_section
     title: GET SUPPORT
     content: "If you're ever worried that someone's life is in immediate danger, call 999 or go directly to the emergency services.\n\nTo speak with someone immediately, contact\_[NHS 111](https://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergency-care/nhs-111/)\_on 111 or contact\_[Samaritans](http://www.samaritans.org/how-we-can-help-you/contact-us)\_on 116 123.\n"
