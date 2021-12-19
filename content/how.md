@@ -83,7 +83,7 @@ sections:
       - label: JOIN NOW
         url: /pricing
         style: primary
-    actions_position: right
+    actions_position: bottom
     align: center
     padding_top: medium
     padding_bottom: medium
