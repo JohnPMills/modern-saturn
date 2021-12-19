@@ -144,8 +144,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image: >-
-      images/young-professional-gamer-playing-tournaments-online-video-games-computer-with-headphones-his-room.jpg
     background_image_opacity: 10
   - type: cta_section
     title: GET SUPPORT
