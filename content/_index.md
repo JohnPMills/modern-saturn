@@ -6,7 +6,7 @@ sections:
     actions:
       - label: JOIN NOW
         url: /pricing
-        style: secondary
+        style: link
       - label: TELL ME MORE
         url: /features
         style: secondary
