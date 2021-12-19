@@ -60,7 +60,7 @@ sections:
         actions:
           - label: Ask a Question
             url: /general-enquiries
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
