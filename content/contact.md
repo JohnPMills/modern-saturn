@@ -61,7 +61,7 @@ sections:
           - label: Ask a Question
             url: /general-enquiries
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         actions_align: center
