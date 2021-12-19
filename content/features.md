@@ -157,7 +157,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: JOIN NOW
+    title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
