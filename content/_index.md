@@ -152,7 +152,7 @@ sections:
     actions:
       - label: OUTSIDE OF THE UK
         url: /help
-        style: primary
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
