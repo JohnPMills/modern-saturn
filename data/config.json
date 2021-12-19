@@ -84,7 +84,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Login",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
