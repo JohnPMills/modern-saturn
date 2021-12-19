@@ -158,7 +158,7 @@ sections:
     background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image: images/796.jpg
+    background_image: images/19725.jpg
 seo:
   title: Gamers vs. Depression
   description: Game Changing Mental Health
