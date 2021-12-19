@@ -20,7 +20,7 @@ sections:
     background_image_size: cover
     background_image: images/e-sport-arena.jpg
     background_image_repeat: no-repeat
-    background_image_opacity: 5
+    background_image_opacity: 10
   - type: features_section
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
