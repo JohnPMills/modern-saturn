@@ -154,7 +154,7 @@ sections:
     actions:
       - label: MENTAL HEALTH HELPLINES
         url: /help
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
