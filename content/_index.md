@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: GAME CHANGING MENTAL HEALTH?
+    title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: JOIN NOW
         url: /pricing
