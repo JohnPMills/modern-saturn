@@ -84,7 +84,7 @@ sections:
         url: /pricing
         style: primary
     actions_position: right
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
