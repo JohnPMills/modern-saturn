@@ -39,12 +39,6 @@
                 "style": "link"
             },
             {
-                "label": "DONATE",
-                "url": "https://donorbox.org/gamers-vs-depression",
-                "style": "primary",
-                "no_follow": true
-            },
-            {
                 "label": "Login",
                 "url": "#",
                 "style": "link",
@@ -53,6 +47,12 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "DONATE",
+                "url": "https://donorbox.org/gamers-vs-depression",
+                "style": "primary",
+                "no_follow": true
             }
         ],
         "has_anncmnt": true,
