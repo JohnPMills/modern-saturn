@@ -82,7 +82,7 @@ sections:
     actions:
       - label: JOIN NOW
         url: /pricing
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: medium
