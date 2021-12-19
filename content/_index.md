@@ -59,7 +59,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: primary
     background_image_opacity: 5
     background_image_size: cover
     background_image_repeat: no-repeat
