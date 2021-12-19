@@ -155,7 +155,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image_opacity: 20
+    background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
     background_image: images/5163335.jpg
