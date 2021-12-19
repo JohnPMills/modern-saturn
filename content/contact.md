@@ -55,9 +55,8 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          If you need to get in touch with us about anything else.
         content_align: center
         actions:
           - label: Ask a Question
