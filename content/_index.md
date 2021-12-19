@@ -57,7 +57,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: cta_section
-    title: WANT TO CHAT?
+    title: WANT A GAME?
     content: >
       We know depression can make you feel isolated. It can be helpful to chat
       with with other people who understand what it's like.  At Gamers vs.
