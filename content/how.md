@@ -90,6 +90,8 @@ sections:
     has_border: false
     background_color: none
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
+    background_image: >-
+      images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
 seo:
   title: Features
   description: This is the features page
