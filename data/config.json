@@ -93,11 +93,6 @@
                 "no_follow": false
             },
             {
-                "label": "News",
-                "url": "/blog/category/news",
-                "style": "link"
-            },
-            {
                 "label": "General",
                 "url": "/blog/category/general",
                 "style": "link"
