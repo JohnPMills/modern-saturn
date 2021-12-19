@@ -149,7 +149,15 @@ sections:
   - type: cta_section
     title: GET SUPPORT
     content: "If you're ever worried that someone's life is in immediate danger, call 999 or go directly to the emergency services.\n\nTo speak with someone immediately, contact\_[NHS 111](https://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergency-care/nhs-111/)\_on 111 or contact\_[Samaritans](http://www.samaritans.org/how-we-can-help-you/contact-us)\_on 116 123.\n"
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     align: left
     padding_top: large
