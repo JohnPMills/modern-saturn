@@ -17,9 +17,9 @@ sections:
     grid_items:
       - title: Partnering and Sponsorships
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: >
+          If you'd like to partner, support, or sponsor an event, please get in
+          touch.
         content_align: center
         actions:
           - label: Get In Touch
