@@ -7,7 +7,7 @@ sections:
       - label: JOIN NOW
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: TELL ME MORE
         url: /features
         style: primary
     image_alt: Hero section placeholder image
