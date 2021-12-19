@@ -152,7 +152,7 @@ sections:
       If you're ever worried that someone's life is in immediate danger, call
       999 or go directly to the emergency services in your country.
     actions:
-      - label: GET SUPPORT
+      - label: MENTAL HEALTH HELPLINES
         url: /help
         style: secondary
         has_icon: false
