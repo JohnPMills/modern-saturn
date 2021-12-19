@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Training",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Events",
                 "url": "/pricing",
                 "style": "link"
