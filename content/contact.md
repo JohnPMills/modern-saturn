@@ -41,7 +41,7 @@ sections:
         actions:
           - label: Get Support
             url: /help
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
