@@ -152,7 +152,7 @@ sections:
       If you're ever worried that someone's life is in immediate danger, call
       999 or go directly to the emergency services in your country.
     actions:
-      - label: OUTSIDE OF THE UK? CLICK HERE
+      - label: EMERGENCY SERVICES
         url: /help
         style: link
         has_icon: false
