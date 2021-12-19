@@ -12,6 +12,7 @@ sections:
     has_border: true
     background_color: none
     background_image: images/5163335.jpg
+    background_image_opacity: 10
   - type: grid_section
     grid_items:
       - title: Partnering and Sponsorships
