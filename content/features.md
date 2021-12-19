@@ -161,7 +161,7 @@ sections:
     actions:
       - label: JOIN NOW
         url: /pricing
-        style: primary
+        style: secondary
     actions_position: right
     align: left
     padding_top: medium
