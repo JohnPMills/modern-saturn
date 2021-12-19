@@ -168,6 +168,8 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    background_image: >-
+      images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
 seo:
   title: Features
   description: This is the features page
