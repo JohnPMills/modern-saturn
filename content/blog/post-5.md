@@ -12,9 +12,9 @@ tags:
   - data/tags/stackbit.json
   - data/tags/netlify.json
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Obtaining healthy sleep is important for both physical and mental health,
+  improving productivity and overall quality of life. Everyone can benefit from
+  better sleep, and sleep hygiene can play a key part in achieving that goal. 
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
