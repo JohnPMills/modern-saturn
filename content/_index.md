@@ -34,7 +34,7 @@ sections:
           are to come together and support each other. 
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /how
             style: primary
             has_icon: true
             icon: arrow-right
