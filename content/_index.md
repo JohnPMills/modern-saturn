@@ -5,7 +5,7 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: JOIN NOW
-        url: /pricing
+        url: 'https://discord.com/invite/X7QysZ287U'
         style: secondary
       - label: TELL ME MORE
         url: /how
