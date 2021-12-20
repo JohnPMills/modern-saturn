@@ -2,7 +2,7 @@
 title: John Mills
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: John Mills
     subtitle: The optional subtitle
     align: center
     padding_top: medium
