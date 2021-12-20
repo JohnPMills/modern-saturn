@@ -53,7 +53,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
+      - title: CSR and Outreach
         title_align: center
         content: |
           If you need to get in touch with us about anything else.
