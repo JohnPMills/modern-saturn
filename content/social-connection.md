@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Social Connection
 sections: []
 seo:
   title: ''
