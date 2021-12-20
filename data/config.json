@@ -177,7 +177,19 @@
             }
         ],
         "content": "&copy; Gamers vs. Depression. All rights reserved.  ",
-        "logo": "images/large_1.png"
+        "logo": "images/large_1.png",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://modern-saturn-62174.netlify.app"
 }
