@@ -134,7 +134,7 @@
             {
                 "label": "DONATE",
                 "url": "#",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
