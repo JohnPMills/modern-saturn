@@ -47,7 +47,7 @@ sections:
         content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
           - label: Learn More
-            url: //social-connection
+            url: /social-connection
             style: primary
             has_icon: true
             icon: arrow-right
