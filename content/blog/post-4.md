@@ -1,6 +1,6 @@
 ---
 title: EAT
-date: '2021-12-30'
+date: '2021-12-24'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/news.json
