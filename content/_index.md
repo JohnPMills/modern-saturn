@@ -25,7 +25,7 @@ sections:
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: HERE WHEN LIFE GLITCHES
+      - title: LIFE GLITCHES
         content: >
           There is no denying that life can be tough. We're all in this journey
           together and there is a lot more we can often do to look after
