@@ -50,14 +50,15 @@
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             },
             {
                 "label": "DONATE",
                 "url": "https://donorbox.org/gamers-vs-depression",
                 "style": "primary",
-                "no_follow": true
+                "no_follow": true,
+                "new_window": true
             }
         ],
         "has_anncmnt": true,

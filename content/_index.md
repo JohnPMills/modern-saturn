@@ -5,8 +5,10 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: JOIN NOW
-        url: /pricing
+        url: 'https://discord.com/invite/X7QysZ287U'
         style: secondary
+        new_window: true
+        no_follow: true
       - label: TELL ME MORE
         url: /how
         style: secondary
@@ -34,7 +36,7 @@ sections:
           are to come together and support each other. 
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /how
             style: primary
             has_icon: true
             icon: arrow-right
@@ -44,10 +46,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: WE'RE ALL PART OF THE SAME TEAM
-        content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ [Read More](/social-connection).\n"
+        content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /social-connection
             style: primary
             has_icon: true
             icon: arrow-right
