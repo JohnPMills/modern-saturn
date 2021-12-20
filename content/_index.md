@@ -8,6 +8,7 @@ sections:
         url: 'https://discord.com/invite/X7QysZ287U'
         style: secondary
         new_window: true
+        no_follow: true
       - label: TELL ME MORE
         url: /how
         style: secondary
