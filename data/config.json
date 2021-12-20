@@ -128,7 +128,7 @@
             },
             {
                 "label": "Get Support",
-                "url": "#",
+                "url": "/help",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
