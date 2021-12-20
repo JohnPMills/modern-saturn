@@ -53,7 +53,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Corporate Social Responsibilty
+      - title: Outreach
         title_align: center
         content: >
           If you'd like to get involved through a corporate social
