@@ -6,7 +6,6 @@ subtitle: >-
 date: '2021-12-02'
 author: data/team/gustav-purpleson.json
 categories:
-  - data/categories/tutorials.json
   - data/categories/general.json
 tags:
   - data/tags/stackbit.json
