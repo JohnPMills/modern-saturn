@@ -1,5 +1,5 @@
 ---
-title: Give Support
+title: Social Connection
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
