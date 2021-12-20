@@ -122,11 +122,6 @@
         "tertiary_nav_title": "MISCELLANEOUS",
         "tertiary_nav_links": [
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            },
-            {
                 "label": "Get Support",
                 "url": "/help",
                 "style": "link",
