@@ -8,7 +8,7 @@ sections:
         url: /pricing
         style: secondary
       - label: TELL ME MORE
-        url: /features
+        url: /how
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left

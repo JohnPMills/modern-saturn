@@ -101,6 +101,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        image: images/Screenshot 2021-12-20 at 21.01.42.png
       - title: LEE CUMBERS
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
