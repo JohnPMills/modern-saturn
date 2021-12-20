@@ -132,7 +132,7 @@
                 "no_follow": false
             },
             {
-                "label": "DONATE",
+                "label": "Donate",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
