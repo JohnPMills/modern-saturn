@@ -55,8 +55,9 @@ sections:
         image_has_padding: true
       - title: CSR and Outreach
         title_align: center
-        content: |
-          If you need to get in touch with us about anything else.
+        content: >
+          If you'd like to get involved through a corporate social
+          responsibility scheme, please get in touch.
         content_align: center
         actions:
           - label: Ask a Question
