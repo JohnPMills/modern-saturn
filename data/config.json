@@ -180,7 +180,7 @@
         "logo": "images/large_1.png",
         "links": [
             {
-                "label": "Privacy Policy",
+                "label": "Learn more about our Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": false,
