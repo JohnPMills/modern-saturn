@@ -15,7 +15,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
+      - title: Champions and Sponsors
         title_align: center
         content: >
           If you'd like to partner, support, or sponsor an event, please get in
