@@ -56,8 +56,8 @@ sections:
       - title: Outreach
         title_align: center
         content: >
-          If you'd like to get involved through a corporate social
-          responsibility scheme, please get in touch.
+          If you'd like us to give a talk in your school, sports club or
+          workplace, please get in touch.
         content_align: center
         actions:
           - label: Ask a Question
