@@ -21,15 +21,13 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-# Privacy Policy
-
 We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data you provide to us, including any information you provide to us when you visit our website www.gvd.gg or www.gamersvsdepression.org or www.gamersvsdepression.com (referred to collectively in this privacy policy as the “website”). Regardless of where you visit it from, if you sign up to attend one of our training programmes, provide us with feedback or if we interact with you via a social media platform. This privacy policy will also tell you about your privacy rights and how the law protects you.
 
 # 1. Important information about who we are
 
 Purpose of this privacy policy.
 
-Gamers vs. Depression is an operating name of That Awfully Good Community Interest Company, which is a registered non-profit organisation in the UK. Companies House Reference 12894917. 
+Gamers vs. Depression is an operating name of That Awfully Good Community Interest Company, which is a registered non-profit organisation in the UK. Companies House Reference 12894917.
 
 This privacy policy gives you information on how That Awfully Good Community Interest Company collects and processes your personal data:
 
@@ -77,7 +75,7 @@ Where it is necessary for our legitimate interests (or those of a third party) a
 
 ###### ***Cookies***
 
-You can change your cookie preferences at any time by clicking on the Manage Your Consent icon. You can also set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. 
+You can change your cookie preferences at any time by clicking on the Manage Your Consent icon. You can also set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
 
 ###### ***Change of purpose***
 
