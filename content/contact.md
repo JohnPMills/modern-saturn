@@ -15,7 +15,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
+      - title: Champions and Sponsors
         title_align: center
         content: >
           If you'd like to partner, support, or sponsor an event, please get in
@@ -53,10 +53,11 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
+      - title: Outreach
         title_align: center
-        content: |
-          If you need to get in touch with us about anything else.
+        content: >
+          If you'd like us to give a talk in your school, sports club or
+          workplace, please get in touch.
         content_align: center
         actions:
           - label: Ask a Question

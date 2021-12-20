@@ -1,19 +1,19 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: SLEEEEEP
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
-date: '2020-06-02'
+date: '2021-12-02'
 author: data/team/gustav-purpleson.json
 categories:
-  - data/categories/tutorials.json
+  - data/categories/general.json
 tags:
   - data/tags/stackbit.json
   - data/tags/netlify.json
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Obtaining healthy sleep is important for both physical and mental health,
+  improving productivity and overall quality of life. Everyone can benefit from
+  better sleep, and sleep hygiene can play a key part in achieving that goal. 
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
@@ -47,9 +47,40 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Obtaining healthy sleep is important for both physical and mental health, improving productivity and overall quality of life. Everyone can benefit from better sleep, and sleep hygiene can play a key part in achieving that goal. This is especially important as sleep is closely connected to mental health and has demonstrated links to depression and other mental health conditions. Previously, sleeping problems were seen as a result of depression, but growing evidence suggests that poor sleep may be a cause of depression.
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+So! Sleep hygiene is crucial in improving mental health and it can be achieved by following a few rules:
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+*   Avoid exposure to blue light before bed - blue light, in the form of screens, disrupts sleep by lowering melatonin levels. Normally, melatonin levels begin to rise in the mid- to late evening, remain high for most of the night, and then drop in the early morning hours. However, blue light from phones, tablets, computer screens or TV can boost alertness and alter our circadian rhythm (or internal clock) by fooling the brain into thinking that it’s still daytime. Cut down your exposure to unnatural light an hour before bed and no screen time 30 minutes before bed.
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+*   Alcohol - Perhaps the most misunderstood drug when it comes to sleep. Alcohol is part of the sedative family of drugs. The old wives tale of a 'night cap' does not work to put you to sleep but sedates you. It knocks your brain out and stops natural sleep. This is different to normal sleep as the body struggles to work through it's typical sleep cycles. You spend less time in a deep sleep and more time in less restful REM stages of sleep. Leaving you feeling tired the next day regardless of the time you have spent in bed.
+
+*   Caffeine - Caffeine has a 6 hour half-life - you may be unaware of the effect. It has a similar effect to alcohol in causing you to spend less time in a deep sleep and more time in less restful REM stages of sleep. So, two or three doses of coffee even 6 hours before bedtime could cost you upto to an hour’s sleep. It is important to note caffeine does not just come in the form of coffee or traditional black tea. It can be found in energy drinks (Monster and Red Bull) and green tea. Look to decaffeinated options and try to avoid caffeine after midday. 
+
+*   Set Your Sleep Schedule
+
+*   This means having a fixed wake-up time regardless of the day whether it's weekday or weekend.
+
+*   Prioritise sleep! 
+
+*   It may seem tempting to game for hours into the night and into early morning but it is vital that you treat sleep as a priority. If you calculate a target bedtime based on your fixed wake-up time, ensure you are ready for bed by that time. For example, if you want to wake up at 8AM and want 8 hours of sleep, make sure you are in bed by 12PM without having looked at a screen (TV,Monitor,Phone) for at least 30 minutes as the blue light emitted from the screen causes poor sleep. 
+
+*   Don’t Toss and Turn:
+
+*   It helps to have a connection between being in bed and being asleep. Therefore, if after 20 minutes and you haven’t gotten to sleep yet, try getting up and stretching or reading or anything calming in low light before trying to sleep again. However, try to not use a screen to do this.
+
+*   Incorporating Positive Routines during the day
+
+*   Get Daylight Exposure
+
+*   Be Physically Active
+
+*   Dont Smoke
+
+*   Reduce Alcohol consumption
+
+*   Reduce Caffeine consumption especially in the afternoon and evening
+
+*   Don't eat too late
+
+If you can follow the majority of these rules, usually your sleep will become deeper and more refreshing, however it isn't the same for everyone, so try and find what works for you and if you have long-lasting or severe sleeping problems or daytime sleepiness, it’s best to talk with a doctor who can recommend the most appropriate course of treatment.

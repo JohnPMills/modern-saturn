@@ -61,11 +61,11 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Our website uses cookies to optimise your browsing experience. [**Learn More**](/privacy-policy) more in our privacy policy.\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features",
+        "anncmnt_id": "privacy",
         "logo": "images/small.png"
     },
     "footer": {
@@ -119,17 +119,37 @@
             }
         ],
         "has_tertiary_nav": true,
-        "tertiary_nav_title": "LEGAL",
+        "tertiary_nav_title": "SUPPORT",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
+                "label": "Get Support",
+                "url": "/help",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
+                "label": "Donate",
+                "url": "https://donorbox.org/gamers-vs-depression",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Give Support",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_social": true,
@@ -172,7 +192,19 @@
             }
         ],
         "content": "&copy; Gamers vs. Depression. All rights reserved.  ",
-        "logo": "images/large_1.png"
+        "logo": "images/large_1.png",
+        "links": [
+            {
+                "label": "Learn more about our Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://modern-saturn-62174.netlify.app"
 }

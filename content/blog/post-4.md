@@ -1,20 +1,17 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
-date: '2020-05-30'
+title: EAT
+date: '2021-12-14'
 author: data/team/dianne-ameter.json
 categories:
-  - data/categories/tutorials.json
   - data/categories/news.json
+  - data/categories/general.json
 tags:
   - data/tags/jamstack.json
   - data/tags/sourcebit.json
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  In recent research there has been emerging links between diet and good quality
+  nutrition and mental health status. Studies have shown that diet is one of
+  many different pieces in the prevention of poor mental health
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
@@ -48,12 +45,24 @@ seo:
       relativeUrl: true
 layout: post
 ---
+In recent research there has been emerging links between diet and good quality nutrition and mental health status. Studies have shown that diet is one of many different pieces in the prevention of poor mental health and the promotion of positive mental health. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+You can help improve your mental health by ensuring that you get a healthy balanced diet as deficiencies in micronutrients have implicated a significant number of mental health problems. For example, by consuming green leafy vegetables like kale and spinach you consume folic acid, which a deficiency in has been shown to cause anxiety, depression and psychosis.
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+We know that energy drinks like Monster and Red Bull are especially prominent within the gaming community however in recent studies and reports published by the World Health Organisation, there are serious health risks that are a consequence of energy drink consumption. 
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+Potential risks associated with energy drink consumption include:
+
+*   Caffeine (which can lead to a number of symptoms, including palpitations, high blood pressure, nausea and vomiting, convulsions and, in some cases, even death)
+
+*   Type 2 diabetes – as high consumption of caffeine reduces insulin sensitivity
+
+*   Neurological and cardiovascular system effects in children and adolescents
+
+*   Sensation-seeking behaviour
+
+*   Use and dependence on other harmful substances
+
+*   Poor dental health
+
+*   Obesity (Combined with the sedentary nature of gaming is an even bigger risk)
