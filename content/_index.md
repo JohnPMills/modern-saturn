@@ -7,6 +7,7 @@ sections:
       - label: JOIN NOW
         url: 'https://discord.com/invite/X7QysZ287U'
         style: secondary
+        new_window: true
       - label: TELL ME MORE
         url: /how
         style: secondary
