@@ -1,5 +1,5 @@
 ---
-title: Gustav Purpleson
+title: John Mills
 sections:
   - type: hero_section
     title: Gustav Purpleson
