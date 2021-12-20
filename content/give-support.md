@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Give Support
 sections: []
 seo:
   title: ''
