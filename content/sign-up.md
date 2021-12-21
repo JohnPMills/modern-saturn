@@ -69,7 +69,7 @@ sections:
         default_value: Select from the drop down menu
         options:
           - 'Yes, me.'
-          - lorem-ipsum
+          - 'Yes, other.'
         is_required: false
       - input_type: checkbox
         name: consent
