@@ -76,7 +76,7 @@ sections:
         label: Age
         default_value: Add your age here
         options: []
-        is_required: false
+        is_required: true
     submit_label: Send Message
     align_vert: top
     padding_top: medium
