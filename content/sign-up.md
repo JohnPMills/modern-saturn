@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: sign-up
 sections:
   - type: hero_section
     subtitle: The optional subtitle
