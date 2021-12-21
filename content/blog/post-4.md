@@ -3,7 +3,6 @@ title: EAT
 date: '2021-12-14'
 author: data/team/dianne-ameter.json
 categories:
-  - data/categories/news.json
   - data/categories/general.json
 tags:
   - data/tags/jamstack.json
