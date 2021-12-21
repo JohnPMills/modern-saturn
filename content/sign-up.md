@@ -66,7 +66,7 @@ sections:
       - input_type: select
         name: MH
         label: Experience of Mental Health Disorders
-        default_value: lorem-ipsum
+        default_value: Select from the drop down menu
         options: []
         is_required: false
       - input_type: checkbox
