@@ -22,7 +22,7 @@ sections:
     background_image: images/3156605.jpg
     subtitle: >-
       Gamers vs. Depression is a global mental health project that uses gaming
-      to teach young men about their mental health.
+      to teach young men about mental health.
   - type: features_section
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
