@@ -12,7 +12,7 @@ excerpt: >-
   many different pieces in the prevention of poor mental health
 thumb_image: images/food copy.jpg
 thumb_image_alt: Post 4 placeholder image
-image: images/classic/post-4.png
+image: images/food copy.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
