@@ -1,6 +1,8 @@
 ---
 title: MOVEMBER
-subtitle: 'Gamers vs. Depression Selected as Movember '
+subtitle: >-
+  Gamers vs. Depression selected from hundreds of proposals to be supported by
+  Movember.
 date: '2020-05-28'
 author: data/team/gustav-purpleson.json
 categories:
