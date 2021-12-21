@@ -2,7 +2,7 @@
 title: News
 sections:
   - type: hero_section
-    title: News
+    title: UPDATES
     align: center
     padding_top: medium
     padding_bottom: none
