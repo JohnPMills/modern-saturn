@@ -60,7 +60,7 @@ sections:
         options: []
         is_required: true
       - input_type: textarea
-        name: Is Englis
+        name: Games
         label: Top Three Games of All Time
         default_value: Add your games here
       - input_type: checkbox
