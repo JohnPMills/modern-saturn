@@ -59,14 +59,6 @@ sections:
         default_value: Add your age here
         options: []
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: Is Englis
         label: Top Three Games of All Time
