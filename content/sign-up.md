@@ -9,6 +9,7 @@ sections:
     background_color: none
     title: WE'RE BOOTING UP
     background_image: images/304.jpg
+    background_image_opacity: 20
   - type: form_section
     content: >
       ## Hello!
