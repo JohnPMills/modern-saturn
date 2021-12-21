@@ -84,7 +84,7 @@ sections:
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: none
     background_image_opacity: 20
 seo:
   title: General Enquiries
