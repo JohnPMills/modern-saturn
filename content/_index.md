@@ -59,7 +59,7 @@ sections:
         align: left
       - title: BELONG TO A TEAM
         actions:
-          - label: lorem-ipsum
+          - label: beta
             url: '#'
             style: link
             has_icon: false
