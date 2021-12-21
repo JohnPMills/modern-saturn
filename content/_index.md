@@ -73,7 +73,7 @@ sections:
     background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image: images/men-playing-video-games.jpg
+    background_image: images/5163335.jpg
     background_image_position: left bottom
   - type: cta_section
     title: BELONG TO A TEAM
