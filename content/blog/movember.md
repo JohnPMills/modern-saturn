@@ -1,12 +1,10 @@
 ---
-title: MOVEMBER
+title: MOVEMBER SUPPORTS GAMERS VS. DEPRESSION
 subtitle: Gamers vs. Depression one of 11 projects globally to be supported by Movember
 date: '2021-10-01'
 categories:
-  - data/categories/general.json
-tags:
-  - data/tags/stackbit.json
-  - data/tags/jamstack.json
+  - data/categories/news.json
+tags: []
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
@@ -43,11 +41,12 @@ seo:
 layout: post
 author: data/team/gustav-purpleson.json
 thumb_image: images/classic/post-3.png
-image: images/classic/post-3.png
+image: images/Asset 1-100.jpg
 ---
+Using the money raised by their epic community, Movember have been able to fund 11 new mental health initiatives including Gamers vs Depression.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+Gamers vs Depression uses online gaming as a vehicle for developing depression literacy and better social connections in adolescent males. Delivered by That Awfully Good Community Interest Company based in Colchester, Essex, the aim is for ‘gaming teams’ to act as a social/peer-support group where young men can openly discuss challenges outside of their immediate network in a safe and supportive manner.
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+> " People have been turning to gaming to fulfil that social connection we’ve not been able to have had in person over the last year. " - Gamers vs. Depression Founder, Dr John Mills.
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+The funding comes through Movember's Social Connections Challenge; aimed at identifying strategies that will strengthen the social connections of men who are struggling with isolation and poor mental health, particularly in the wake of COVID-19 lockdowns. [Click here](https://uk.movember.com/story/movember-funding-for-11-new-projects-to-support-men-s-mental-health?tag=where-the-money-goes) to learn about the other projects Movember has supported.
