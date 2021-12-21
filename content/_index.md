@@ -10,7 +10,7 @@ sections:
         new_window: true
         no_follow: true
     image_alt: introduction video about the project
-    media_position: top
+    media_position: right
     media_width: fifty
     align: center
     padding_top: large
