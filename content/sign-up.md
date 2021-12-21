@@ -10,6 +10,9 @@ sections:
     title: CONGRATULATIONS!!
   - type: form_section
     content: >
+      ## Hello!
+
+
       We're extremely glad to have your interest in the platform. Before we give
       you full access to our "Level Up: Mental Health Literacy Training
       Programme" and invite you into the community of other early adopters, we'd
