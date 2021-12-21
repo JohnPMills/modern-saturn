@@ -63,18 +63,18 @@ sections:
         name: Games
         label: Top Three Games of All Time
         default_value: Add your games here
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
     submit_label: Sign Me Up
     align_vert: top
     padding_top: medium
