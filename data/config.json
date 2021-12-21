@@ -21,11 +21,6 @@
                 "no_follow": false
             },
             {
-                "label": "How GVD Works",
-                "url": "/how",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
