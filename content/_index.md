@@ -62,42 +62,6 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/men-playing-video-games.jpg
     background_image_position: left top
-  - type: grid_section
-    title: EVENTS
-    subtitle: TAKE PART IN ONE OF OUR
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_image_opacity: 10
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image: images/22033.jpg
   - type: cta_section
     title: JOIN A TEAM?
     content: >

@@ -16,17 +16,12 @@
                 "style": "link"
             },
             {
-                "label": "Events",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "News",
+                "label": "Advice",
                 "url": "/blog",
                 "style": "link"
             },
@@ -101,11 +96,16 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "WHAT'S NEW",
+        "secondary_nav_title": "LATEST",
         "secondary_nav_links": [
             {
-                "label": "Events",
-                "url": "#",
+                "label": "Advice",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -114,9 +114,14 @@
                 "no_follow": false
             },
             {
-                "label": "News",
-                "url": "/blog/category/general",
-                "style": "link"
+                "label": "Updates",
+                "url": "/blog/category/news",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_tertiary_nav": true,
