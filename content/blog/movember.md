@@ -5,7 +5,6 @@ date: '2021-10-01'
 categories:
   - data/categories/news.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/jamstack.json
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
