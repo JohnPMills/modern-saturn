@@ -5,7 +5,6 @@ author: data/team/dianne-ameter.json
 categories:
   - data/categories/general.json
 tags:
-  - data/tags/jamstack.json
   - data/tags/sourcebit.json
 excerpt: >-
   In recent research there has been emerging links between diet and good quality
