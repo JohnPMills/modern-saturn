@@ -44,6 +44,12 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/VtL1VWUpqLY" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: IT'S IMPORTANT TO FEEL CONNECTED
         content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
