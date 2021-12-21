@@ -9,18 +9,11 @@ sections:
     background_color: none
     title: CONGRATULATIONS!!
   - type: form_section
-    content: >-
-      ### Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      We're extremely glad to have your interest in the platform. Before we give
+      you full access to our "Level Up: Mental Health Literacy Training
+      Programme" and invite you into the community of other early adopters, we'd
+      like to know a little more about you. 
     content_align: left
     form_position: right
     form_width: fifty
