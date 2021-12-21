@@ -64,7 +64,7 @@ sections:
         label: Top Three Games of All Time
         default_value: Add your games here
       - input_type: select
-        name: Experience of Mental Health Disorders
+        name: MH
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
