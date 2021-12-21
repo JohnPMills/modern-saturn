@@ -61,7 +61,7 @@ sections:
     background_image_size: cover
     background_image_repeat: no-repeat
     background_image: images/men-playing-video-games.jpg
-    background_image_position: center top
+    background_image_position: left top
   - type: grid_section
     title: EVENTS
     subtitle: TAKE PART IN ONE OF OUR
