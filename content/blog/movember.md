@@ -4,8 +4,7 @@ subtitle: Gamers vs. Depression one of 11 projects globally to be supported by M
 date: '2021-10-01'
 categories:
   - data/categories/news.json
-tags:
-  - data/tags/jamstack.json
+tags: []
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
