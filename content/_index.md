@@ -60,7 +60,7 @@ sections:
       - title: BELONG TO A TEAM
         actions:
           - label: beta
-            url: '#'
+            url: /sign-up
             style: link
             has_icon: false
             icon: arrow-left
