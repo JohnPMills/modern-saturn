@@ -123,7 +123,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: blog_feed_section
-    title: WHAT'S NEW
     actions:
       - label: View All
         url: /blog
