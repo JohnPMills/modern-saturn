@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         align: left
     feature_padding_vert: large
-    align: center
+    align: left
     background_color: none
     background_image_opacity: 10
     background_image_size: cover
