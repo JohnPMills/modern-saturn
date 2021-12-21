@@ -11,8 +11,7 @@ excerpt: >-
   In recent research there has been emerging links between diet and good quality
   nutrition and mental health status. Studies have shown that diet is one of
   many different pieces in the prevention of poor mental health
-thumb_image: >-
-  images/top-view-snacks-unhealthy-food-with-laptop-black-background-gamer-concept.jpg
+thumb_image: images/food copy.jpg
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
 image_alt: Post 4 placeholder image
