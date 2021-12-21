@@ -99,14 +99,15 @@ sections:
     background_image_size: cover
     background_image: images/22033.jpg
   - type: cta_section
-    title: WANT A GAME?
+    title: JOIN A TEAM?
     content: >
       We know depression can make you feel isolated. It can be helpful to chat
       with with other people who understand what it's like.  At Gamers vs.
       Depression, we just have these discussions and provide this support for
-      each other over a game.  
+      each other over a game. Whether you play a one off game or join a team, we
+      are all here for the same reason.
     actions:
-      - label: JOIN
+      - label: JOIN NOW
         url: 'https://discord.gg/X7QysZ287U'
         style: secondary
         new_window: true
@@ -122,7 +123,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: blog_feed_section
-    title: WHAT'S NEW
     actions:
       - label: View All
         url: /blog
@@ -144,6 +144,8 @@ sections:
     background_image_opacity: 20
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
+    subtitle: WANT TO UP YOUR GAME?
+    title: LATEST POSTS
   - type: cta_section
     title: GET SUPPORT
     content: >
