@@ -104,8 +104,8 @@
                 "style": "link"
             },
             {
-                "label": "Updates",
-                "url": "/blog/category/news",
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -114,8 +114,8 @@
                 "no_follow": false
             },
             {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "label": "Updates",
+                "url": "/blog/category/news",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
