@@ -2,7 +2,7 @@
 title: sign-up
 sections:
   - type: hero_section
-    subtitle: The optional subtitle
+    subtitle: 'YOU ARE ONE OF THE FIRST TO HEAR ABOUT '
     align: center
     padding_top: medium
     padding_bottom: medium
