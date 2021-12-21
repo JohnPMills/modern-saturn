@@ -8,6 +8,7 @@ sections:
     padding_bottom: medium
     background_color: none
     background_image: images/22033.jpg
+    background_image_opacity: 20
   - type: form_section
     content: >
       ## Ways to contact us
