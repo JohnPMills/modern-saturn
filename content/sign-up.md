@@ -62,7 +62,7 @@ sections:
           - Sponsorship
           - Other
       - input_type: textarea
-        name: message
+        name: Top 3 games of all time
         label: Message
         default_value: Your message
       - input_type: checkbox
