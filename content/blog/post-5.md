@@ -1,22 +1,19 @@
 ---
-title: SLEEEEEP
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+title: 'SLEEP EIGHT, PLAY GREAT'
+subtitle: 'EIGHT HOURS, THAT IS.'
 date: '2021-12-02'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
 tags:
-  - data/tags/stackbit.json
-  - data/tags/netlify.json
+  - data/tags/tag-j7v6jzuqi.json
 excerpt: >-
   Obtaining healthy sleep is important for both physical and mental health,
   improving productivity and overall quality of life. Everyone can benefit from
   better sleep, and sleep hygiene can play a key part in achieving that goal. 
-thumb_image: images/classic/post-5.png
+thumb_image: images/sleep copy.jpg
 thumb_image_alt: Post 5 placeholder image
-image: images/classic/post-5.png
+image: images/food copy.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:

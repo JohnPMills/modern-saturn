@@ -1,19 +1,18 @@
 ---
-title: EAT
+title: YOU ARE WHAT YOU EAT
 date: '2021-12-14'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/general.json
 tags:
-  - data/tags/jamstack.json
-  - data/tags/sourcebit.json
+  - data/tags/tag-j7v6jzuqi.json
 excerpt: >-
   In recent research there has been emerging links between diet and good quality
   nutrition and mental health status. Studies have shown that diet is one of
   many different pieces in the prevention of poor mental health
-thumb_image: images/classic/post-4.png
+thumb_image: images/food copy.jpg
 thumb_image_alt: Post 4 placeholder image
-image: images/classic/post-4.png
+image: images/food copy.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
