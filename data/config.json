@@ -21,22 +21,17 @@
                 "no_follow": false
             },
             {
-                "label": "How GVD Works",
-                "url": "/how",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "About GvD",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Advice",
+                "label": "Advice and News",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Get in Touch",
                 "url": "/contact",
                 "style": "link",
                 "has_icon": false,
@@ -83,16 +78,6 @@
                 "label": "About Us",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "How GVD Works",
-                "url": "/how",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             },
             {
                 "label": "Login",

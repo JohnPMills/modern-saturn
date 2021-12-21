@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: ABOUT GVD
+    title: We're All About Game Changing Mental Health
     align: center
     background_color: none
     background_image: >-
@@ -14,8 +14,8 @@ sections:
   - type: features_section
     features:
       - content: >
-          Gamers vs Depression (GVD) is a global mental health programme that
-          uses gaming to teach young men about the importance of mental health,
+          Gamers vs Depression (GVD) is a global mental health project that uses
+          gaming to teach young men about the importance of mental health,
           self-care, and social connections.
 
 
@@ -72,13 +72,7 @@ sections:
           lecturer. Outside of work, John has been married for 13 years and has
           two sons under five which keep him busy.
         content_align: left
-        actions:
-          - label: LEARN MORE
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-11-30 at 14.56.13.png
@@ -92,13 +86,7 @@ sections:
           Depression into something that can help gamers overcome their mental
           health issues.
         content_align: left
-        actions:
-          - label: LEARN MORE
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-12-20 at 21.01.42.png
@@ -113,13 +101,7 @@ sections:
           2021, graduating with first class honours.
 
         content_align: left
-        actions:
-          - label: LEARN MORE
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-12-01 at 11.18.53.png
