@@ -134,10 +134,10 @@ sections:
   - type: cta_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     content: |
-      Join our DISCORD community now.
+      Join our community now.
     actions:
-      - label: DISCORD
-        url: /pricing
+      - label: BECOME A BETA TESTER
+        url: /sign-up
         style: secondary
     align: center
     padding_top: medium

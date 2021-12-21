@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: JOIN NOW
-        url: 'https://discord.com/invite/X7QysZ287U'
+      - label: BECOME A BETA TESTER
+        url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
@@ -71,8 +71,8 @@ sections:
       each other over a game. Whether you play a one off game or join a team, we
       are all here for the same reason.
     actions:
-      - label: JOIN NOW
-        url: 'https://discord.gg/X7QysZ287U'
+      - label: BECOME A BETA TESTER
+        url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
