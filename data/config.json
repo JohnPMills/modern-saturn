@@ -11,6 +11,16 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "Home",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "How GVD Works",
                 "url": "/how",
                 "style": "link"
@@ -28,16 +38,6 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "Home",
-                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
