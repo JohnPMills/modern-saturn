@@ -7,7 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    title: BOOTING UP
+    title: WE'RE BOOTING UP
   - type: form_section
     content: >
       ## Hello!
