@@ -1,5 +1,5 @@
 ---
-title: SLEEP 8 *
+title: 'SLEEP EIGHT, PLAY GREAT'
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
