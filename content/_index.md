@@ -9,9 +9,6 @@ sections:
         style: secondary
         new_window: true
         no_follow: true
-      - label: TELL ME MORE
-        url: /how
-        style: secondary
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -21,13 +18,13 @@ sections:
     background_color: none
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image: images/3156605.jpg
   - type: features_section
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: LIFE HAS GLITCHES TOO
+      - title: IT'S NOT JUST GAMES THAT GLITCH
         content: >
           There is no denying that life can be tough. We're all in this journey
           together and there is a lot more we can often do to look after
@@ -41,7 +38,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
@@ -54,17 +50,18 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        align: left
     feature_padding_vert: large
     align: center
     background_color: none
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
     background_image: images/men-playing-video-games.jpg
+    background_image_position: left top
   - type: grid_section
     title: EVENTS
     subtitle: TAKE PART IN ONE OF OUR
@@ -109,7 +106,7 @@ sections:
       Depression, we just have these discussions and provide this support for
       each other over a game.  
     actions:
-      - label: JOIN OUR DISCORD
+      - label: JOIN
         url: 'https://discord.gg/X7QysZ287U'
         style: secondary
         new_window: true
@@ -121,7 +118,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
-    background_image_opacity: 5
+    background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: blog_feed_section
@@ -144,7 +141,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
   - type: cta_section
