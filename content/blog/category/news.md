@@ -2,8 +2,7 @@
 title: News
 sections:
   - type: hero_section
-    title: News
-    subtitle: The optional subtitle
+    title: UPDATES
     align: center
     padding_top: medium
     padding_bottom: none
@@ -22,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inline Form
+    title: STAY CONNECTED
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
