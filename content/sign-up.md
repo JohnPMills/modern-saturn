@@ -71,7 +71,7 @@ sections:
           - 'Yes, me.'
           - 'Yes, other.'
           - I'm just here to support a friend.
-          - lorem-ipsum
+          - None of the above
         is_required: false
       - input_type: checkbox
         name: consent
