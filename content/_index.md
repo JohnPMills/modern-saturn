@@ -72,7 +72,7 @@ sections:
       are all here for the same reason.
     actions:
       - label: BECOME A BETA TESTER
-        url: 'https://discord.gg/X7QysZ287U'
+        url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
