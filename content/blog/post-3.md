@@ -51,6 +51,6 @@ Using the money raised by their epic community, Movember have been able to fund 
 
 Gamers vs Depression uses online gaming as a vehicle for developing depression literacy and better social connections in adolescent males. Delivered by That Awfully Good Community Interest Company based in Colchester, Essex, the aim is for ‘gaming teams’ to act as a social/peer-support group where young men can openly discuss challenges outside of their immediate network in a safe and supportive manner.
 
-> " People have been turning to gaming to fulfil that social connection we’ve not been able to have had in person over the last year. "
+> " People have been turning to gaming to fulfil that social connection we’ve not been able to have had in person over the last year. " - Gamers vs. Depression Founder, Dr John Mills.
 
 The funding comes through Movember's Social Connections Challenge; aimed at identifying strategies that will strengthen the social connections of men who are struggling with isolation and poor mental health, particularly in the wake of COVID-19 lockdowns. [Click here](https://uk.movember.com/story/movember-funding-for-11-new-projects-to-support-men-s-mental-health?tag=where-the-money-goes) to learn about the other projects Movember has supported.
