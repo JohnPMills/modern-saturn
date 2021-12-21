@@ -2,7 +2,7 @@
 title: sign-up
 sections:
   - type: hero_section
-    subtitle: DD
+    subtitle: THANK YOU FOR BEING ONE OF THE FIRST
     align: center
     padding_top: medium
     padding_bottom: medium
