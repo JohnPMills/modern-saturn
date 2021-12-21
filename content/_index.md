@@ -57,7 +57,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
     background_image: images/men-playing-video-games.jpg
