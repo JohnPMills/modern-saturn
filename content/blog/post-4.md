@@ -1,5 +1,5 @@
 ---
-title: NUTRITION FOR COMPETITION
+title: YOU ARE WHAT YOU EAT
 date: '2021-12-14'
 author: data/team/dianne-ameter.json
 categories:
