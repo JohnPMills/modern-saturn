@@ -8,18 +8,16 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
+    content: >
+      If you'd like to discuss partnering with us, sponsoring an event, becoming
+      a champion or anything else, we'd love to hear from you. 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Like lots of organisations over the past 18 months, we have switched to a
+      remote approach to working. Our registered address is in Elmstead Market
+      (Essex, UK) but as we are an online project with a global user base, we
+      don't really use the physical address. If you want to send us a physical
+      letter, however, please email and we will be happy to share it. 
     content_align: left
     form_position: right
     form_width: fifty
