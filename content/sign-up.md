@@ -64,7 +64,7 @@ sections:
       - input_type: textarea
         name: Message
         label: Top Three Games of All Time
-        default_value: Your message
+        default_value: Add your games here
       - input_type: checkbox
         name: consent
         label: >-
