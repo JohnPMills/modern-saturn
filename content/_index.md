@@ -85,24 +85,6 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/5163335.jpg
     background_image_position: left bottom
-  - type: cta_section
-    title: BELONG TO A TEAM
-    actions:
-      - label: BECOME A BETA TESTER
-        url: /sign-up
-        style: secondary
-        new_window: true
-        no_follow: true
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
-    background_image_opacity: 10
-    background_image_repeat: no-repeat
-    background_image_size: cover
   - type: blog_feed_section
     actions:
       - label: View All
