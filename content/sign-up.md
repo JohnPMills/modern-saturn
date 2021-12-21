@@ -74,7 +74,7 @@ sections:
       - input_type: number
         name: age
         label: Age
-        default_value: lorem-ipsum
+        default_value: Add your age here
         options: []
         is_required: false
     submit_label: Send Message
