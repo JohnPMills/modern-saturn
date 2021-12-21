@@ -2,7 +2,7 @@
 title: sign-up
 sections:
   - type: hero_section
-    subtitle: 'YOU ARE ONE OF THE FIRST TO HEAR ABOUT '
+    subtitle: YOU ARE ONE OF THE FIRST TO HEAR ABOUT GAME
     align: center
     padding_top: medium
     padding_bottom: medium
