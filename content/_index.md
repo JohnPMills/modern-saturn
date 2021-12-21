@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: 'JOIN '
+      - label: BECOM
         url: 'https://discord.com/invite/X7QysZ287U'
         style: secondary
         new_window: true
