@@ -1,6 +1,6 @@
 ---
 title: MOVEMBER
-subtitle: 'Innumerabilia dici possunt in hanc sententiam, sed non necesse est'
+subtitle: 'Gamers vs. Depression Selected as Movember '
 date: '2020-05-28'
 author: data/team/gustav-purpleson.json
 categories:
