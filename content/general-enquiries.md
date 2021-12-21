@@ -2,25 +2,40 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
+    title: Get in Touch
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: secondary
+    background_image: images/22033.jpg
+    background_image_opacity: 2
   - type: form_section
-    content: >-
-      ### Billing
+    content: >
+      ## Ways to contact us
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ### Privacy
+      If you'd like to discuss partnering with us, sponsoring an event, becoming
+      a champion or anything else, we'd love to hear from you.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      To speak to any of our team directly, please email the following
+      addresses. For general enquiries, please use the adjacent contact form.
+
+
+      *   Dr John Mills -- <john@awfullygood.org>
+
+
+      *   Lee Cumbers -- <lee@awfullygood.org>
+
+
+      *   Sam Williams -- <sam@awfullygood.org>
+
+
+      Like lots of organisations over the past 18 months, we have switched to a
+      remote approach to working. Our registered address is in Elmstead Market
+      (Essex, UK) but as we are an online project with a global user base, we
+      don't really use the physical address. If you want to send us a physical
+      letter, however, please email and we will be happy to share it.
     content_align: left
     form_position: right
     form_width: fifty
@@ -61,7 +76,9 @@ sections:
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: none
+    background_image: images/3156605.jpg
+    background_image_opacity: 20
 seo:
   title: General Enquiries
   description: This is the general enquiries page
