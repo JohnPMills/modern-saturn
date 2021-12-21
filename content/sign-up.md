@@ -68,7 +68,7 @@ sections:
           - Sponsorship
           - Other
       - input_type: textarea
-        name: Message
+        name: 'Is English '
         label: Top Three Games of All Time
         default_value: Add your games here
       - input_type: checkbox
