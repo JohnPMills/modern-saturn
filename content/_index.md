@@ -20,11 +20,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 10
     background_image: images/3156605.jpg
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/kzhzXftOiws" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: features_section
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
