@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: LATEST POSTS
-    subtitle: The optional subtitle
+    subtitle: 'Advice, Tutorials, Updates from GVD'
     align: center
     padding_top: medium
     padding_bottom: none
