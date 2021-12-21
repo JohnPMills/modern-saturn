@@ -1,8 +1,6 @@
 ---
 title: 'SLEEP EIGHT, PLAY GREAT'
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: 'EIGHT HOURS, THAT IS.'
 date: '2021-12-02'
 author: data/team/gustav-purpleson.json
 categories:
