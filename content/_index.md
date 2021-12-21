@@ -145,7 +145,7 @@ sections:
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
     subtitle: WANT TO UP YOUR GAME?
-    title: NEWS
+    title: LATEST POSTS
   - type: cta_section
     title: GET SUPPORT
     content: >
