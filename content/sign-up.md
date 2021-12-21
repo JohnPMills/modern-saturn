@@ -10,7 +10,7 @@ sections:
     title: WE'RE BOOTING UP
     background_image: images/Artboard 2-84bf0b95.png
     background_image_opacity: 20
-    background_image_position: center top
+    background_image_position: right center
   - type: form_section
     content: >
       ## Hello!
