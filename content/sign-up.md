@@ -67,7 +67,8 @@ sections:
         name: MH
         label: Experience of Mental Health Disorders
         default_value: Select from the drop down menu
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
       - input_type: checkbox
         name: consent
