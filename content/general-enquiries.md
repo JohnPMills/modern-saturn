@@ -78,6 +78,7 @@ sections:
     padding_bottom: medium
     background_color: none
     background_image: images/modern-gamepads.jpg
+    background_image_opacity: 2
 seo:
   title: General Enquiries
   description: This is the general enquiries page
