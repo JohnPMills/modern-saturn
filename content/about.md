@@ -136,7 +136,7 @@ sections:
     content: |
       Join our DISCORD community now.
     actions:
-      - label: DISCORD
+      - label: BECOME A BETA TESTER
         url: /sign-up
         style: secondary
     align: center
