@@ -10,14 +10,27 @@ sections:
   - type: form_section
     content: >
       If you'd like to discuss partnering with us, sponsoring an event, becoming
-      a champion or anything else, we'd love to hear from you. 
+      a champion or anything else, we'd love to hear from you.
+
+
+      To speak to any of our team directly, please email the following
+      addresses. For general enquiries, please use the adjacent contact form.
+
+
+      *   Dr John Mills -- <john@awfullygood.org>
+
+
+      *   Lee Cumbers -- <lee@awfullygood.org>
+
+
+      *   Sam Williams -- <sam@awfullygood.org>
 
 
       Like lots of organisations over the past 18 months, we have switched to a
       remote approach to working. Our registered address is in Elmstead Market
       (Essex, UK) but as we are an online project with a global user base, we
       don't really use the physical address. If you want to send us a physical
-      letter, however, please email and we will be happy to share it. 
+      letter, however, please email and we will be happy to share it.
     content_align: left
     form_position: right
     form_width: fifty
