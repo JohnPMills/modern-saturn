@@ -141,7 +141,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
   - type: cta_section
