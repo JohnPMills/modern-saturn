@@ -67,6 +67,12 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        content: >
+          We know depression can make you feel isolated. It can be helpful to
+          chat with with other people who understand what it's like.  At Gamers
+          vs. Depression, we just have these discussions and provide this
+          support for each other over a game. Whether you play a one off game or
+          join a team, we are all here for the same reason.
     feature_padding_vert: large
     align: center
     background_color: none
