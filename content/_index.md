@@ -9,9 +9,6 @@ sections:
         style: secondary
         new_window: true
         no_follow: true
-      - label: TELL ME MORE
-        url: /how
-        style: secondary
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
