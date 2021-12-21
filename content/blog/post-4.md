@@ -1,5 +1,5 @@
 ---
-title: EAT
+title: Nutrition For Competition
 date: '2021-12-14'
 author: data/team/dianne-ameter.json
 categories:
