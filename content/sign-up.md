@@ -53,6 +53,12 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
+      - input_type: number
+        name: age
+        label: Age
+        default_value: Add your age here
+        options: []
+        is_required: true
       - input_type: select
         name: subject
         label: Subject
@@ -70,12 +76,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-        is_required: true
-      - input_type: number
-        name: age
-        label: Age
-        default_value: Add your age here
-        options: []
         is_required: true
     submit_label: Send Message
     align_vert: top
