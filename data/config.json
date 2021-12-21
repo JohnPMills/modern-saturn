@@ -99,7 +99,7 @@
         "secondary_nav_title": "WHAT'S NEW",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Advice",
                 "url": "/blog/category/general",
                 "style": "link"
             }
