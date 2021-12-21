@@ -1,5 +1,5 @@
 ---
-title: The Macros of Nutrition
+title: THE MACROS OF NUTRITION
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
