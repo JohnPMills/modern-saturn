@@ -101,13 +101,7 @@ sections:
           2021, graduating with first class honours.
 
         content_align: left
-        actions:
-          - label: LEARN MORE
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-12-01 at 11.18.53.png
