@@ -1,5 +1,5 @@
 ---
-title: MOVEMBER
+title: MOVEMBER SUPPORTS GVD
 subtitle: >-
   Gamers vs. Depression selected from hundreds of proposals to be supported by
   Movember.
