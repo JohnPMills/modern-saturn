@@ -63,7 +63,7 @@ sections:
     background_image: images/men-playing-video-games.jpg
     background_image_position: left top
   - type: cta_section
-    title: JOIN A TEAM?
+    title: BELONG TO A TEAM
     content: >
       We know depression can make you feel isolated. It can be helpful to chat
       with with other people who understand what it's like.  At Gamers vs.
