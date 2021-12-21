@@ -24,7 +24,7 @@ sections:
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: IT'S NOT JUST GAMES THAT CRASH
+      - title: IT'S NOT JUST GAMES THAT GLITCH
         content: >
           There is no denying that life can be tough. We're all in this journey
           together and there is a lot more we can often do to look after
