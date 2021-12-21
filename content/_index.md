@@ -77,12 +77,6 @@ sections:
     background_image_position: left bottom
   - type: cta_section
     title: BELONG TO A TEAM
-    content: >
-      We know depression can make you feel isolated. It can be helpful to chat
-      with with other people who understand what it's like.  At Gamers vs.
-      Depression, we just have these discussions and provide this support for
-      each other over a game. Whether you play a one off game or join a team, we
-      are all here for the same reason.
     actions:
       - label: BECOME A BETA TESTER
         url: /sign-up
