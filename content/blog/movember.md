@@ -3,7 +3,7 @@ title: MOVEMBER
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-05-28'
+date: '2021-10-28'
 categories:
   - data/categories/general.json
 tags:
