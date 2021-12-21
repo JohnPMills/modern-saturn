@@ -89,7 +89,7 @@ sections:
     padding_bottom: medium
     background_color: none
     background_image_opacity: 20
-    background_image: images/bg.png
+    background_image: images/bg-518a39ac.png
 seo:
   title: General Enquiries
   description: This is the general enquiries page
