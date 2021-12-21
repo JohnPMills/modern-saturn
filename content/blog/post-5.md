@@ -7,7 +7,8 @@ date: '2021-12-02'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
-tags: []
+tags:
+  - data/tags/tag-j7v6jzuqi.json
 excerpt: >-
   Obtaining healthy sleep is important for both physical and mental health,
   improving productivity and overall quality of life. Everyone can benefit from
