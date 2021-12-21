@@ -72,13 +72,7 @@ sections:
           lecturer. Outside of work, John has been married for 13 years and has
           two sons under five which keep him busy.
         content_align: left
-        actions:
-          - label: LEARN MORE
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-11-30 at 14.56.13.png
