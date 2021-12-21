@@ -5,7 +5,8 @@ subtitle: >-
   Movember.
 date: '2020-05-28'
 author: data/team/gustav-purpleson.json
-categories: []
+categories:
+  - data/categories/news.json
 tags:
   - data/tags/jamstack.json
 excerpt: >-
