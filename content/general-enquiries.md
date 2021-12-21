@@ -9,6 +9,9 @@ sections:
     background_color: none
   - type: form_section
     content: >
+      ## Ways to contact us
+
+
       If you'd like to discuss partnering with us, sponsoring an event, becoming
       a champion or anything else, we'd love to hear from you.
 
