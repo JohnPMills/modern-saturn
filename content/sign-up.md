@@ -72,7 +72,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: age
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
