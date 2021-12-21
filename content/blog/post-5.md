@@ -8,7 +8,6 @@ author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/netlify.json
 excerpt: >-
   Obtaining healthy sleep is important for both physical and mental health,
