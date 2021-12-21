@@ -76,7 +76,7 @@ sections:
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: secondary
     background_image: images/modern-gamepads.jpg
     background_image_opacity: 20
 seo:
