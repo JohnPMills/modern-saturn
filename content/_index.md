@@ -18,7 +18,7 @@ sections:
     background_color: none
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image_opacity: 10
+    background_image_opacity: 20
     background_image: images/3156605.jpg
   - type: features_section
     title: MEN'S MENTAL HEALTH
