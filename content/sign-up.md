@@ -7,7 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    title: CONGRATULATIONS!!
+    title: FRONT OF THE CUE
   - type: form_section
     content: >
       ## Hello!
