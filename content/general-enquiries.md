@@ -76,7 +76,7 @@ sections:
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: none
     background_image: images/3156605.jpg
     background_image_opacity: 5
 seo:
