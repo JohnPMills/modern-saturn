@@ -65,7 +65,7 @@ sections:
         default_value: Add your games here
       - input_type: select
         name: MH
-        label: lorem-ipsum
+        label: Experience of Mental Health Disorders
         default_value: lorem-ipsum
         options: []
         is_required: false
