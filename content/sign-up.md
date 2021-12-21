@@ -70,7 +70,7 @@ sections:
         options:
           - 'Yes, me.'
           - 'Yes, other.'
-          - lorem-ipsum
+          - 'I''m just here '
         is_required: false
       - input_type: checkbox
         name: consent
