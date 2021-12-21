@@ -5,7 +5,7 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: BECOME A BETA TESTER
-        url: 'https://discord.com/invite/X7QysZ287U'
+        url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
