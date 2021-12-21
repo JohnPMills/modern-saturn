@@ -56,7 +56,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        align: right
+        align: left
       - title: BELONG TO A TEAM
         actions:
           - label: BECOME A BETA TESTER
