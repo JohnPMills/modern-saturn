@@ -144,7 +144,7 @@ sections:
     background_image_opacity: 20
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
-    title: SCIENCE
+    title: PERFORMANC
   - type: cta_section
     title: GET SUPPORT
     content: >
