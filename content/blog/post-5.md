@@ -14,7 +14,7 @@ excerpt: >-
   Obtaining healthy sleep is important for both physical and mental health,
   improving productivity and overall quality of life. Everyone can benefit from
   better sleep, and sleep hygiene can play a key part in achieving that goal. 
-thumb_image: images/classic/post-5.png
+thumb_image: images/guy-headphones-red-sweatshirt-sits-home-computer-is-tired-sleep.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
