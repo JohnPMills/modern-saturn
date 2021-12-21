@@ -14,16 +14,16 @@ sections:
       you full access to our "Level Up: Mental Health Literacy Training
       Programme" and invite you into the community of other early adopters, we'd
       like to know a little more about you. Please complete the adjacent form
-      with details of your favourite games, hobbies, and age. 
+      with details of your favourite games, hobbies, and age.
 
 
-      # Requirements to join
+      ## Requirements to join
 
 
-      Please note, Gamers vs. Depression is for young men aged 16 to 24. 
+      Please note, Gamers vs. Depression is for young men aged 16 to 24.
 
 
-      # Why just young men?
+      ## Why just young men?
 
 
       It's not that we don't want to work with those of your from other
