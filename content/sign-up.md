@@ -68,7 +68,7 @@ sections:
         label: Experience of Mental Health Disorders
         default_value: Select from the drop down menu
         options:
-          - lorem-ipsum
+          - 'Yes, me.'
         is_required: false
       - input_type: checkbox
         name: consent
