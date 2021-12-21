@@ -70,7 +70,7 @@ sections:
         options:
           - 'Yes, me.'
           - 'Yes, other.'
-          - 'I''m just here '
+          - I'm just here to support a friend.
         is_required: false
       - input_type: checkbox
         name: consent
