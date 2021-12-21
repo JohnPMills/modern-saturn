@@ -8,7 +8,7 @@ sections:
     padding_bottom: medium
     background_color: none
     title: WE'RE BOOTING UP
-    background_image: images/Artboard 2-84bf0b95.png
+    background_image: images/Artboard 2-bc16d447.png
     background_image_opacity: 20
     background_image_position: left bottom
   - type: form_section
