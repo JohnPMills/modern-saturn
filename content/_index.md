@@ -9,7 +9,7 @@ sections:
         style: secondary
         new_window: true
         no_follow: true
-    image_alt: Hero section placeholder image
+    image_alt: introduction video about the project
     media_position: left
     media_width: fifty
     align: center
