@@ -8,7 +8,6 @@ author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/jamstack.json
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
