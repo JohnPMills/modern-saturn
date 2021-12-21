@@ -13,7 +13,7 @@ excerpt: >-
   better sleep, and sleep hygiene can play a key part in achieving that goal. 
 thumb_image: images/sleep copy.jpg
 thumb_image_alt: Post 5 placeholder image
-image: images/sleep copy.jpg
+image: images/food copy.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
