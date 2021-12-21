@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 layout: post
 author: data/team/gustav-purpleson.json
-thumb_image: images/classic/post-3.png
+thumb_image: images/Asset 2-100.jpg
 image: images/Asset 2-100.jpg
 ---
 Using the money raised by their epic community, Movember have been able to fund 11 new mental health initiatives including Gamers vs Depression.
