@@ -73,7 +73,7 @@ sections:
         is_required: true
       - input_type: number
         name: age
-        label: lorem-ipsum
+        label: Age
         default_value: lorem-ipsum
         options: []
         is_required: false
