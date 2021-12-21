@@ -63,7 +63,7 @@ sections:
         name: Games
         label: Top Three Games of All Time
         default_value: Add your games here
-      - input_type: text
+      - input_type: select
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
