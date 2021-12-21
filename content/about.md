@@ -137,7 +137,7 @@ sections:
       Join our DISCORD community now.
     actions:
       - label: DISCORD
-        url: /pricing
+        url: /sign-up
         style: secondary
     align: center
     padding_top: medium
