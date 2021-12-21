@@ -63,7 +63,7 @@ sections:
           - Other
       - input_type: textarea
         name: Message
-        label: Message
+        label: Top Three Games of All Time
         default_value: Your message
       - input_type: checkbox
         name: consent
