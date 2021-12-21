@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Game Changing Mental Health
+    title: We're All About Game Changing Mental Health
     align: center
     background_color: none
     background_image: >-
