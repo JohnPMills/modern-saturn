@@ -12,7 +12,7 @@ excerpt: >-
   improving productivity and overall quality of life...
 thumb_image: images/sleep copy.jpg
 thumb_image_alt: Post 5 placeholder image
-image: images/food copy.jpg
+image: images/sleep copy.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
