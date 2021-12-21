@@ -1,5 +1,5 @@
 ---
-title: MOVEMBER
+title: MOVEMBER SUPPORTS GAMERS VS. DEPRESSION
 subtitle: Gamers vs. Depression one of 11 projects globally to be supported by Movember
 date: '2021-10-01'
 categories:
