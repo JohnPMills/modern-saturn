@@ -58,7 +58,6 @@ sections:
         media_width: fifty
         align: left
       - title: BELONG TO A TEAM
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         media_position: top
