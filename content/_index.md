@@ -63,6 +63,12 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/YzBLb_tnuOY" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: BELONG TO A TEAM
         actions:
           - label: TRY THE BETA
