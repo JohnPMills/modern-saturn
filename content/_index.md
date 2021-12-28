@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: BECOME A BETA TESTER
+      - label: TRY THE BETA
         url: /sign-up
         style: secondary
         new_window: true
