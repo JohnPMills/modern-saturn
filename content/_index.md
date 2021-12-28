@@ -82,7 +82,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         content: >
           We know depression can make you feel isolated. It can be helpful to
           chat with with other people who understand what it's like.  At Gamers
