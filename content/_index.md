@@ -65,7 +65,7 @@ sections:
         align: left
       - title: BELONG TO A TEAM
         actions:
-          - label: BECOME A BETA TESTER
+          - label: TRY THE BETA
             url: /sign-up
             style: secondary
             has_icon: false
