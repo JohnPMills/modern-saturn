@@ -118,7 +118,7 @@ sections:
     content: |
       Join our community now.
     actions:
-      - label: BECOME A BETA TESTER
+      - label: TRY THE BETA
         url: /sign-up
         style: secondary
     align: center

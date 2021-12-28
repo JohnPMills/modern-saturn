@@ -4,13 +4,13 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: BECOME A BETA TESTER
+      - label: TRY THE BETA
         url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
-    image_alt: Hero section placeholder image
-    media_position: left
+    image_alt: introduction video about the project
+    media_position: top
     media_width: fifty
     align: center
     padding_top: large
@@ -20,6 +20,9 @@ sections:
     background_image_repeat: no-repeat
     background_image_opacity: 20
     background_image: images/3156605.jpg
+    subtitle: >-
+      Gamers vs. Depression is a global mental health project that uses gaming
+      to teach young men about mental health.
   - type: features_section
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
@@ -41,7 +44,13 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: WE'RE ALL PART OF THE SAME TEAM
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/jUguElpaIvI" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      - title: IT'S IMPORTANT TO FEEL CONNECTED
         content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
           - label: Learn More
@@ -53,39 +62,41 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        align: left
+        align: right
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/YzBLb_tnuOY" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      - title: BELONG TO A TEAM
+        actions:
+          - label: TRY THE BETA
+            url: /sign-up
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: false
+            no_follow: false
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: center
+        content: >
+          We know depression can make you feel isolated. It can be helpful to
+          chat with with other people who understand what it's like.  At Gamers
+          vs. Depression, we just have these discussions and provide this
+          support for each other over a game. Whether you play a one off game or
+          join a team, we are all here for the same reason.
     feature_padding_vert: large
     align: center
     background_color: none
     background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image: images/men-playing-video-games.jpg
-    background_image_position: left top
-  - type: cta_section
-    title: BELONG TO A TEAM
-    content: >
-      We know depression can make you feel isolated. It can be helpful to chat
-      with with other people who understand what it's like.  At Gamers vs.
-      Depression, we just have these discussions and provide this support for
-      each other over a game. Whether you play a one off game or join a team, we
-      are all here for the same reason.
-    actions:
-      - label: BECOME A BETA TESTER
-        url: /sign-up
-        style: secondary
-        new_window: true
-        no_follow: true
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
-    background_image_opacity: 10
-    background_image_repeat: no-repeat
-    background_image_size: cover
+    background_image: images/5163335.jpg
+    background_image_position: left bottom
   - type: blog_feed_section
     actions:
       - label: View All
@@ -95,11 +106,11 @@ sections:
     enable_cards: true
     show_recent: true
     recent_count: 3
-    show_image: true
+    show_image: false
     show_date: true
     show_categories: true
     show_author: true
-    show_excerpt: false
+    show_excerpt: true
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -132,7 +143,7 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
-    background_image: images/5163335.jpg
+    background_image: images/men-playing-video-games.jpg
 seo:
   title: Gamers vs. Depression
   description: Game Changing Mental Health

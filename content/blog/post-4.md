@@ -8,8 +8,7 @@ tags:
   - data/tags/tag-j7v6jzuqi.json
 excerpt: >-
   In recent research there has been emerging links between diet and good quality
-  nutrition and mental health status. Studies have shown that diet is one of
-  many different pieces in the prevention of poor mental health
+  nutrition and mental health status....
 thumb_image: images/food copy.jpg
 thumb_image_alt: Post 4 placeholder image
 image: images/food copy.jpg
