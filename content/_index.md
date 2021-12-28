@@ -62,7 +62,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-        align: left
+        align: right
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/YzBLb_tnuOY" title="YouTube video
