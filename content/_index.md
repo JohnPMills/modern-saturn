@@ -60,7 +60,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image_alt: Feature 2 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
         align: right
         video_embed_html: >-
