@@ -97,7 +97,7 @@ sections:
           also studied his undergraduate degree at the University of
           Hertfordshire and graduated with a 2:1 in 2015. He then went on to
           complete his Masters in Sport Psychology at the University of Essex in
-          2021, graduating with first class honours.
+          2021, graduating with distinction.
 
         content_align: left
         actions: []
