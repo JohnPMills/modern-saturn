@@ -1,4 +1,4 @@
-Welcome to Gamers vs. Depression
+Welcome to Gamers vs. Depression. 
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
