@@ -97,30 +97,6 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/5163335.jpg
     background_image_position: left bottom
-  - type: blog_feed_section
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: false
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 20
-    background_image: >-
-      images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
-    subtitle: WANT TO UP YOUR GAME?
-    title: LATEST POSTS
   - type: cta_section
     title: GET SUPPORT
     content: >
