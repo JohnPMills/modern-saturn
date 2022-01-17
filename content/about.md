@@ -69,8 +69,7 @@ sections:
           psychosocial mechanisms combine to regulate both individual and group
           behaviour. He is a Fellow of the Higher Education Academy and has
           twenty years experience of working as a coach, teacher, and now
-          lecturer. Outside of work, John has been married for 13 years and has
-          two sons under five which keep him busy.
+          lecturer.
         content_align: left
         actions: []
         actions_align: left
