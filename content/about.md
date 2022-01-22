@@ -61,20 +61,6 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: 'JOHN P. MILLS PHD, FHEA, CPSYCHOL'
-        content: >
-          John achieved his PhD from the University of Birmingham in 2015 and
-          works as a University Lecturer alongside his role here. His research
-          focuses on how values, virtues, norms, practices, identities, and
-          psychosocial mechanisms combine to regulate both individual and group
-          behaviour. He is a Fellow of the Higher Education Academy and has
-          twenty years experience of working as a coach, teacher, and now
-          lecturer.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/Screenshot 2021-11-30 at 14.56.13.png
       - title: SAM WILLIAMS
         content: >
           Sam is an avid gamer, currently playing Rainbow Six Siege
@@ -104,7 +90,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-12-01 at 11.18.53.png
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
