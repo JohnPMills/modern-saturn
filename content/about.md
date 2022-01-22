@@ -98,6 +98,14 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    - type: features_section
+    features:
+      - content: >
+          test
+        image_alt: 
+        media_position: right
+        media_width: fifty
+        video_embed_html: 
   - type: cta_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     content: |
