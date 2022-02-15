@@ -5,7 +5,7 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: TRY THE BETA
-        url: /sign-up
+        url: https://courses.awfullygood.org/login/index.php
         style: secondary
         new_window: true
         no_follow: true
