@@ -21,7 +21,7 @@ sections:
       Programme" and invite you into the community of other early adopters, we'd
       like to know a little more about you. Please complete the adjacent form
       with details of your favourite games, hobbies, and age. **We hope to
-      release the first round of invites in January 2022.**
+      release the first round of invites in February 2022.**
 
 
       ## Requirements to join
