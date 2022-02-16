@@ -56,7 +56,7 @@ sections:
 
 
           **Mojo on PC**
-        image: images/Asset 1-100-c10a89d2.jpg
+        image: images/mojo-on-pc.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
