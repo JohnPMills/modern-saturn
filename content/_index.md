@@ -45,7 +45,7 @@ sections:
         media_position: right
         media_width: fifty
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="616" height="347"
           src="https://www.youtube.com/embed/jUguElpaIvI" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -59,12 +59,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image_alt: Feature 2 placeholder image
+        image_alt: project introduction 
         media_position: left
         media_width: fifty
         align: right
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="616" height="347"
           src="https://www.youtube.com/embed/YzBLb_tnuOY" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -79,7 +79,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
-        image_alt: lorem-ipsum
+        image_alt: project introduction video
         media_position: top
         media_width: fifty
         align: center
