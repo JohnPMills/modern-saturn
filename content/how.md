@@ -32,6 +32,7 @@ sections:
           guides to boost your stats and upgrade your wellbeing.
         media_position: left
         media_width: fifty
+        image: images/Screenshot 2022-02-16 at 20.19.15.png
       - title: The GvD Community
         content: >
           This is a place where gamers can feel empowered to talk freely about
