@@ -96,7 +96,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2022-02-16 at 20.20.35.png
-      - title: 'JOHN MILLS, PHD'
+      - title: 'JOHN MILLS, PhD, CP'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
