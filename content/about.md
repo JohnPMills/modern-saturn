@@ -98,8 +98,14 @@ sections:
         image: images/Screenshot 2022-02-16 at 20.20.35.png
       - title: DR JOHN MILLS
         title_align: left
-        content: |
-          John is the creator of GvD and has been gaming for 30-years. 
+        content: >
+          John is the creator of GvD and has been gaming for 30-years. He is a
+          Chartered Psychologist and holds a BSc in Psychology and Childhood
+          Development, and a PhD in Social Cognition and Leadership. His
+          research focuses on examining values, virtues, norms, practices,
+          identities, and the psychosocial mechanisms that combine to regulate
+          behaviour. You can read more about John's research on his
+          [website](www.johnpmills.com).
         content_align: left
         actions: []
         actions_align: left
