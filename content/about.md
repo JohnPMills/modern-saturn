@@ -95,7 +95,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2022-02-16 at 20.20.35.png
-      - title: JOHN MILLS PhD
+      - title: JOHN MILLS
         title_align: left
         content: >
           John is the creator of GvD and has been gaming for 30-years. He is a
