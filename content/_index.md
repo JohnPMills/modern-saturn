@@ -27,7 +27,7 @@ sections:
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: IT'S NOT JUST GAMES THAT GLITCH
+      - title: PEOPLE GLITCH TOO
         content: >
           There is no denying that life can be tough. We're all in this journey
           together and there is a lot more we can often do to look after
@@ -45,12 +45,12 @@ sections:
         media_position: right
         media_width: fifty
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="616" height="347"
           src="https://www.youtube.com/embed/jUguElpaIvI" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: IT'S IMPORTANT TO FEEL CONNECTED
+      - title: FEEL CONNECTED
         content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
           - label: Learn More
@@ -59,12 +59,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image_alt: Feature 2 placeholder image
+        image_alt: project introduction 
         media_position: left
         media_width: fifty
         align: right
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="616" height="347"
           src="https://www.youtube.com/embed/YzBLb_tnuOY" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -79,7 +79,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
-        image_alt: lorem-ipsum
+        image_alt: project introduction video
         media_position: top
         media_width: fifty
         align: center

@@ -51,9 +51,8 @@ sections:
           others.
 
 
-          Gamers vs Depression is generously supported by men’s health charity
-          Movember. The organisation was founded in 2019 and currently has three
-          members of staff, based in the South-East of England (UK).
+          Gamers vs Depression is part of That Awfully Good Community Interest Company (12894917) and generously supported by men’s health charity
+          Movember. That Awfully Good Community Interest Company was founded by <a href="https://www.johnpmills.com">Dr John P. Mills</a> in 2020 with his fellow Director Nancy Borley. Dr Stewart Vella, Tristan Mayglothling, Henry Titly-Wall, and Kyran Clements also act as advisors to the organisation, supporting the development and success of our various projects. See our <a href="https://www.awfullygood.org">website</a> for more information.  
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_alt: People in a conference room
         media_position: left
@@ -61,21 +60,6 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: 'JOHN P. MILLS PHD, FHEA, CPSYCHOL'
-        content: >
-          John achieved his PhD from the University of Birmingham in 2015 and
-          works as a University Lecturer alongside his role here. His research
-          focuses on how values, virtues, norms, practices, identities, and
-          psychosocial mechanisms combine to regulate both individual and group
-          behaviour. He is a Fellow of the Higher Education Academy and has
-          twenty years experience of working as a coach, teacher, and now
-          lecturer. Outside of work, John has been married for 13 years and has
-          two sons under five which keep him busy.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/Screenshot 2021-11-30 at 14.56.13.png
       - title: SAM WILLIAMS
         content: >
           Sam is an avid gamer, currently playing Rainbow Six Siege
@@ -98,14 +82,14 @@ sections:
           also studied his undergraduate degree at the University of
           Hertfordshire and graduated with a 2:1 in 2015. He then went on to
           complete his Masters in Sport Psychology at the University of Essex in
-          2021, graduating with first class honours.
+          2021, graduating with distinction.
 
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2021-12-01 at 11.18.53.png
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
