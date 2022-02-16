@@ -42,7 +42,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: top
         media_width: fifty
         video_embed_html: >-
           <iframe width="616" height="347"
