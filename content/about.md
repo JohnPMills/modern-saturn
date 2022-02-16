@@ -54,12 +54,11 @@ sections:
           Gamers vs Depression is part of That Awfully Good Community Interest
           Company (12894917) and generously supported by men’s health charity
           Movember. That Awfully Good Community Interest Company was founded by
-          <a href="https://www.johnpmills.com">Dr John P. Mills</a> in 2020 with
-          his fellow Director Nancy Borley. Dr Stewart Vella, Tristan
-          Mayglothling, Henry Titly-Wall, and Kyran Clements also act as
-          advisors to the organisation, supporting the development and success
-          of our various projects. See our <a
-          href="https://www.awfullygood.org">website</a> for more information.  
+          Dr John P. Mills in 2020 with his fellow Director Nancy Borley. Dr
+          Stewart Vella (GvD specifically), Henry Titly-Wall, Tristan
+          Mayglothling, and Kyran Clements also act as advisors to the
+          organisation, supporting the development and success of our various
+          projects. See our website for more information.
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_alt: People in a conference room
         media_position: left
