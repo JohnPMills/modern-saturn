@@ -56,7 +56,7 @@ sections:
 
 
           **Mojo on PC**
-        image: images/Screenshot 2022-02-16 at 20.27.34.png
+        image: images/Asset 1-100-c10a89d2.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
