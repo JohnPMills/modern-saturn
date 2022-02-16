@@ -54,21 +54,19 @@ sections:
     subtitle: Don't take our word for it
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Holding content
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Eleanor Carr,** 
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Holding Content
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Gordon Norman,**
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
