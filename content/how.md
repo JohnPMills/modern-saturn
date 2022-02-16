@@ -30,11 +30,6 @@ sections:
           gaming performance as well as promoting positive mental health.
           Covering aspects such as exercise routines, diet and other useful
           guides to boost your stats and upgrade your wellbeing.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - title: The GvD Community
