@@ -51,8 +51,14 @@ sections:
           others.
 
 
-          Gamers vs Depression is part of That Awfully Good Community Interest Company (12894917) and generously supported by men’s health charity
-          Movember. That Awfully Good Community Interest Company was founded by <a href="https://www.johnpmills.com">Dr John P. Mills</a> in 2020 with his fellow Director Nancy Borley. Dr Stewart Vella, Tristan Mayglothling, Henry Titly-Wall, and Kyran Clements also act as advisors to the organisation, supporting the development and success of our various projects. See our <a href="https://www.awfullygood.org">website</a> for more information.  
+          Gamers vs Depression is part of That Awfully Good Community Interest
+          Company (12894917) and generously supported by men’s health charity
+          Movember. That Awfully Good Community Interest Company was founded by
+          Dr John P. Mills in 2020 with his fellow Director Nancy Borley. Dr
+          Stewart Vella (GvD), Henry Titly-Wall (GvD), Tristan Mayglothling, and
+          Kyran Clements also act as advisors to the organisation, supporting
+          the development and success of our various projects. See our website
+          for more information.
         image: images/Movember_Partner Stack_Funded Project_Black.png
         image_alt: People in a conference room
         media_position: left
@@ -73,7 +79,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image: images/Screenshot 2021-12-20 at 21.01.42.png
+        image: images/Screenshot 2022-02-16 at 21.09.06.png
       - title: LEE CUMBERS
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
@@ -88,8 +94,28 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image: images/Screenshot 2021-12-01 at 11.18.53.png
-    grid_cols: two
+        image: images/Screenshot 2022-02-16 at 20.20.35.png
+      - title: DR JOHN MILLS
+        title_align: left
+        content: >
+          John is the creator of GvD and has been gaming for 30-years. He is a
+          Chartered Psychologist and holds a BSc in Psychology and Childhood
+          Development, and a PhD in Social Cognition and Leadership. His
+          research focuses on examining values, virtues, norms, practices,
+          identities, and the psychosocial mechanisms that combine to regulate
+          behaviour. You can read more about John's research on his
+          [website](www.johnpmills.com).
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/Screenshot 2022-02-16 at 20.18.38.png
+    grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true

@@ -3,7 +3,6 @@ title: Learn
 sections:
   - type: hero_section
     title: HOW GVD WORKS
-    subtitle: Features Page Demo
     background_color: none
     background_image: images/men-playing-video-games.jpg
     background_image_opacity: 15
@@ -55,12 +54,11 @@ sections:
           around to help.
 
 
-          **Mojo on PC**
+          [**Mojo on PC**](https://www.youtube.com/user/mojoonpc)
         image: images/mojo-on-pc.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
