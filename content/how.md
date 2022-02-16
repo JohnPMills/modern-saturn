@@ -18,7 +18,7 @@ sections:
           positive lifestyle changes that facilitate positive mental wellbeing.
           Our overarching goal is to equip gamers with the tools to manage their
           own mental health and the ability to help and support others.
-        image: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
+        image: images/Screenshot 2022-02-16 at 20.21.39.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
