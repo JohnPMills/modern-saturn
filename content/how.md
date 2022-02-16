@@ -18,7 +18,7 @@ sections:
           positive lifestyle changes that facilitate positive mental wellbeing.
           Our overarching goal is to equip gamers with the tools to manage their
           own mental health and the ability to help and support others.
-        image: images/about-3.jpg
+        image: images/Screenshot 2022-02-16 at 20.21.39.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
@@ -30,13 +30,9 @@ sections:
           gaming performance as well as promoting positive mental health.
           Covering aspects such as exercise routines, diet and other useful
           guides to boost your stats and upgrade your wellbeing.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
+        image: images/Screenshot 2022-02-16 at 20.19.15.png
       - title: The GvD Community
         content: >
           This is a place where gamers can feel empowered to talk freely about
@@ -45,7 +41,7 @@ sections:
           and support each other on and off the virtual field of play, it’s that
           simple! Check out our Community page and join our Discord server for
           more information!
-        image: images/about-1.jpg
+        image: images/Screenshot 2022-02-16 at 20.21.17.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
@@ -53,24 +49,18 @@ sections:
     title: Hear from our Champions
     subtitle: Don't take our word for it
     grid_items:
-      - content: >-
-          Holding content
+      - content: >
+          I've had my fair shares of issues with mental health and this is why I
+          am very glad that there are organisations like Gamers vs Depression
+          around to help.
 
 
-          **Eleanor Carr,** 
-        image: images/eleanor-carr.png
+          **Mojo on PC**
+        image: images/mojo-on-pc.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Holding Content
 
-
-          **Gordon Norman,**
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
