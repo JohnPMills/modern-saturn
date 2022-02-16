@@ -3,7 +3,6 @@ title: Learn
 sections:
   - type: hero_section
     title: HOW GVD WORKS
-    subtitle: Features Page Demo
     background_color: none
     background_image: images/men-playing-video-games.jpg
     background_image_opacity: 15
