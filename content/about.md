@@ -97,7 +97,6 @@ sections:
         actions_width: auto
         image: images/Screenshot 2022-02-16 at 20.20.35.png
       - title: JOHN MILLS PhD
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
