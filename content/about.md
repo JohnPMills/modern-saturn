@@ -96,7 +96,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2022-02-16 at 20.20.35.png
-      - title: DJOHN MILLS
+      - title: DR JOHN MILLS
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
