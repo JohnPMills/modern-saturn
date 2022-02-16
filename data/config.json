@@ -45,7 +45,7 @@
         "secondary_nav_links": [
             {
                 "label": "Login",
-                "url": "https://courses.awfullygood.org",
+                "url": "https://courses.awfullygood.org/login/index.php",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
