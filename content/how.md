@@ -49,8 +49,11 @@ sections:
     title: Hear from our Champions
     subtitle: Don't take our word for it
     grid_items:
-      - content: |
-          This sounds like a really great project. 
+      - content: >
+          I've had my fair shares of issues with mental health and this is why I
+          am very glad that there are organisations like Gamers vs Depression
+          around to help.
+
 
           **Mojo on PC**
         image: images/eleanor-carr.png
