@@ -41,7 +41,7 @@ sections:
           and support each other on and off the virtual field of play, it’s that
           simple! Check out our Community page and join our Discord server for
           more information!
-        image: images/about-1.jpg
+        image: images/Screenshot 2022-02-16 at 20.21.17.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
