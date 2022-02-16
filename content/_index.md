@@ -27,7 +27,7 @@ sections:
     title: MEN'S MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
-      - title: IT'S NOT JUST GAMES THAT GLITCH
+      - title: PEOPLE GLITCH TOO
         content: >
           There is no denying that life can be tough. We're all in this journey
           together and there is a lot more we can often do to look after
@@ -50,7 +50,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: IT'S IMPORTANT TO FEEL CONNECTED
+      - title: FEEL CONNECTED
         content: "There’s an assumption that living a healthy lifestyle involves eating nutritious foods, exercising regularly and getting adequate sleep. But social connection is rarely mentioned, even though it is pivotal to both our mental and physical wellbeing. Research suggests that loneliness is rising dramatically, and that an absence or lack of human connection could be more harmful to your health than obesity, smoking and high blood pressure.\_ \n"
         actions:
           - label: Learn More
