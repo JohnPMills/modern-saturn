@@ -80,7 +80,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image: images/Screenshot 2021-12-20 at 21.01.42.png
+        image: images/Screenshot 2022-02-16 at 21.09.06.png
       - title: LEE CUMBERS
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
