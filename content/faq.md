@@ -6,7 +6,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    subtitle: Your Questions Answered
 seo:
   title: Pricing
   description: This is the pricing page
