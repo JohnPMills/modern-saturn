@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: GET SUPPORT
+    title: FREQUENTLY ASKED QUESTIONS
     align: center
     padding_top: large
     padding_bottom: small
