@@ -88,6 +88,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "FAQs",
+                "url": "/faq",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
@@ -175,19 +185,10 @@
             },
             {
                 "label": "YouTube",
-                "url": "https://www.youtube.com/channel/UCGjv_bpys9ppYoX61gG3KnA ",
+                "url": "https://www.youtube.com/channel/UCGjv_bpys9ppYoX61gG3KnA",
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
                 "icon_position": "center",
                 "new_window": true
             }
