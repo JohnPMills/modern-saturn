@@ -6,11 +6,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    subtitle: >-
-      If you're ever worried that someone's life is in immediate danger, call or
-      go directly to the emergency services in your country. In other
-      situations, here is a list of mental health helplines for a variety of
-      different countries.
+    subtitle: Your Questions Answered
 seo:
   title: Pricing
   description: This is the pricing page
