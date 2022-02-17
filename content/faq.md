@@ -11,40 +11,7 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
-
-
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-          ![Placeholder
-          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
-          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
-          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
-          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
-          blandit consequat. Phasellus quis posuere quam.
-
-
-          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
-          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
-          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
-          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
-          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
-          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
-          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
-          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
-          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
-          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-          justo.
+        content: "**Q: Why are you aiming this at 16-24 year old men?**\nA: The World Health Organization estimates that approximately 6–8% of young people live with depression. Mental disorders more broadly, account for the highest proportion of disease among young people worldwide, with depression soon poised to become the largest single contributor to the burden of disease globally. Half of all lifetime mental health issues emerge by the age of 14 and three quarters by the age of 24. However, most young people facing mental health problems are often reluctant to seek help (Rickwood, Deane, Wilson, & Ciarrochi, 2005; Sawyer et al., 2001). As such, adolescence is a critical time for the development of depression and mental health literacy (MHL) and support. Evidence from previous reviews and meta-analyses suggest that depression and MHL enhancement may increase early detection and help-seeking intentions. Previous research indicates that population-level mental health literacy is poor. This is especially true among adolescents (Coles et al., 2016; Lubman et al., 2017; Wright, McGorry, Harris, Jorm, & Pennell, 2006) and in particular, adolescent males (Haavik, Joa, Hatloy, Stain, & Langeveld, 2017). \n\nAdolescents face a range of barriers to seeking professional help including: stigmatising attitudes, having a preference for self-reliance, and lacking knowledge about the signs and symptoms of mental health problems or when and how to seek professional help. Adolescent males, in particular, also report excessive conformity to traditional masculine norms (Möller-Leimkühler, 2002). From a young age, the “boys don’t cry” narrative is perpetuated whereby boys are taught to be more stoic, to ignore symptoms, and to be self-sufficient (Mahalik et al., 2003). As such, showing weakness and vulnerability, and therefore seeking help, can be seen as a threat to such outdated views on masculinity (Schaub & Williams, 2007). Although the ability to recognise depression is generally low at a population level, research has shown that males are particularly poor (Haavik et al., 2017). Given the societal challenges discussed above, we believe it is important to create a space where young men can talk freely to other young men with similar experiences, interests, and concerns. This is not exclusionary, we believe everyone deserves such spaces and we will do our best to create similar communities where they are needed as we grow. \n\n**Q: How do I access the course?**\n\nA: You can access the course by clicking the ‘Try The Beta’ button which will take you to the login page for our programme.\n\n**Q: How do I sign up?**\n\nA: When you get to the courses login, you need to create an account to make sure you can track your progress while you complete the programme. Once you have created an account, you can then login with your username and password.\n\n**Q: Do I have to pay for the course?**\n\nA: No. It is completely free. If you feel like making a donation to help us help others, we will gratefully accept.\n\n**Q: How long does the course take?**\n\nA: The course has 8 modules, lasting between 10 and 20 minutes each. You can take as long as you need to complete the course, although we suggest you complete it within 2 weeks of starting the course.\_\n\n**Q: Why do I need to complete the questionnaire?**\n\nA: The questionnaires are crucial for us trying to understand how our programme helps improve mental health literacy and your answers are completely confidential.\n\n**Q: How can I contact you for support with the programme?**\n\nA: If you need additional help while completing the programme, you can contact us at <team@awfullygood.org> and we will try and answer your email as soon as possible.\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
