@@ -1,5 +1,5 @@
 ---
-title: Get Help
+title: FAQ
 sections:
   - type: hero_section
     title: GET SUPPORT
