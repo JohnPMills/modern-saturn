@@ -24,6 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: images/45908.jpg
 seo:
   title: Pricing
   description: This is the pricing page
