@@ -21,6 +21,7 @@ sections:
     type: features_section
     background_image: >-
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
+    title: FREQUENTLY ASKED QUESTIONS
 seo:
   title: Pricing
   description: This is the pricing page
