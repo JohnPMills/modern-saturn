@@ -2,7 +2,7 @@
 title: sign-up
 sections:
   - type: hero_section
-    subtitle: THANK YOU FOR JOINING OUR PRIVATE BETA WAITING LIST
+    subtitle: THANK YOU FOR TAKING THE FIRST STEP
     align: center
     padding_top: medium
     padding_bottom: medium
