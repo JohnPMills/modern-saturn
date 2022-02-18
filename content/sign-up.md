@@ -24,8 +24,8 @@ sections:
 
       Please complete the adjacent form with details of your favourite games,
       hobbies, and age. **You will then be directed to our training platform and
-      asked to create an account with your username and password of choice.
-      **This is so you can complete the course at your own pace. 
+      asked to create an account with your username and password of choice**.
+      This is so you can complete the course at your own pace.
 
 
       Due to this being a beta test and not the full roll out, the platform will
