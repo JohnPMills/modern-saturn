@@ -19,13 +19,17 @@ sections:
       We're extremely glad to have your interest in the platform. Before we give
       you full access to our "Level Up" Mental Health Literacy Training
       Programme" and invite you into the community of other early adopters, we'd
-      like to know a little more about you. Please complete the adjacent form
-      with details of your favourite games, hobbies, and age. **You will then be
-      directed to our training platform and asked to create an account with your
-      username and password of choice. **This is so you can complete the course
-      at your own pace. Due to this being a beta test and not the full roll out,
-      the platform will remain live for 30 days before being closed for further
-      development. 
+      like to know a little more about you. 
+
+
+      Please complete the adjacent form with details of your favourite games,
+      hobbies, and age. \*\*You will then be directed to our training platform
+      and asked to create an account with your username and password of choice. 
+
+
+      \*\*This is so you can complete the course at your own pace. Due to this
+      being a beta test and not the full roll out, the platform will remain live
+      for 30 days before being closed for further development.
 
 
       If you have more questions before joining, please visit our [FAQ](/faq)
