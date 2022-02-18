@@ -24,10 +24,10 @@ sections:
       release the first round of invites in February 2022.**
 
 
-      ## Requirements to join
+      ## Who is this for?
 
 
-      Please note, Gamers vs. Depression is for young men aged 16 to 24.
+      Gamers vs. Depression is for young men aged 16 to 24.
 
 
       ## Why just young men?
@@ -38,11 +38,11 @@ sections:
       personal topics, we feel it is important that they are able to communicate
       with peers. We hope to roll out similarly focused communities for other
       demographics in the future once we establish a proof of concept. Please
-      sign up to our newsletter for our latest posts and advice. 
+      sign up to our newsletter for our latest posts and advice.
 
 
       If you have more questions before joining, please visit our [FAQ](/faq)
-      page or [email](mailto:team@awfullygood.org) the team. 
+      page or [email](mailto:team@awfullygood.org) the team.
     content_align: left
     form_position: right
     form_width: fifty
