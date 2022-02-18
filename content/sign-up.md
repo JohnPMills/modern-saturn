@@ -38,7 +38,11 @@ sections:
       personal topics, we feel it is important that they are able to communicate
       with peers. We hope to roll out similarly focused communities for other
       demographics in the future once we establish a proof of concept. Please
-      sign up to our newsletter for our latest posts and advice.
+      sign up to our newsletter for our latest posts and advice. 
+
+
+      If you have more questions before joining, please visit our [FAQ](/faq)
+      page or [email](mailto:team@awfullygood.org) the team. 
     content_align: left
     form_position: right
     form_width: fifty
