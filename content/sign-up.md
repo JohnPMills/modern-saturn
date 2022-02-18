@@ -2,7 +2,7 @@
 title: sign-up
 sections:
   - type: hero_section
-    subtitle: THANK YOU FOR JOINING OUR PRIVATE BETA WAITING LIST
+    subtitle: THANK YOU FOR JOINING US ON THIS JOURNEY
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -17,17 +17,17 @@ sections:
 
 
       We're extremely glad to have your interest in the platform. Before we give
-      you full access to our "Level Up: Mental Health Literacy Training
+      you full access to our "Level Up" Mental Health Literacy Training
       Programme" and invite you into the community of other early adopters, we'd
       like to know a little more about you. Please complete the adjacent form
       with details of your favourite games, hobbies, and age. **We hope to
       release the first round of invites in February 2022.**
 
 
-      ## Requirements to join
+      ## Who is this for?
 
 
-      Please note, Gamers vs. Depression is for young men aged 16 to 24.
+      Gamers vs. Depression is for young men aged 16 to 24.
 
 
       ## Why just young men?
@@ -39,6 +39,10 @@ sections:
       with peers. We hope to roll out similarly focused communities for other
       demographics in the future once we establish a proof of concept. Please
       sign up to our newsletter for our latest posts and advice.
+
+
+      If you have more questions before joining, please visit our [FAQ](/faq)
+      page or [email](mailto:team@awfullygood.org) the team.
     content_align: left
     form_position: right
     form_width: fifty
