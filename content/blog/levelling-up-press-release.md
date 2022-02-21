@@ -15,7 +15,7 @@ excerpt: >-
   Using the money raised by their epic community, Movember have been able to
   fund 11 new mental health initiatives including Gamers vs Depression...
 thumb_image_alt: Post 3 placeholder image
-image_alt: John and Lee
+image_alt: John and Lee with Movember and GvD logos
 image_position: top
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
