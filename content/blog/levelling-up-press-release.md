@@ -45,10 +45,20 @@ author: data/team/gustav-purpleson.json
 thumb_image: images/Asset 2-100.jpg
 image: images/Asset 2-100.jpg
 ---
-Using the money raised by their epic community, Movember have been able to fund 11 new mental health initiatives including Gamers vs Depression.
+Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to young men around the world.
 
-Gamers vs Depression uses online gaming as a vehicle for developing depression literacy and better social connections in adolescent males. Delivered by That Awfully Good Community Interest Company based in Colchester, Essex, the aim is for ‘gaming teams’ to act as a social/peer-support group where young men can openly discuss challenges outside of their immediate network in a safe and supportive manner.
 
-> " People have been turning to gaming to fulfil that social connection we’ve not been able to have had in person over the last year. " - Gamers vs. Depression Founder, Dr John Mills.
+Gamers vs Depression founder, Dr John Mills said:
 
-The funding comes through Movember's Social Connections Challenge; aimed at identifying strategies that will strengthen the social connections of men who are struggling with isolation and poor mental health, particularly in the wake of COVID-19 lockdowns. [Click here](https://uk.movember.com/story/movember-funding-for-11-new-projects-to-support-men-s-mental-health?tag=where-the-money-goes) to learn about the other projects Movember has supported.
+>  “We want to equip gamers with knowledge around mental health disorders so they can better support each other.”
+
+The organisation is currently conducting a closed beta test of its programme and looking for around 200 volunteers to give feedback. Sam Williams, who is a co-project lead for Gamers vs. Depression and a pro-gamer for JLingz esports team said: 
+
+> “We are taking our time with the programme to get it right. We have a duty to the community with this to make sure this programme is as effective as possible.”
+
+In addition to their depression literacy programme, Gamers vs. Depression also provide access to resources to improve gaming performance, improve sleep hygiene, create positive exercise routines, maintain a nutritious diet, as well as a parents guide to supporting gamers. 
+
+> “Everything is free to access” says Dr Mills. “We don’t believe in monetising people’s mental health”.
+
+To take part in the beta test or learn more about Gamers vs. Depression, visit www.gvd.gg.
+
