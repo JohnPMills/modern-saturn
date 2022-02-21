@@ -8,7 +8,7 @@ date: '0002-02-21'
 categories:
   - data/categories/news.json
 tags: []
-thumb_image_alt: Post 3 placeholder image
+thumb_image_alt: John and Lee with Movember and GvD logo
 image_alt: John and Lee with Movember and GvD logos
 image_position: top
 seo:
