@@ -43,7 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 author: data/team/gustav-purpleson.json
-thumb_image: images/Asset 2-100.jpg
+thumb_image: images/Screenshot 2022-02-16 at 20.18.38.png
 image: images/Asset 2-100.jpg
 ---
 Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to young men around the world.
