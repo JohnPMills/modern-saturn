@@ -8,7 +8,6 @@ date: '0002-02-21'
 categories:
   - data/categories/news.json
 tags:
-  - data/tags/tag-gfqt9txly.json
   - data/tags/tag-fadzxjnv8.json
   - data/tags/tag-2ih5kkc6u.json
 excerpt: >-
