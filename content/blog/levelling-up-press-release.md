@@ -7,8 +7,7 @@ subtitle: >-
 date: '0002-02-21'
 categories:
   - data/categories/news.json
-tags:
-  - data/tags/tag-2ih5kkc6u.json
+tags: []
 excerpt: >-
   Using the money raised by their epic community, Movember have been able to
   fund 11 new mental health initiatives including Gamers vs Depression...
