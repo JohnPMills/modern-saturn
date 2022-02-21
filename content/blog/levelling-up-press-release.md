@@ -7,14 +7,8 @@ subtitle: >-
 date: '0002-02-21'
 categories:
   - data/categories/news.json
-tags:
-  - data/tags/tag-gfqt9txly.json
-  - data/tags/tag-fadzxjnv8.json
-  - data/tags/tag-2ih5kkc6u.json
-excerpt: >-
-  Using the money raised by their epic community, Movember have been able to
-  fund 11 new mental health initiatives including Gamers vs Depression...
-thumb_image_alt: Post 3 placeholder image
+tags: []
+thumb_image_alt: John and Lee with Movember and GvD logo
 image_alt: John and Lee with Movember and GvD logos
 image_position: top
 seo:
@@ -47,6 +41,10 @@ layout: post
 author: data/team/gustav-purpleson.json
 thumb_image: images/Screenshot 2022-02-16 at 20.18.38.png
 image: images/Asset 2-100.jpg
+excerpt: >-
+  Supported by the Men’s Health Charity Movember, Gamers vs Depression (GVD) is
+  a global mental health project that uses gaming to teach young men about the
+  importance of mental health, self-care, and social connections.
 ---
 Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to young men around the world.
 
