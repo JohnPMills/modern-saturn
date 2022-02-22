@@ -24,7 +24,7 @@ sections:
       Gamers vs. Depression is a global mental health project that uses esports
       to teach gamers about mental health.
   - type: features_section
-    title: MEN'S MENTAL HEALTH
+    title: MENTAL HEALTH
     subtitle: ENHANCE YOUR UNDERSTANDING OF
     features:
       - title: PEOPLE GLITCH TOO
