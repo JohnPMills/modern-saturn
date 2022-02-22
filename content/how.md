@@ -1,5 +1,5 @@
 ---
-title: Learn
+title: Sign-Up
 sections:
   - type: hero_section
     title: HOW GVD WORKS
