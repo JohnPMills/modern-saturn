@@ -11,7 +11,7 @@ sections:
       - title: Our Mission
         content: >
           At GvD, we strive to use gaming and esports as a vehicle to deliver
-          Mental Health Literacy (MHL) programmes to young men around the World
+          Mental Health Literacy (MHL) programmes to gamers around the World
           using unique, bespoke workshops. We also aim to reduce mental health
           stigma, increase help seeking behaviours in gamers and promote
           positive lifestyle changes that facilitate positive mental wellbeing.
