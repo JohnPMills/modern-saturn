@@ -44,7 +44,7 @@ image: images/Asset 2-100.jpg
 ---
 Using the money raised by their epic community, Movember have been able to fund 11 new mental health initiatives including Gamers vs Depression.
 
-Gamers vs Depression uses online gaming as a vehicle for developing depression literacy and better social connections in adolescent males. Delivered by That Awfully Good Community Interest Company based in Colchester, Essex, the aim is for ‘gaming teams’ to act as a social/peer-support group where young men can openly discuss challenges outside of their immediate network in a safe and supportive manner.
+Gamers vs Depression uses esports as a vehicle for developing depression literacy and better social connections in gamers. Delivered by That Awfully Good Community Interest Company based in Colchester, Essex, the aim is for ‘gaming teams’ to act as a social/peer-support group where young men can openly discuss challenges outside of their immediate network in a safe and supportive manner.
 
 > " People have been turning to gaming to fulfil that social connection we’ve not been able to have had in person over the last year. " - Gamers vs. Depression Founder, Dr John Mills.
 
