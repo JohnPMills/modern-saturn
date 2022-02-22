@@ -46,7 +46,7 @@ excerpt: >-
   a global mental health project that uses gaming to teach young men about the
   importance of mental health, self-care, and social connections.
 ---
-Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to young men around the world.
+Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to gamers around the world.
 
 Gamers vs Depression founder, Dr John Mills said “We want to equip gamers with knowledge around mental health disorders so they can better support each other.”
 
