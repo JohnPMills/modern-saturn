@@ -15,15 +15,15 @@ sections:
     features:
       - content: >
           Gamers vs Depression (GVD) is a global mental health project that uses
-          gaming to teach young men about the importance of mental health,
+          esports to teach gamers about the importance of mental health,
           self-care, and social connections.
 
 
           With support from men’s health charity Movember, Gamers vs Depression
           is aiming to establish whether esports can be used as a vehicle to
-          deliver mental health literacy programmes to young men around the
-          world. We also aim to reduce stigma and increase help seeking
-          behaviours in gamers.
+          deliver mental health literacy programmes to gamers around the world.
+          We also aim to reduce stigma and increase help seeking behaviours in
+          gamers.
 
 
           Our community is a place where gamers can feel empowered to talk
