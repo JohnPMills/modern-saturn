@@ -45,7 +45,7 @@ sections:
         media_position: right
         media_width: fifty
         video_embed_html: >-
-          <iframe width="616" height="315"
+          <iframe width="616" height="347"
           src="https://www.youtube.com/embed/wrmNtx6keM0" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
