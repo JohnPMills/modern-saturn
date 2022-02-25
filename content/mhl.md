@@ -21,6 +21,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: >
+      Once watched, it is time to complete [Quiz
+      1](https://essex.eu.qualtrics.com/jfe/form/SV\_3xvIYYWXb0uJTyS).
 seo:
   title: ''
   description: ''
