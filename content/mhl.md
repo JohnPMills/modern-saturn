@@ -46,7 +46,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Module 1
-    subtitle: lorem-ipsum
+    subtitle: Introduction to Mental Health
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
