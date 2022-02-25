@@ -9,7 +9,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          sss
+          ![](https://www.youtube.com/watch?v=S9n03uV6pNg)
         content_align: left
         actions: []
         actions_align: left
