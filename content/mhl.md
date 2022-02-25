@@ -2,7 +2,6 @@
 title: Mental Health Literacy
 sections:
   - title: Programme Overview
-    subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
