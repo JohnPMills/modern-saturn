@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mental Health Literacy
 sections: []
 seo:
   title: ''
