@@ -151,7 +151,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Module 7
-    subtitle: lorem-ipsum
+    subtitle: How you can look after yourself
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
