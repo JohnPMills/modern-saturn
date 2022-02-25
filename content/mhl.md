@@ -2,7 +2,7 @@
 title: Mental Health Literacy
 sections:
   - title: Mental Health Literacy
-    subtitle: lorem-ipsum
+    subtitle: Level Up Your
     actions: []
     grid_items: []
     grid_cols: three
