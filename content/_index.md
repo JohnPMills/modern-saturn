@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Mental Health Literacy
 sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
