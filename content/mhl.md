@@ -194,8 +194,22 @@ sections:
     type: hero_section
   - title: Quiz 2
     subtitle: The Final Component
-    content: |
+    content: >+
       [Quiz 2](https://essex.eu.qualtrics.com/jfe/form/SV\_1FfJ3UMS2JTqBcq)
+
+
+      Thank you for completing the course. 
+
+
+      We do not collect any personally identifiable information as part of this
+      process and instead rely on your using a memorable keywords to combine the
+      quizzes and provide you with a mechanism to withdraw your data should you
+      change your mind.
+
+
+      If you are unclear on anything, please reach out to our programme leads
+      (Sam and Lee) at team@awfullygood.org
+
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
