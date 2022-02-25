@@ -24,7 +24,7 @@ sections:
     content: >
       Once watched, it is time to complete [Quiz
       1](https://essex.eu.qualtrics.com/jfe/form/SV\_3xvIYYWXb0uJTyS).
-  - title: lorem-ipsum
+  - title: 'Module 2: Signs of Positive and Negative Mental Health'
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
