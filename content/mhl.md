@@ -193,7 +193,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Quiz 2
-    subtitle: lorem-ipsum
+    subtitle: The Final Component
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
