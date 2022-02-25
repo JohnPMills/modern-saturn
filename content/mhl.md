@@ -1,7 +1,7 @@
 ---
 title: Mental Health Literacy
 sections:
-  - title: lorem-ipsum
+  - title: Programme Overview
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
