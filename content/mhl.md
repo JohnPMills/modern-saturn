@@ -5,7 +5,7 @@ sections:
     subtitle: Level Up Your
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Programme Overview
         subtitle: lorem-ipsum
         title_align: left
         content: >-
