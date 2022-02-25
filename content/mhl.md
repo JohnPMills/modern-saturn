@@ -45,6 +45,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: "## Negative Mental Health\n\nNegative Mental Health can grow from being distressed often, however mental ill health does not grow directly from distress. Click through the tabs to learn more.\_\n\n## No Distress, Problem or Disorder\n\nThis is where positive mental health often occurs, just living life to its fullest and not having to deal with everyday stressors. It is unlikely that many individuals will be at this point in their mental health for an extended duration, but finding a time and place to relax from all stressors and clear your mind is a great way to keep your mental health.\_\n\n## Mental Wellbeing\n\nMIND defines mental wellbeing as a state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community.\n\nMental wellbeing is different for everyone, with a wide range of feelings and thoughts influencing our emotions and behaviour everyday. By being in a place of good mental wellbeing, it helps strengthen us against developing mental health issues and also enables us to help people cope better with their own existing\_[mental health disorders](https://courses.awfullygood.org/mod/page/view.php?id=85).\n"
   - title: Module 2
     subtitle: ' Signs of Positive and Negative Mental Health'
     actions: []
