@@ -144,7 +144,7 @@ seo:
     - name: 'twitter:description'
       value: Game Changing Mental Health
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---
