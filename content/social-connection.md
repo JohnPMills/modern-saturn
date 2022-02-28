@@ -25,6 +25,13 @@ seo:
     information/interaction; including educational resources and workshops and
     our GvD community.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Gamers vs Depression. We provide a multifaceted and diverse hub of
+        information/interaction; including educational resources and workshops
+        and our GvD community.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
