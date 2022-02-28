@@ -50,7 +50,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Gamers vs. Depression News and Advice
       keyName: property
     - name: 'og:description'
       value: >
