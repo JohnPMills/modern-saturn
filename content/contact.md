@@ -93,13 +93,24 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: |
+        Get in contact with the Gamers vs. Depression team. 
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: |-
+        Get in contact with the Gamers vs. Depression team. 
+        Email team@awfullygood.org.
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

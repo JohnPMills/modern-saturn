@@ -30,23 +30,29 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: FAQs
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: >-
+        Got a question about Gamers vs. Depression (GvD) approach to mental
+        health literacy and social connection? It may already have been answered
+        here.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: FAQs
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >
+        Got a question about Gamers vs. Depression (GvD) approach to mental
+        health literacy and social connection? It may already have been answered
+        here.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---
