@@ -248,5 +248,9 @@ seo:
         Project.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Gamers vs. Depression (GvD) Mental Health Literacy Programme
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
