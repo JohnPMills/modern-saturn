@@ -90,7 +90,7 @@ seo:
       value: General Enquiries
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: All the ways to get in touch with the Gamers vs. Depression Team.
       keyName: property
     - name: 'twitter:card'
       value: summary
