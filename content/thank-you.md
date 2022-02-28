@@ -39,4 +39,8 @@ seo:
       value: images/large_1.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 ---
