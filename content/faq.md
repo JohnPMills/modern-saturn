@@ -33,7 +33,10 @@ seo:
       value: FAQs
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: >-
+        Got a question about Gamers vs. Depression (GvD) approach to mental
+        health literacy and social connection? It may already have been answered
+        here.
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
