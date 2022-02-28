@@ -13,7 +13,7 @@ sections:
     background_color: none
 layout: advanced
 seo:
-  title: ''
+  title: Thank You from the Gamers vs. Depression (GvD) Team
   description: ''
   robots: []
   extra: []
