@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
       relativeUrl: true
 layout: advanced
 ---
