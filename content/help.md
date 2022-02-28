@@ -192,7 +192,7 @@ seo:
     - name: 'twitter:description'
       value: This is the pricing page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---
