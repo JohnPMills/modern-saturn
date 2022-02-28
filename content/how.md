@@ -87,7 +87,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: How Gamers vs. Depression (GvD) works
       keyName: property
     - name: 'og:description'
       value: This is the features page
