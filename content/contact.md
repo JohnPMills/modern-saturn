@@ -90,7 +90,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Get in Touch
       keyName: property
     - name: 'og:description'
       value: 'Get in touch and talk to our team. We''re online and here to help. '
