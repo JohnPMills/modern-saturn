@@ -140,7 +140,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Gamers vs. Depressiom
+      value: Gamers vs. Depression
     - name: 'twitter:description'
       value: Game Changing Mental Health
     - name: 'twitter:image'
