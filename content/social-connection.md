@@ -37,5 +37,9 @@ seo:
       value: Gamers vs. Depression (GvD) Enhancing Social Connection
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Gamers vs. Depression (GvD) Enhancing Social Connection
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
