@@ -81,7 +81,7 @@ sections:
     background_image_opacity: 20
 seo:
   title: General Enquiries
-  description: This is the general enquiries page
+  description: All the ways to get in touch with the Gamers vs. Depression Team.
   extra:
     - name: 'og:type'
       value: website
