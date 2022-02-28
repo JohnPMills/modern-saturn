@@ -47,7 +47,10 @@ seo:
     - name: 'twitter:title'
       value: FAQs
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >
+        Got a question about Gamers vs. Depression (GvD) approach to mental
+        health literacy and social connection? It may already have been answered
+        here.
     - name: 'twitter:image'
       value: images/large_1.png
       relativeUrl: true
