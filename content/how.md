@@ -104,7 +104,10 @@ seo:
     - name: 'twitter:title'
       value: How Gamers vs. Depression (GvD) works
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        At GvD, we strive to use gaming and esports as a vehicle to deliver
+        Mental Health Literacy (MHL) programmes to gamers around the World using
+        unique, bespoke workshops. 
     - name: 'twitter:image'
       value: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
       relativeUrl: true
