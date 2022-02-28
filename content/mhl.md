@@ -232,7 +232,9 @@ sections:
     type: hero_section
 seo:
   title: Gamers vs. Depression
-  description: ''
+  description: >-
+    Welcome to Gamers vs. Depression. Providers of Game Changing Mental Health.
+    Mental Health Literacy. Social Connection. Movember Funded Project.
   robots: []
   extra: []
 layout: advanced
