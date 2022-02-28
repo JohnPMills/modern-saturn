@@ -157,7 +157,7 @@ seo:
         developing mental health literacy and social connection in gamers.
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
