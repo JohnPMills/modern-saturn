@@ -31,4 +31,8 @@ seo:
         team if you need any help.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Thank You from the Gamers vs. Depression (GvD) Team
+      keyName: property
+      relativeUrl: false
 ---
