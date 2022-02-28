@@ -72,7 +72,7 @@ sections:
       - title: BELONG TO A TEAM
         actions:
           - label: TRY THE BETA
-            url: /sign-up
+            url: /sign-up2
             style: secondary
             has_icon: false
             icon: arrow-left
