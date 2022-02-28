@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: General Enquiries
+      value: Sign Up for Gamers vs. Depression
     - name: 'twitter:description'
       value: >-
         We're stoked that you want to sign up for our mental health literacy
