@@ -163,7 +163,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Learn about Gamers vs. Depression and their Game Changing Approach to
+        developing mental health literacy and social connection in gamers.
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
