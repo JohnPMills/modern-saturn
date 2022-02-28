@@ -32,7 +32,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: FAQs
+      value: GvD's FAQs
       keyName: property
     - name: 'og:description'
       value: >-
