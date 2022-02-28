@@ -90,7 +90,10 @@ seo:
       value: How Gamers vs. Depression (GvD) works
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: >-
+        At GvD, we strive to use gaming and esports as a vehicle to deliver
+        Mental Health Literacy (MHL) programmes to gamers around the World using
+        unique, bespoke workshops. 
       keyName: property
     - name: 'og:image'
       value: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
