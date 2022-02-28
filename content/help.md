@@ -182,7 +182,7 @@ seo:
       value: This is the pricing page
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
