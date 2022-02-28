@@ -198,9 +198,8 @@ seo:
     - name: 'twitter:description'
       value: >-
         If you're ever worried that someone's life is in immediate danger, call
-        or go directly to the emergency services in your country. In other
-        situations, here is a list of mental health helplines for a variety of
-        different countries.
+        or go directly to the emergency services in your country. A list of
+        mental health helplines.
     - name: 'twitter:image'
       value: images/large_1.png
       relativeUrl: true
