@@ -231,7 +231,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
 seo:
-  title: ''
+  title: Gamers vs. Depression
   description: ''
   robots: []
   extra: []
