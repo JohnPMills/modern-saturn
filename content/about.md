@@ -150,7 +150,9 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Learn about Gamers vs. Depression and their Game Changing Approach to
+        developing mental health literacy and social connection in gamers.
       keyName: property
     - name: 'og:image'
       value: images/about-1.jpg
