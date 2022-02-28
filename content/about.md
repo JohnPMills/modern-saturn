@@ -157,7 +157,7 @@ seo:
         developing mental health literacy and social connection in gamers.
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -169,7 +169,7 @@ seo:
         Learn about Gamers vs. Depression and their Game Changing Approach to
         developing mental health literacy and social connection in gamers.
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---

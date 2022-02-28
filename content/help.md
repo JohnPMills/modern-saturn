@@ -179,7 +179,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: GetS Support
+      value: Get Support
       keyName: property
     - name: 'og:description'
       value: >-

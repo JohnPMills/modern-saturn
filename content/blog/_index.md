@@ -50,7 +50,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Gamers vs. Depression News and Advice
       keyName: property
     - name: 'og:description'
       value: >
@@ -64,11 +64,13 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Gamers vs. Depression News and Advice
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >
+        Get the latest news and advice from Gamers vs. Depression (GvD). Mental
+        Health Literacy, Social Connection, and more.
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---

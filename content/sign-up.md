@@ -86,8 +86,11 @@ sections:
     background_image_opacity: 20
     background_image: images/bg-518a39ac.png
 seo:
-  title: General Enquiries
-  description: This is the general enquiries page
+  title: Sign Up for Gamers vs. Depression
+  description: >-
+    We're stoked that you want to sign up for our mental health literacy
+    programme. Please complete the form and you will be redirected to the
+    course. 
   extra:
     - name: 'og:type'
       value: website
@@ -96,16 +99,26 @@ seo:
       value: Sign Up for Gamers vs. Depression
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: >-
+        We're stoked that you want to sign up for our mental health literacy
+        programme. Please complete the form and you will be redirected to the
+        course. 
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: General Enquiries
+      value: Sign Up for Gamers vs. Depression
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: >-
+        We're stoked that you want to sign up for our mental health literacy
+        programme. Please complete the form and you will be redirected to the
+        course. 
     - name: 'og:image'
-      value: images/3156605.jpg
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
 layout: advanced

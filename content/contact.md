@@ -90,7 +90,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Get in Touch
       keyName: property
     - name: 'og:description'
       value: 'Get in touch and talk to our team. We''re online and here to help. '
@@ -98,11 +98,9 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Get in Touch
     - name: 'twitter:description'
-      value: |-
-        Get in contact with the Gamers vs. Depression team. 
-        Email team@awfullygood.org.
+      value: 'Get in touch and talk to our team. We''re online and here to help. '
     - name: 'og:image'
       value: images/large_1.png
       keyName: property
