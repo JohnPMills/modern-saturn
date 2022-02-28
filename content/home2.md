@@ -5,7 +5,7 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: TRY THE BETA
-        url: /sign-up
+        url: /sign-up2
         style: secondary
         new_window: true
         no_follow: true
