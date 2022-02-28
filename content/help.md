@@ -192,7 +192,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Get Support
     - name: 'twitter:description'
       value: >-
         If you're ever worried that someone's life is in immediate danger, call
