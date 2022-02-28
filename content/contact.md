@@ -84,7 +84,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Contact
-  description: This is the contact page
+  description: 'Get in touch and talk to our team. We''re online and here to help. '
   extra:
     - name: 'og:type'
       value: website
@@ -93,8 +93,7 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: |
-        Get in contact with the Gamers vs. Depression team. 
+      value: 'Get in touch and talk to our team. We''re online and here to help. '
       keyName: property
     - name: 'twitter:card'
       value: summary

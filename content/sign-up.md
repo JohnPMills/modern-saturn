@@ -93,7 +93,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: General Enquiries
+      value: Sign Up for Gamers vs. Depression
       keyName: property
     - name: 'og:description'
       value: This is the general enquiries page
@@ -104,5 +104,9 @@ seo:
       value: General Enquiries
     - name: 'twitter:description'
       value: This is the general enquiries page
+    - name: 'og:image'
+      value: images/3156605.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

@@ -42,7 +42,9 @@ sections:
     background_color: secondary
 seo:
   title: Blog
-  description: This is the blog page
+  description: >
+    Get the latest news and advice from Gamers vs. Depression (GvD). Mental
+    Health Literacy, Social Connection, and more.
   extra:
     - name: 'og:type'
       value: website
@@ -51,10 +53,12 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >
+        Get the latest news and advice from Gamers vs. Depression (GvD). Mental
+        Health Literacy, Social Connection, and more.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

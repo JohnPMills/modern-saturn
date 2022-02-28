@@ -81,7 +81,7 @@ sections:
     background_image_opacity: 20
 seo:
   title: General Enquiries
-  description: This is the general enquiries page
+  description: All the ways to get in touch with the Gamers vs. Depression Team.
   extra:
     - name: 'og:type'
       value: website
@@ -90,13 +90,13 @@ seo:
       value: General Enquiries
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: All the ways to get in touch with the Gamers vs. Depression Team.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: General Enquiries
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: All the ways to get in touch with the Gamers vs. Depression Team.
 layout: advanced
 ---

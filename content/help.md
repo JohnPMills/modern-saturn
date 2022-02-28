@@ -169,30 +169,39 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Pricing
-  description: This is the pricing page
+  title: Get Support
+  description: >-
+    If you're ever worried that someone's life is in immediate danger, call or
+    go directly to the emergency services in your country. A list of mental
+    health helplines.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: GetS Support
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: >-
+        If you're ever worried that someone's life is in immediate danger, call
+        or go directly to the emergency services in your country. A list of
+        mental health helplines.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Get Support
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >-
+        If you're ever worried that someone's life is in immediate danger, call
+        or go directly to the emergency services in your country. A list of
+        mental health helplines.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---

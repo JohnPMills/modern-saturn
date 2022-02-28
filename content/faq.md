@@ -23,14 +23,16 @@ sections:
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
     title: FREQUENTLY ASKED QUESTIONS
 seo:
-  title: Pricing
-  description: This is the pricing page
+  title: FAQs
+  description: >-
+    Got a question about Gamers vs. Depression (GvD) approach to mental health
+    literacy and social connection? It may already have been answered here.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: FAQs
+      value: GvD's FAQs
       keyName: property
     - name: 'og:description'
       value: >-
@@ -45,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: FAQs
+      value: GvD's FAQs
     - name: 'twitter:description'
       value: >
         Got a question about Gamers vs. Depression (GvD) approach to mental

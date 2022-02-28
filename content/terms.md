@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections: []
 seo:
-  title: ''
+  title: Gamers vs. Depression's T&Cs
   description: ''
   robots: []
   extra: []

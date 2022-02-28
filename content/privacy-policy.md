@@ -1,24 +1,30 @@
 ---
 title: Privacy Policy
 seo:
-  title: Privacy Policy
-  description: This is the privacy policy page
+  title: Gamers vs. Depression (GvD) Privacy Policy
+  description: >-
+    We respect your privacy and are committed to protecting your personal data.
+    Learn about how we protect and use any data we collect from you.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Gamers vs. Depression (GvD) Privacy Policy
       keyName: property
     - name: 'og:description'
-      value: This is the privacy policy page
+      value: >-
+        We respect your privacy and are committed to protecting your personal
+        data. Learn about how we protect and use any data we collect from you.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Gamers vs. Depression (GvD) Privacy Policy
     - name: 'twitter:description'
-      value: This is the privacy policy page
+      value: >-
+        We respect your privacy and are committed to protecting your personal
+        data. Learn about how we protect and use any data we collect from you.
 layout: page
 ---
 We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data you provide to us, including any information you provide to us when you visit our website www.gvd.gg or www.gamersvsdepression.org or www.gamersvsdepression.com (referred to collectively in this privacy policy as the “website”). Regardless of where you visit it from, if you sign up to attend one of our training programmes, provide us with feedback or if we interact with you via a social media platform. This privacy policy will also tell you about your privacy rights and how the law protects you.

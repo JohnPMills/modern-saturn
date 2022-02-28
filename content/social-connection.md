@@ -19,9 +19,42 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
 seo:
-  title: ''
-  description: ''
+  title: Gamers vs. Depression (GvD) Enhancing Social Connection
+  description: >-
+    Gamers vs Depression. We provide a multifaceted and diverse hub of
+    information/interaction; including educational resources and workshops and
+    our GvD community.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Gamers vs Depression. We provide a multifaceted and diverse hub of
+        information/interaction; including educational resources and workshops
+        and our GvD community.
+      keyName: property
+      relativeUrl: false
+    - name: 'og:title'
+      value: Gamers vs. Depression (GvD) Enhancing Social Connection
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: Gamers vs. Depression (GvD) Enhancing Social Connection
+      keyName: name
+      relativeUrl: false
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:description'
+      value: >-
+        Gamers vs Depression. We provide a multifaceted and diverse hub of
+        information/interaction; including educational resources and workshops
+        and our GvD community.
+      keyName: name
+      relativeUrl: false
+    - name: 'twitter:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
