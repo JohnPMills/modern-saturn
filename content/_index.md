@@ -128,7 +128,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Gamers vs. Depression
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
