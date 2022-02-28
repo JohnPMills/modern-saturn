@@ -92,8 +92,8 @@ seo:
     - name: 'og:description'
       value: >-
         At GvD, we strive to use gaming and esports as a vehicle to deliver
-        Mental Health Literacy (MHL) programmes to gamers around the World using
-        unique, bespoke workshops. 
+        Mental Health Literacy (MHL) programmes and create social connection
+        between gamers globally
       keyName: property
     - name: 'og:image'
       value: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
