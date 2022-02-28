@@ -236,6 +236,10 @@ seo:
     Welcome to Gamers vs. Depression. Providers of Game Changing Mental Health.
     Mental Health Literacy. Social Connection. Movember Funded Project.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Gamers vs. Depression (GvD) Mental Health Literacy Programme
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
