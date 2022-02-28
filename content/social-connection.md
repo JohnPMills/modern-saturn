@@ -52,5 +52,9 @@ seo:
         and our GvD community.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
