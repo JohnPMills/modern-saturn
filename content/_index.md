@@ -145,7 +145,10 @@ seo:
     - name: 'twitter:title'
       value: Gamers vs. Depression
     - name: 'twitter:description'
-      value: Game Changing Mental Health
+      value: >-
+        Welcome to Gamers vs. Depression. Providers of Game Changing Mental
+        Health. Mental Health Literacy. Social Connection. Movember Funded
+        Project.
     - name: 'twitter:image'
       value: images/large_1.png
       relativeUrl: true
