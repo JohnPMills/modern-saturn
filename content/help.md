@@ -176,7 +176,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: GetS Support
       keyName: property
     - name: 'og:description'
       value: This is the pricing page
