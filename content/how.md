@@ -99,7 +99,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: How Gamers vs. Depression (GvD) works
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
