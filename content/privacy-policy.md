@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Gamers vs. Depression (GvD) Privacy Policy
       keyName: property
     - name: 'og:description'
       value: >-
