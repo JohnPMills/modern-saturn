@@ -24,7 +24,9 @@ sections:
     title: FREQUENTLY ASKED QUESTIONS
 seo:
   title: Pricing
-  description: This is the pricing page
+  description: >-
+    Got a question about Gamers vs. Depression (GvD) approach to mental health
+    literacy and social connection? It may already have been answered here.
   extra:
     - name: 'og:type'
       value: website
