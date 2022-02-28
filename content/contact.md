@@ -98,7 +98,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Get in Touch
     - name: 'twitter:description'
       value: 'Get in touch and talk to our team. We''re online and here to help. '
     - name: 'og:image'
