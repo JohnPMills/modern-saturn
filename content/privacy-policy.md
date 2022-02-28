@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 seo:
-  title: Privacy Policy
+  title: Gamers vs. Depression (GvD) Privacy Policy
   description: This is the privacy policy page
   extra:
     - name: 'og:type'
