@@ -142,7 +142,7 @@ seo:
     - name: 'twitter:title'
       value: Gamers vs. Depressiom
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Game Changing Mental Health
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
