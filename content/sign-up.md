@@ -86,7 +86,7 @@ sections:
     background_image_opacity: 20
     background_image: images/bg-518a39ac.png
 seo:
-  title: General Enquiries
+  title: Sign Up for Gamers vs. Depression
   description: This is the general enquiries page
   extra:
     - name: 'og:type'
