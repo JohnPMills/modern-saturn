@@ -43,4 +43,8 @@ seo:
       value: images/large_1.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Thank You from the Gamers vs. Depression (GvD) Team
+      keyName: name
+      relativeUrl: false
 ---
