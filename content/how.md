@@ -80,7 +80,7 @@ sections:
       images/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds.jpg
     background_image_opacity: 10
 seo:
-  title: Features
+  title: How Gamers vs. Depression (GvD) Works
   description: >-
     At GvD, we strive to use gaming and esports as a vehicle to deliver Mental
     Health Literacy (MHL) programmes and create social connection between gamers
