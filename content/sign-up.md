@@ -99,7 +99,10 @@ seo:
       value: Sign Up for Gamers vs. Depression
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: >-
+        We're stoked that you want to sign up for our mental health literacy
+        programme. Please complete the form and you will be redirected to the
+        course. 
       keyName: property
     - name: 'twitter:card'
       value: summary
