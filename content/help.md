@@ -170,7 +170,11 @@ sections:
     background_color: secondary
 seo:
   title: Get Support
-  description: This is the pricing page
+  description: >-
+    If you're ever worried that someone's life is in immediate danger, call or
+    go directly to the emergency services in your country. In other situations,
+    here is a list of mental health helplines for a variety of different
+    countries.
   extra:
     - name: 'og:type'
       value: website
