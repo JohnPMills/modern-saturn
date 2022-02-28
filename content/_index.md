@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Mental Health Literacy
 sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
@@ -128,23 +128,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Gamers vs. Depression
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Game Changing Mental Health
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Gamers vs. Depressiom
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Game Changing Mental Health
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/large_1.png
       relativeUrl: true
 layout: advanced
 ---

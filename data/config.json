@@ -208,5 +208,6 @@
             }
         ]
     },
-    "domain": "https://modern-saturn-62174.netlify.app"
+    "domain": "https://modern-saturn-62174.netlify.app",
+    "favicon": "images/depression.png"
 }
