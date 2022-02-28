@@ -35,4 +35,8 @@ seo:
       value: Thank You from the Gamers vs. Depression (GvD) Team
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 ---
