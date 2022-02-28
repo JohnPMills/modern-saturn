@@ -42,8 +42,9 @@ sections:
     background_color: secondary
 seo:
   title: Blog
-  description: |
-    Get the latest news and advice from Gamers vs. Depression (GvD).
+  description: >
+    Get the latest news and advice from Gamers vs. Depression (GvD). Mental
+    Health Literacy, Social Connection, and more.
   extra:
     - name: 'og:type'
       value: website
