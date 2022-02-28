@@ -14,7 +14,9 @@ sections:
 layout: advanced
 seo:
   title: Thank You from the Gamers vs. Depression (GvD) Team
-  description: ''
+  description: >-
+    We're stoked you're coming on this journey with us! Reach out to the team if
+    you need any help.
   robots: []
   extra: []
 ---
