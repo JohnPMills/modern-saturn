@@ -42,7 +42,8 @@ sections:
     background_color: secondary
 seo:
   title: Blog
-  description: This is the blog page
+  description: |
+    Get the latest news and advice from Gamers vs. Depression (GvD).
   extra:
     - name: 'og:type'
       value: website
