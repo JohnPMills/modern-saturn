@@ -109,7 +109,10 @@ seo:
     - name: 'twitter:title'
       value: General Enquiries
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: >-
+        We're stoked that you want to sign up for our mental health literacy
+        programme. Please complete the form and you will be redirected to the
+        course. 
     - name: 'og:image'
       value: images/large_1.png
       keyName: property
