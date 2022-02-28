@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: FAQs
+      value: GvD's FAQs
     - name: 'twitter:description'
       value: >
         Got a question about Gamers vs. Depression (GvD) approach to mental
