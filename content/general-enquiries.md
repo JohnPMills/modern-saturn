@@ -97,6 +97,6 @@ seo:
     - name: 'twitter:title'
       value: General Enquiries
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: All the ways to get in touch with the Gamers vs. Depression Team.
 layout: advanced
 ---
