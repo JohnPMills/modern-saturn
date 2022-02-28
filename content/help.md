@@ -172,9 +172,8 @@ seo:
   title: Get Support
   description: >-
     If you're ever worried that someone's life is in immediate danger, call or
-    go directly to the emergency services in your country. In other situations,
-    here is a list of mental health helplines for a variety of different
-    countries.
+    go directly to the emergency services in your country. A list of mental
+    health helplines.
   extra:
     - name: 'og:type'
       value: website
