@@ -93,7 +93,8 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: |
+        Get in contact with the Gamers vs. Depression team. 
       keyName: property
     - name: 'twitter:card'
       value: summary
