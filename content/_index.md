@@ -122,7 +122,9 @@ sections:
     background_image: images/men-playing-video-games.jpg
 seo:
   title: Gamers vs. Depression
-  description: Game Changing Mental Health
+  description: >-
+    Welcome to Gamers vs. Depression. Providers of Game Changing Mental Health.
+    Mental Health Literacy. Social Connection. Movember Funded Project.
   extra:
     - name: 'og:type'
       value: website
