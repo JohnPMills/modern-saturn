@@ -134,7 +134,7 @@ seo:
       value: Game Changing Mental Health
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/large_1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
