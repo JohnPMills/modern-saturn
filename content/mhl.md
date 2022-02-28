@@ -259,5 +259,9 @@ seo:
         Project.
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
