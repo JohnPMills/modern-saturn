@@ -18,5 +18,11 @@ seo:
     We're stoked you're coming on this journey with us! Reach out to the team if
     you need any help.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        We're stoked you're coming on this journey with us! Reach out to the
+        team if you need any help.
+      keyName: property
+      relativeUrl: false
 ---
