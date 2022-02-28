@@ -81,7 +81,10 @@ sections:
     background_image_opacity: 10
 seo:
   title: Features
-  description: This is the features page
+  description: >-
+    At GvD, we strive to use gaming and esports as a vehicle to deliver Mental
+    Health Literacy (MHL) programmes and create social connection between gamers
+    globally
   extra:
     - name: 'og:type'
       value: website
