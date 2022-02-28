@@ -131,7 +131,7 @@ seo:
       value: Gamers vs. Depression
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Game Changing Mental Health
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
