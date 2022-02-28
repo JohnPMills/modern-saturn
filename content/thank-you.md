@@ -25,4 +25,10 @@ seo:
         team if you need any help.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        We're stoked you're coming on this journey with us! Reach out to the
+        team if you need any help.
+      keyName: name
+      relativeUrl: false
 ---
