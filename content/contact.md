@@ -100,9 +100,7 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: |-
-        Get in contact with the Gamers vs. Depression team. 
-        Email team@awfullygood.org.
+      value: 'Get in touch and talk to our team. We''re online and here to help. '
     - name: 'og:image'
       value: images/large_1.png
       keyName: property
