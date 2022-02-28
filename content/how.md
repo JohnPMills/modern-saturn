@@ -93,7 +93,7 @@ seo:
       value: This is the features page
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: images/close-up-pro-gamer-s-hands-keyboard-neon-color.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
