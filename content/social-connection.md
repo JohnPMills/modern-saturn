@@ -33,5 +33,9 @@ seo:
         and our GvD community.
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Gamers vs. Depression (GvD) Enhancing Social Connection
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
