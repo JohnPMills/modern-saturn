@@ -101,5 +101,9 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
