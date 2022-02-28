@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Gamers vs. Depression (GvD) Privacy Policy
     - name: 'twitter:description'
       value: >-
         We respect your privacy and are committed to protecting your personal
