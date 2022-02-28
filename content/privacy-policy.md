@@ -13,7 +13,9 @@ seo:
       value: Privacy Policy
       keyName: property
     - name: 'og:description'
-      value: This is the privacy policy page
+      value: >-
+        We respect your privacy and are committed to protecting your personal
+        data. Learn about how we protect and use any data we collect from you.
       keyName: property
     - name: 'twitter:card'
       value: summary
