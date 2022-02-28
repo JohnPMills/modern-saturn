@@ -87,7 +87,10 @@ sections:
     background_image: images/bg-518a39ac.png
 seo:
   title: Sign Up for Gamers vs. Depression
-  description: This is the general enquiries page
+  description: >-
+    We're stoked that you want to sign up for our mental health literacy
+    programme. Please complete the form and you will be redirected to the
+    course. 
   extra:
     - name: 'og:type'
       value: website
