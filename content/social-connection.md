@@ -41,5 +41,9 @@ seo:
       value: Gamers vs. Depression (GvD) Enhancing Social Connection
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/large_1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
