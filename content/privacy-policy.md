@@ -2,7 +2,9 @@
 title: Privacy Policy
 seo:
   title: Gamers vs. Depression (GvD) Privacy Policy
-  description: This is the privacy policy page
+  description: >-
+    We respect your privacy and are committed to protecting your personal data.
+    Learn about how we protect and use any data we collect from you.
   extra:
     - name: 'og:type'
       value: website
