@@ -45,5 +45,12 @@ seo:
       value: images/large_1.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:description'
+      value: >-
+        Gamers vs Depression. We provide a multifaceted and diverse hub of
+        information/interaction; including educational resources and workshops
+        and our GvD community.
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
