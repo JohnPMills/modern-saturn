@@ -64,7 +64,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Gamers vs. Depression News and Advice
     - name: 'twitter:description'
       value: >
         Get the latest news and advice from Gamers vs. Depression (GvD). Mental
