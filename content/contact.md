@@ -84,7 +84,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Contact
-  description: This is the contact page
+  description: 'Get in touch and talk to our team. We''re online and here to help. '
   extra:
     - name: 'og:type'
       value: website
