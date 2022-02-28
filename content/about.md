@@ -1,5 +1,5 @@
 ---
-title: About
+title: Game Changing Mental Health
 sections:
   - type: hero_section
     title: Game Changing Mental Health
