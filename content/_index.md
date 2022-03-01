@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
-      - label: TRY THE BETA
+      - label: SIGN UP NOW
         url: /sign-up
         style: secondary
         new_window: true
@@ -71,7 +71,7 @@ sections:
           allowfullscreen></iframe>
       - title: BELONG TO A TEAM
         actions:
-          - label: TRY THE BETA
+          - label: SIGN UP NOW
             url: /sign-up
             style: secondary
             has_icon: false
