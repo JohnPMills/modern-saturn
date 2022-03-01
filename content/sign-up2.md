@@ -74,7 +74,7 @@ sections:
         is_required: false
       - input_type: text
         name: How did you hear about us?
-        label: 'Google, Word of Mouth etc.'
+        label: 'Google, Word of Mouth etc...'
         default_value: How did you hear about us?
         options: []
         is_required: false
