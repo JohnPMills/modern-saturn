@@ -75,7 +75,7 @@ sections:
       - input_type: text
         name: How did you hear about us?
         label: How did you hear about us?
-        default_value: How did you hear about us?
+        default_value: 'Google, Word of Mouth etc...'
         options: []
         is_required: false
       - input_type: checkbox
