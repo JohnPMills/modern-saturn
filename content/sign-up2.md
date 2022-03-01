@@ -72,18 +72,18 @@ sections:
           - I'm just here to support a friend.
           - Other
         is_required: false
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
       - input_type: text
         name: How did you hear about us?
         label: Hear
         default_value: How did you hear about us?
         options: []
         is_required: false
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
     submit_label: Sign Me Up
     align_vert: top
     padding_top: medium
