@@ -71,7 +71,7 @@ sections:
           allowfullscreen></iframe>
       - title: BELONG TO A TEAM
         actions:
-          - label: TRY THE BETA
+          - label: SIGN UP NOW
             url: /sign-up2
             style: secondary
             has_icon: false
