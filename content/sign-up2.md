@@ -79,8 +79,8 @@ sections:
           can be contacted.
         is_required: true
       - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
+        name: How did you hear about us?
+        label: Hear
         default_value: lorem-ipsum
         options: []
         is_required: false
