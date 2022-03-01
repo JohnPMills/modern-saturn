@@ -1,5 +1,5 @@
 ---
-title: sign-up
+title: sign-up2
 sections:
   - type: hero_section
     subtitle: THANK YOU FOR JOINING US ON THIS JOURNEY
@@ -39,7 +39,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: sign-up
+    form_id: sign-up2
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -58,6 +58,12 @@ sections:
         default_value: Add your age here
         options: []
         is_required: true
+      - input_type: text
+        name: GenderID
+        label: What gender do you identify as?
+        default_value: Add your gender identity here
+        options: []
+        is_required: false
       - input_type: textarea
         name: Games
         label: Top Three Games of All Time
@@ -71,6 +77,12 @@ sections:
           - 'Yes, other.'
           - I'm just here to support a friend.
           - Other
+        is_required: false
+      - input_type: text
+        name: How did you hear about us?
+        label: How did you hear about us?
+        default_value: 'Google, Word of Mouth etc...'
+        options: []
         is_required: false
       - input_type: checkbox
         name: consent
