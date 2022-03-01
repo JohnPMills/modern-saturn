@@ -1,5 +1,5 @@
 ---
-title: Mental Health Literacy
+title: Free Online Course
 sections:
   - type: hero_section
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
