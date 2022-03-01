@@ -61,7 +61,7 @@ sections:
       - input_type: text
         name: GenderID
         label: What gender do you identify as?
-        default_value: lorem-ipsum
+        default_value: optional
         options: []
         is_required: false
       - input_type: textarea
