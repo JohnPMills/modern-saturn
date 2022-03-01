@@ -84,4 +84,4 @@ In my opinion, implementing moderate aerobic exercise (outside if you’re able 
 
 So start working those muscles, and flex on your opponents in-game! 
 
-Sources: Public Health England. Tulder, Malmiraara & Koes (2007). Carter, Jones & Gladwell (2015). Pirries & Lodewky (2012). 
+Sources: Public Health England. [Tulder, Malmiraara & Koes (2007)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1895638/).[ Carter, Jones & Gladwell (2015](https://pubmed.ncbi.nlm.nih.gov/25816733/)). [Pirries & Lodewky (2012).](https://www.sciencedirect.com/science/article/abs/pii/S1755296612000129?via%3Dihub)
