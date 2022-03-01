@@ -4,7 +4,7 @@ subtitle: >-
   Some of you may know that one of our co-programme leads, Lee Cumbers, used to
   work in the fitness industry. In this post, he shares some thoughts about the
   importance of exercise for gamers. Spoiler, it's not all health.
-date: '0020-03-01'
+date: '0022-03-01'
 categories:
   - data/categories/news.json
 tags: []
