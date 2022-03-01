@@ -1,5 +1,5 @@
 ---
-title: sign-up
+title: sign-up2
 sections:
   - type: hero_section
     subtitle: THANK YOU FOR JOINING US ON THIS JOURNEY
