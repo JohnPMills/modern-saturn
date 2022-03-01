@@ -1,5 +1,5 @@
 ---
-title: Increase Your Performance
+title: WantIncrease Your Performance
 subtitle: >-
   Supported by the Men’s Health Charity Movember, Gamers vs Depression (GVD) is
   a global mental health project that uses esports to teach gamers about the
