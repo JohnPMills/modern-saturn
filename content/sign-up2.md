@@ -81,7 +81,7 @@ sections:
       - input_type: text
         name: How did you hear about us?
         label: Hear
-        default_value: lorem-ipsum
+        default_value: How did you hear about us?
         options: []
         is_required: false
     submit_label: Sign Me Up
