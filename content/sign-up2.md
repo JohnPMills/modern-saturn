@@ -60,7 +60,7 @@ sections:
         is_required: true
       - input_type: text
         name: GenderID
-        label: 'What '
+        label: What gender do you identify as?
         default_value: lorem-ipsum
         options: []
         is_required: false
