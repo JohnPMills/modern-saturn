@@ -59,7 +59,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: Gender
+        name: GenderID
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
