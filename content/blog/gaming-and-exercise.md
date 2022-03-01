@@ -44,7 +44,7 @@ seo:
 layout: post
 author: data/team/gustav-purpleson.json
 thumb_image: images/Screenshot 2022-02-16 at 20.18.38.png
-image: images/Asset 2-100.jpg
+image: images/Screenshot 2022-02-16 at 20.20.35.png
 ---
 It’s well known that exercise provides a multitude of benefits to the physical, psychological and social wellbeing of an individual. Whether exercise is carried out through sport, at the gym, outdoor activities or even at home, elevating your heart rate and getting the body moving is an essential part of living a healthy lifestyle. 
 
