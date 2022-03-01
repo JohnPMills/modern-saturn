@@ -46,14 +46,42 @@ author: data/team/gustav-purpleson.json
 thumb_image: images/Screenshot 2022-02-16 at 20.18.38.png
 image: images/Asset 2-100.jpg
 ---
-Launched this week, Gamers vs Depression is aiming to establish whether esports can be used as a vehicle to deliver depression literacy programmes to gamers around the world.
+It’s well known that exercise provides a multitude of benefits to the physical, psychological and social wellbeing of an individual. Whether exercise is carried out through sport, at the gym, outdoor activities or even at home, elevating your heart rate and getting the body moving is an essential part of living a healthy lifestyle. 
 
-Gamers vs Depression founder, Dr John Mills said “We want to equip gamers with knowledge around mental health disorders so they can better support each other.”
+Conventional benefits aside, what if I told you that regular, structured exercise could improve your gaming performance, and prevent injuries or ailments that come as a result of prolonged gaming time?
 
-The organisation is currently conducting a closed beta test of its programme and looking for around 200 volunteers to give feedback. Sam Williams, who is a co-project lead for Gamers vs. Depression and a pro-gamer for JLingz esports team said:
+Gamers in the aggregate have a poor relationship with exercise, mostly due to the sedentary nature of the activity. However, this stereotype is somewhat broken when looking at professional Esports players. Pro-gamers are starting to incorporate exercise into their daily routines because of the numerous physiological and psychological benefits that can improve performance, such as: 
 
-> “We are taking our time with the programme to get it right. We have a duty to the community with this to make sure this programme is as effective as possible.”
+*   Improved posture
 
-In addition to their depression literacy programme, Gamers vs. Depression also provide access to resources to improve gaming performance, improve sleep hygiene, create positive exercise routines, maintain a nutritious diet, as well as a parents guide to supporting gamers. “Everything is free to access” says Dr Mills. “We don’t believe in monetising people’s mental health”.
+*   Increased muscle mass
 
-To take part in the beta test or learn more about Gamers vs. Depression, visit www.gvd.gg.
+*   Prevention of Repetitive Strain Injuries (RSI)
+
+*   Prevention of physiological conditions e.g. Type-2 Diabetes
+
+*   Increased energy levels
+
+*   Increased self-confidence
+
+*   Reduced stress
+
+*   Reduced mental health issues e.g. Depression
+
+*   Elevated mood
+
+*   Improved cognitive functioning
+
+Cognitive functioning refers to multiple mental abilities; including learning, thinking, reasoning, remembering, problem solving, decision-making and attention. All of these factors contribute to in-game performance. By implementing an exercise regime, you could see an improvement in your personal performance, and skyrocket your rank and MMR! 
+
+Public Health England recommends at least 150 minutes of exercise per week (that’s only 4 Counter-Strike games per week!) involving a combination of aerobic exercise (e.g. jogging, cycling, swimming) and full-body resistance training (e.g. free weights, resistance machines, bands). 
+
+Specifically, postural retraining focuses on exercises that target your core, shoulders and back muscles. If you feel like your posture may be inadequate, and you find sitting down for long periods at your desk uncomfortable, this would be a good place to start. Improving your posture can reduce and prevent RSIs from occurring, while increasing your overall physical wellbeing. 
+
+Additionally, breaking up sedentary time with exercise or active rest periods has also been shown to improve physical wellbeing. While standing up from your desk and walking around has been recommended to prevent the negative effects of prolonged sitting. Calisthenics (bodyweight movements such as squats) are considered the most effective form of energy expenditure. These can be done anywhere, require little space, and no equipment is necessary. 
+
+In my opinion, implementing moderate aerobic exercise (outside if you’re able to) and a routine of calisthenic exercises is the best place to start if you’re looking to add exercise into your daily lifestyle. Once you become more comfortable and confident with exercise, seeking out a sporting club, activity centre or gym would be the next step. If you’re looking for information and advice along your exercise pathway, researching online using reliable sources and seeking help from accredited professionals will facilitate you utilising your time effectively, and exercising as efficiently and safely as possible. 
+
+So start working those muscles, and flex on your opponents in-game! 
+
+Sources: Public Health England. Tulder, Malmiraara & Koes (2007). Carter, Jones & Gladwell (2015). Pirries & Lodewky (2012). 
