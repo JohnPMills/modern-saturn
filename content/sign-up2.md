@@ -61,7 +61,7 @@ sections:
       - input_type: text
         name: GenderID
         label: What gender do you identify as?
-        default_value: ptional
+        default_value: Optional
         options: []
         is_required: false
       - input_type: textarea
