@@ -1,9 +1,9 @@
 ---
 title: Want to Improve Your Performance? Exercise
 subtitle: >-
-  Supported by the Men’s Health Charity Movember, Gamers vs Depression (GVD) is
-  a global mental health project that uses esports to teach gamers about the
-  importance of mental health, self-care, and social connections.
+  Some of you may know that one of our co-programme leads, Lee Cumbers, used to
+  work in the fitness industry. In this post, he shares some thoughts about the
+  importance of exercise for gamers. Spoiler, it's not all health.
 date: '0002-02-21'
 categories:
   - data/categories/news.json
