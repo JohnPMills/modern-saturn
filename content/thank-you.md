@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Take me to the course
         url: '#'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
