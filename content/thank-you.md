@@ -8,7 +8,7 @@ sections:
       you to complete the course at your own pace, you will need to assign
       yourself a username and password.
     actions:
-      - label: lorem-ipsum
+      - label: Take me to the course
         url: '#'
         style: link
         has_icon: false
