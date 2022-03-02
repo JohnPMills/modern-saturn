@@ -9,7 +9,7 @@ sections:
       yourself a username and password.
     actions:
       - label: Let's Begin
-        url: '#'
+        url: 'https://courses.awfullygood.org/login/index.php'
         style: secondary
         has_icon: false
         icon: arrow-left
