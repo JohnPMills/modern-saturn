@@ -8,7 +8,7 @@ sections:
       you to complete the course at your own pace, you will need to assign
       yourself a username and password.
     actions:
-      - label: Let's Begin
+      - label: Begin
         url: 'https://courses.awfullygood.org/login/index.php'
         style: secondary
         has_icon: false
