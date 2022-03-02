@@ -8,7 +8,7 @@ sections:
       you to complete the course at your own pace, you will need to assign
       yourself a username and password.
     actions:
-      - label: Take me to the course
+      - label: Let's Begin
         url: '#'
         style: secondary
         has_icon: false
