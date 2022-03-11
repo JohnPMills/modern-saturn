@@ -71,10 +71,13 @@ sections:
         content: >
           John is the creator of GvD and has been gaming for 30-years. He is a
           Chartered Psychologist and holds a BSc in Psychology and Childhood
-          Development, and a PhD in Social Cognition and Leadership. His
-          research focuses on examining values, virtues, norms, practices,
-          identities, and the psychosocial mechanisms that combine to regulate
-          behaviour. You can read more about John's research on his
+          Development, and a PhD in Social Cognition and Leadership from the
+          University of Birmingham. His research focuses on examining values,
+          virtues, norms, practices, identities, and the psychosocial mechanisms
+          that combine to regulate behaviour. He has published 20 peer-reviewed
+          articles to date, most of which have been within Q1 journals (as
+          ranked by SJR, Jan 2022) in the fields of Psychology, Neuroscience,
+          and Medicine. You can read more about John's research on his
           [website](www.johnpmills.com).
         content_align: left
         actions: []
