@@ -101,7 +101,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/Screenshot 2022-02-16 at 20.20.35.png
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
