@@ -66,7 +66,7 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: Dr JOHN MILLS
+      - title: DR JOHN MILLS
         title_align: left
         content: >
           John is the creator of GvD and has been gaming for 30-years. He is a
