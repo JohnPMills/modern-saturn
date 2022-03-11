@@ -86,7 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Screenshot 2022-02-16 at 20.18.38.png
-      - title: LEE CUMBERS MSC
+      - title: Lee Cumbers MSc
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
           level Rocket League with his friends. He has also amassed over 1.5
