@@ -28,9 +28,6 @@ sections:
       *   Lee Cumbers -- <lee@awfullygood.org>
 
 
-      *   Sam Williams -- <sam@awfullygood.org>
-
-
       Like lots of organisations over the past 18 months, we have switched to a
       remote approach to working. Our registered address is in Elmstead Market
       (Essex, UK) but as we are an online project with a global user base, we
