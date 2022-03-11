@@ -66,20 +66,6 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: SAM WILLIAMS
-        content: >
-          Sam is an avid gamer, currently playing Rainbow Six Siege
-          semi-professionally for JLINGZ Esports. He also studied Sport and
-          Exercise Science at the University of Essex and graduated with first
-          class honours in 2021. With a passion for both mental health and
-          gaming, he found himself perfectly suited to develop Gamers vs
-          Depression into something that can help gamers overcome their mental
-          health issues.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/Screenshot 2022-02-16 at 21.09.06.png
       - title: LEE CUMBERS
         content: >+
           Lee is also an avid gamer, spending a lot of his time playing high
