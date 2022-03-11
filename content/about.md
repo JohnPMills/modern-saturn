@@ -87,15 +87,13 @@ sections:
         image_has_padding: false
         image: images/Screenshot 2022-02-16 at 20.18.38.png
       - title: Lee Cumbers MSc
-        content: >+
-          Lee is also an avid gamer, spending a lot of his time playing high
-          level Rocket League with his friends. He has also amassed over 1.5
-          million views on his YouTube Channel, and is continuing to grow. He
-          also studied his undergraduate degree at the University of
-          Hertfordshire and graduated with a 2:1 in 2015. He then went on to
-          complete his Masters in Sport Psychology at the University of Essex in
-          2021, graduating with distinction.
-
+        content: >
+          Lee is an avid gamer, spending a lot of his time playing high level
+          Rocket League with his friends. He has also amassed over 1.5 million
+          views on his YouTube Channel, and is continuing to grow. Lee achieved
+          his undergraduate degree at the University of Hertfordshire in 2015
+          and his Masters in Sport and Exercise Psychology at the University of
+          Essex in 2021 -- graduating with distinction.
         content_align: left
         actions: []
         actions_align: left
