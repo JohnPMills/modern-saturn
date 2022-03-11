@@ -66,21 +66,6 @@ sections:
   - type: grid_section
     title: TEAM
     grid_items:
-      - title: LEE CUMBERS
-        content: >+
-          Lee is also an avid gamer, spending a lot of his time playing high
-          level Rocket League with his friends. He has also amassed over 1.5
-          million views on his YouTube Channel, and is continuing to grow. He
-          also studied his undergraduate degree at the University of
-          Hertfordshire and graduated with a 2:1 in 2015. He then went on to
-          complete his Masters in Sport Psychology at the University of Essex in
-          2021, graduating with distinction.
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/Screenshot 2022-02-16 at 20.20.35.png
       - title: JOHN MILLS
         title_align: left
         content: >
@@ -101,6 +86,21 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Screenshot 2022-02-16 at 20.18.38.png
+      - title: LEE CUMBERS
+        content: >+
+          Lee is also an avid gamer, spending a lot of his time playing high
+          level Rocket League with his friends. He has also amassed over 1.5
+          million views on his YouTube Channel, and is continuing to grow. He
+          also studied his undergraduate degree at the University of
+          Hertfordshire and graduated with a 2:1 in 2015. He then went on to
+          complete his Masters in Sport Psychology at the University of Essex in
+          2021, graduating with distinction.
+
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image: images/Screenshot 2022-02-16 at 20.20.35.png
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
