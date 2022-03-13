@@ -15,25 +15,9 @@ seo:
   extra: []
 layout: post
 ---
-> ** **
->
-> This statement has two aims. The first is to highlight positive ways in which gaming could be used to 
->
-> **enhance depression literacy **
->
-> and 
->
-> **help-seeking behaviour**
->
->  in 
->
-> **young men**
->
-> . The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
+> This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy **and **help-seeking behaviour **in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
 
-
-
-**Introduction**
+# **Introduction**
 
 The World Health Organization estimates that approximately 6–8% of young people live with depression. Mental disorders more broadly, account for the highest proportion of disease among young people worldwide, with depression soon poised to become the largest single contributor to the burden of disease globally. Half of all lifetime mental health issues emerge by the age of 14 and three quarters by the age of 24. As such, adolescence is a critical time for the development of mental health literacy and support. If left unsupported, depression can contribute to early mortality and increased morbidity and has a significant negative impact on the quality of life and future vocational success for young people. 
 
@@ -49,7 +33,7 @@ With social distancing measures in place, many people are also thought to have t
 
 Within the present study, we aim to adopt the basic premise of utilising an intrinsically engaging activity (i.e., online gaming) to develop depression literacy and social connection in adolescent males. 
 
-**Consultation**
+# **Consultation**
 
 This consultation was initiated by the Team Research Lab and attended by professional gamers, recreational gamers, streamers, researchers, and mental health practitioners from across the United Kingdom and Australia. Due to the Covid-19 pandemic, the consultation was conducted via video conferencing platform Zoom and lasted for approximately two hours. The consultation focused on answering five key questions members from the Team Research Lab had highlighted as important to understand before a mental health literacy training programme could be developed. Each of these questions and a summary of the responses provided follow. 
 
@@ -87,7 +71,11 @@ Using programs like Discord or TeamSpeak to attend sessions is an ideal possibil
 
 We identified that an ideal duration for the sessions is to be around 30 minutes for a maximum of two hours to train participants to recognise and read signs of poor mental health. A website should also be made to direct participants to places get instant 24/7 help (e.g., the Samaritans). .
 
-**The Programme: Gamers vs. Depression**
+## **Conclusion**
+
+The group identified that there is a need to enhance mental health literacy in gamers, citing how common it is for gamers they knew to experience issues. It was suggested that a particular focus should be paid to adolescent males due to the volume of diagnoses, major concerns, and the medium proposed. Young\[er] sport and performance psychologists who understand the gaming environment and experiences of the eventual demographic were identified as being optimal to deliver content. Programme delivery should be between 30-minutes and 2hours, depending on medium. A combination of asynchronous methods such as YouTube videos and discord communities, with synchronous gaming support sessions were identified as being the ideal approach.
+
+# **The Programme: Gamers vs. Depression**
 
 Based on feedback from this consultation, we developed the following aim: 
 
@@ -113,11 +101,7 @@ We appreciate the need to create safeguards for participants and propose a numbe
 
 We understand and appreciate the risk of dependency such a programme may create in helping participants in dealing with their mental health issues. As such, at the end of the programme, we will provide support and guidance around where additional support can be found. Further, we will encourage participants to reduce contact time and finally connect them with fellow leavers who wish to maintain some level of contact.
 
-## **Conclusion**
-
-The group identified that there is a need to enhance mental health literacy in gamers, citing how common it is for gamers they knew to experience issues. It was suggested that a particular focus should be paid to adolescent males due to the volume of diagnoses, major concerns, and the medium proposed. Young\[er] sport and performance psychologists who understand the gaming environment and experiences of the eventual demographic were identified as being optimal to deliver content. Programme delivery should be between 30-minutes and 2hours, depending on medium. A combination of asynchronous methods such as YouTube videos and discord communities, with synchronous gaming support sessions were identified as being the ideal approach.
-
-### With thanks
+### **With thanks**
 
 This statement was developed through consultation via Zoom on the 16th of July 2020. Team Research Lab would like to give thanks to professional gamers, recreational gamers, streamers, researchers, and mental health practitioners from the following organisations:
 
@@ -147,20 +131,20 @@ World Health Organization. The world health report 2001. In: *Mental health: new
 
 World Health Organization. *The global burden of disease: 2004 update*. Geneva: World Health Organization (2008). Retrieved from http://www.who.int/ healthinfo/global_burden_disease/GBD_report\_2004update_full.pdf ?ua=1.
 
-Kutcher S, Venn D. Why youth mental health is so important. *Medscape J Med *(2008) 10:275.
+Kutcher S, Venn D. Why youth mental health is so important. \*Medscape J Med \*(2008) 10:275.
 
-Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. *Arch Gen Psychiatry *(2005) 62:859–77. doi: 10.1001/archpsyc.62.6.593
+Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. \*Arch Gen Psychiatry \*(2005) 62:859–77. doi: 10.1001/archpsyc.62.6.593
 
-Prince M, Patel V, Saxena S, Maj M, Maselko J, Phillips MR, et al. No health without mental health. *Lancet. *(2007) 370:859–77. doi: 10.1016/ S0140-6736(07)61238-0
+Prince M, Patel V, Saxena S, Maj M, Maselko J, Phillips MR, et al. No health without mental health. \*Lancet. \*(2007) 370:859–77. doi: 10.1016/ S0140-6736(07)61238-0
 
-Patel V, Flisher AJ, Hetrick S, Mcgorry P. Mental health of young people: a global public-health challenge. *Lancet. *(2007) 369:1302–13. doi: 10.1016/ S0140-6736(07)60368-7
+Patel V, Flisher AJ, Hetrick S, Mcgorry P. Mental health of young people: a global public-health challenge. \*Lancet. \*(2007) 369:1302–13. doi: 10.1016/ S0140-6736(07)60368-7
 
-Patel V, Saxena S. Transforming lives, enhancing communities—innovations in global mental health. *N Engl J Med *(2014) 370:498–501. doi: 10.1056/ NEJMp1315214
+Patel V, Saxena S. Transforming lives, enhancing communities—innovations in global mental health. \*N Engl J Med \*(2014) 370:498–501. doi: 10.1056/ NEJMp1315214
 
-McEwan K, Waddell C, Barker J. Bringing children’s mental health ‘out of the shadows’. *CMAJ *(2007) 176(4):471–72. doi: 10.1503/cmaj.061028
+McEwan K, Waddell C, Barker J. Bringing children’s mental health ‘out of the shadows’. \*CMAJ \*(2007) 176(4):471–72. doi: 10.1503/cmaj.061028
 
-Chisholm D, Sweeny K, Sheehan P, Rasmussen B, Smit F, Cuijpers P, Saxena S, et al. Scaling-up treatment of depression and anxiety: a global return on investment analysis. *Lancet Psychiatry *(2016) 3:415–24. doi: 10.1016/S2215-0366(16)30024-4
+Chisholm D, Sweeny K, Sheehan P, Rasmussen B, Smit F, Cuijpers P, Saxena S, et al. Scaling-up treatment of depression and anxiety: a global return on investment analysis. \*Lancet Psychiatry \*(2016) 3:415–24. doi: 10.1016/S2215-0366(16)30024-4
 
-Belfer ML. Child and adolescent mental disorders: the magnitude of the problem across the globe. *J Child Psychol Psychiatry *(2008) 49(3):226–36. doi: 10.1111/j.1469-7610.2007.01855.x
+Belfer ML. Child and adolescent mental disorders: the magnitude of the problem across the globe. \*J Child Psychol Psychiatry \*(2008) 49(3):226–36. doi: 10.1111/j.1469-7610.2007.01855.x
 
  
