@@ -17,6 +17,7 @@ seo:
   robots: []
   extra: []
 layout: post
+author: data/team/hilary-ouse.json
 ---
 > This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy** and **help-seeking behaviours** in gamers. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
 
