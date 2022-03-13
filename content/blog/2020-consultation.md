@@ -72,7 +72,7 @@ Using programs like Discord or TeamSpeak to attend sessions is an ideal possibil
 
 ## 5a. How long would the training last?
 
-We identified that an ideal duration for the sessions is to be around 30 minutes for a maximum of two hours to train participants to recognise and read signs of poor mental health. A website should also be made to direct participants to places get instant 24/7 help (e.g., the Samaritans). .
+We identified that an ideal duration for the sessions is to be around 30 minutes for a maximum of two hours to train participants to recognise and read signs of poor mental health. A website should also be made to direct participants to places get instant 24/7 help (e.g., the Samaritans).
 
 ## Conclusion
 
