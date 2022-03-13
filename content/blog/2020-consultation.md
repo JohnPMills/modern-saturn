@@ -7,7 +7,7 @@ subtitle: >-
 date: '2022-03-13'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: 'Information on '
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
