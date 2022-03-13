@@ -2,7 +2,7 @@
 title: Lee Cumbers
 sections:
   - type: hero_section
-    title: John Mills
+    title: Lee Cumbers
     subtitle: Founder
     align: center
     padding_top: medium
