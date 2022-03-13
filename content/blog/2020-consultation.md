@@ -7,7 +7,7 @@ subtitle: >-
 date: '2022-03-13'
 categories: []
 tags: []
-excerpt: 'Information on '
+excerpt: Report from our 2020 Consultation
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
