@@ -2,7 +2,7 @@
 title: Hilary Ouse
 sections:
   - type: hero_section
-    title: Hilary Ouse
+    title: Lee Cumbers
     subtitle: The optional subtitle
     align: center
     padding_top: medium
