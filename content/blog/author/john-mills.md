@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    image: images/Screenshot 2022-02-16 at 20.20.35.png
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
