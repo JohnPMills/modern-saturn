@@ -18,9 +18,9 @@ seo:
   extra: []
 layout: post
 ---
-> This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy** and **help-seeking behaviours **in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
+> This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy** and **help-seeking behaviours** in gamers. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
 
-# **Introduction**
+# Introduction
 
 The World Health Organization estimates that approximately 6–8% of young people live with depression. Mental disorders more broadly, account for the highest proportion of disease among young people worldwide, with depression soon poised to become the largest single contributor to the burden of disease globally. Half of all lifetime mental health issues emerge by the age of 14 and three quarters by the age of 24. As such, adolescence is a critical time for the development of mental health literacy and support. If left unsupported, depression can contribute to early mortality and increased morbidity and has a significant negative impact on the quality of life and future vocational success for young people. 
 
@@ -36,49 +36,49 @@ With social distancing measures in place, many people are also thought to have t
 
 Within the present study, we aim to adopt the basic premise of utilising an intrinsically engaging activity (i.e., online gaming) to develop depression literacy and social connection in adolescent males. 
 
-# **Consultation**
+# Consultation
 
 This consultation was initiated by the Team Research Lab and attended by professional gamers, recreational gamers, streamers, researchers, and mental health practitioners from across the United Kingdom and Australia. Due to the Covid-19 pandemic, the consultation was conducted via video conferencing platform Zoom and lasted for approximately two hours. The consultation focused on answering five key questions members from the Team Research Lab had highlighted as important to understand before a mental health literacy training programme could be developed. Each of these questions and a summary of the responses provided follow. 
 
-## \*\*1. What are the common mental health issues you are aware of? \*\*
+## 1. What are the common mental health issues you are aware of? 
 
 While speaking to a few members within the esports community, they helped identify certain mental health issues. They described issues like low self-esteem, resulting in loss of sleep and poor eating patterns. Also, high-stress levels related to performance at a professional esports level leads to a negative impact across the team and anxiety. Due to the duration that gamers spend playing games, we also identified that there may be a lack of true social interaction with friends which leads to ‘feeling down’ or depressed. Despite not being a mental health issue, the lack of understanding of mental health is a common problem that has been seen within the gaming community. This is also heightened by the fact that it is difficult to identify signs of poor mental health if you haven’t met the people you are friends with online in real life. However, the anonymity of the interaction between friends also helps people be more open about their issues.  
 
 We identified that common signs and symptoms that current gamers found was behaviour change, loss of appetite before and post games, lack of sleep or poor sleeping patterns.
 
-## **2. How common do you think mental health issues are in our community?**
+## 2. How common do you think mental health issues are in our community?
 
 We found that nearly every team or player has experienced themselves or teammates suffering from mental health issues like anxiety or depression. Also, not many players are resilient to mental health issues, they shut down and stop communicating with teammates about their personal issues. It’s not nice when this happens as for many of us, our teams also act as friendship groups.
 
-## 3\*\*. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours?\*\* 
+## 3. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours? 
 
 There was a general lack of understanding and knowledge that has been identified as a problem by the leaders of the respective teams, therefore, the sessions should integrate basic mental health and mental health first-aid. Needs to fit in around 30-40 hours of practice for professional players, with social gamers spending about 15 hours a week gaming. 
 
-## **3a. What would the program involve (eg content, specific activities)?**
+## 3a. What would the program involve (eg content, specific activities)?
 
 The program should include an assessment of mental health literacy and how to determine poor mental health. This could be done by reading between the lines at the content of the conversation and through changes in appearance or mood. Recognising sleeping patterns and helping sleep hygiene, using a low-intensity exercise programme, and nutrition should be encouraged.
 
-## **3b. Who would present the program?**
+## 3b. Who would present the program?
 
 Reported to us that it needs to be people of a similar demographic, with credible and lived experienced to deliver sessions. Sports psychologists are ideal, not player to player or coach to player as peer to peer may lead to feelings of intimidation, especially at a professional level. At a more social level, peer to peer may be more accepted. A combination of the two would be ideal. 
 
-## **4. How would you find out about such a programme?**
+## 4. How would you find out about such a programme?
 
 Advertising this programme should be through twitter and discord with the possibility to sponsor Twitch/YouTube streamers that may advertise the service through panels on their stream pro bono. Also, word of mouth could be particularly strong as many gamers know other people that may need a similar programme to help them or someone they know with their mental health issues. 
 
-## **5. How would you prefer to attend (eg F2F, online, synchronous, asynchronous)?**
+## 5. How would you prefer to attend (eg F2F, online, synchronous, asynchronous)?
 
 Using programs like Discord or TeamSpeak to attend sessions is an ideal possibility, with Discord potentially being used with webcams should players choose to identify themselves to each other.
 
-## **5a. How long would the training last?**
+## 5a. How long would the training last?
 
 We identified that an ideal duration for the sessions is to be around 30 minutes for a maximum of two hours to train participants to recognise and read signs of poor mental health. A website should also be made to direct participants to places get instant 24/7 help (e.g., the Samaritans). .
 
-## **Conclusion**
+## Conclusion
 
 The group identified that there is a need to enhance mental health literacy in gamers, citing how common it is for gamers they knew to experience issues. It was suggested that a particular focus should be paid to adolescent males due to the volume of diagnoses, major concerns, and the medium proposed. Young\[er] sport and performance psychologists who understand the gaming environment and experiences of the eventual demographic were identified as being optimal to deliver content. Programme delivery should be between 30-minutes and 2hours, depending on medium. A combination of asynchronous methods such as YouTube videos and discord communities, with synchronous gaming support sessions were identified as being the ideal approach.
 
-# **The Programme: Gamers vs. Depression**
+# The Programme: Gamers vs. Depression
 
 Based on feedback from this consultation, we developed the following aim: 
 
@@ -90,21 +90,21 @@ Our second objective is to create a platform which places those who have underta
 
  As a programme that focuses on the mental health literacy of young men, we hope to create a team-based environment, which is comparable to sport. Such an approach to tackling mental health literacy has previously been evidenced as effective by Vella and colleagues (date). We also hope to utilise role models from the world of professional esports and streaming to add credibility to the programme. 
 
-## **Visual Communication**
+## Visual Communication
 
 We have also sought advice around creating clear imagery around the programme in order to be attractive to gamers, whilst also demonstrating credibility in the programme. The design we settled on was of a black dog (i.e., a well-known symbol for depression) playing a games console (see below). Mascots are common in esports, and such imagery helps establish us as cultural insiders.
 
 ![](https://lh4.googleusercontent.com/bZUS8iR-hGEUFvYH2C3TgqVxYpNZKDTFrnrlA_M3pZvtbs1X1I2REfTt6r3lyxfLaicw7XqoZm3xiWQSg3wY5SgpA_SsUChe_A3IDZXpoAVYCnsN6z4kacJKuSfYHE0l7YnzprhA)
 
-## **Safeguarding**
+## Safeguarding
 
 We appreciate the need to create safeguards for participants and propose a number of measures to help make the platform a safe, positive, and supportive environment. First, we plan to ask participants to meet via video conferencing software. By removing anonymity it is expected that this will limit the number of participants attempting to join the platform in bad faith. Second, we will create a report feature on the platform, so participants can anonymously report suspicious activities within their groups. Third, participants will be grouped by age when placed into teams. A difference in age of two calendar years will be adhered to where possible. Fourth, a transfer request function will be added to permit participants to change teams should they wish. Finally, we will connect with participants randomly to ask about their experiences of the platform. 
 
-## **Transitioning out of the platform**
+## Transitioning out of the platform
 
 We understand and appreciate the risk of dependency such a programme may create in helping participants in dealing with their mental health issues. As such, at the end of the programme, we will provide support and guidance around where additional support can be found. Further, we will encourage participants to reduce contact time and finally connect them with fellow leavers who wish to maintain some level of contact.
 
-### **With thanks**
+### With thanks
 
 This statement was developed through consultation via Zoom on the 16th of July 2020. Team Research Lab would like to give thanks to professional gamers, recreational gamers, streamers, researchers, and mental health practitioners from the following organisations:
 
