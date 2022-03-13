@@ -18,7 +18,7 @@ seo:
   extra: []
 layout: post
 ---
-> This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy **and **help-seeking behaviour **in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
+> This statement has two aims. The first is to highlight positive ways in which gaming could be used to \*\*enhance depression literacy \*\*and \*\*help-seeking behaviour \*\*in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
 
 # **Introduction**
 
@@ -50,7 +50,7 @@ We identified that common signs and symptoms that current gamers found was behav
 
 We found that nearly every team or player has experienced themselves or teammates suffering from mental health issues like anxiety or depression. Also, not many players are resilient to mental health issues, they shut down and stop communicating with teammates about their personal issues. It’s not nice when this happens as for many of us, our teams also act as friendship groups.
 
-## **3. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours? **
+## 3**. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours?** 
 
 There was a general lack of understanding and knowledge that has been identified as a problem by the leaders of the respective teams, therefore, the sessions should integrate basic mental health and mental health first-aid. Needs to fit in around 30-40 hours of practice for professional players, with social gamers spending about 15 hours a week gaming. 
 
@@ -100,7 +100,7 @@ We have also sought advice around creating clear imagery around the programme in
 
 We appreciate the need to create safeguards for participants and propose a number of measures to help make the platform a safe, positive, and supportive environment. First, we plan to ask participants to meet via video conferencing software. By removing anonymity it is expected that this will limit the number of participants attempting to join the platform in bad faith. Second, we will create a report feature on the platform, so participants can anonymously report suspicious activities within their groups. Third, participants will be grouped by age when placed into teams. A difference in age of two calendar years will be adhered to where possible. Fourth, a transfer request function will be added to permit participants to change teams should they wish. Finally, we will connect with participants randomly to ask about their experiences of the platform. 
 
-**Transitioning out of the platform**
+## **Transitioning out of the platform**
 
 We understand and appreciate the risk of dependency such a programme may create in helping participants in dealing with their mental health issues. As such, at the end of the programme, we will provide support and guidance around where additional support can be found. Further, we will encourage participants to reduce contact time and finally connect them with fellow leavers who wish to maintain some level of contact.
 
