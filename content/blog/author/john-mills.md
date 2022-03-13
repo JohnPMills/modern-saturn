@@ -3,7 +3,7 @@ title: Lee Cumbers
 sections:
   - type: hero_section
     title: Lee Cumbers
-    subtitle: Founder
+    subtitle: Programme Lead
     align: center
     padding_top: medium
     padding_bottom: none
