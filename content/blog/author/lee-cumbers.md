@@ -2,7 +2,7 @@
 title: Lee Cumbers
 sections:
   - type: hero_section
-    title: Lee Cumbers
+    title: John Mills
     subtitle: GvD Programme Lead
     align: center
     padding_top: medium
