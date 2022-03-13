@@ -3,7 +3,7 @@ title: Hilary Ouse
 sections:
   - type: hero_section
     title: Lee Cumbers
-    subtitle: The optional subtitle
+    subtitle: GvD Programme Lead
     align: center
     padding_top: medium
     padding_bottom: none
