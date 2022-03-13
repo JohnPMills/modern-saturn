@@ -197,8 +197,8 @@
         "logo": "images/Asset 3.png",
         "links": [
             {
-                "label": "Learn more about our Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "lorem-ipsum",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -207,8 +207,8 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
-                "url": "#",
+                "label": "Learn more about our Privacy Policy",
+                "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
