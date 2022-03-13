@@ -3,7 +3,7 @@ title: Hilary Ouse
 sections:
   - type: hero_section
     title: Dr John Mills
-    subtitle: The optional subtitle
+    subtitle: GvD Founder
     align: center
     padding_top: medium
     padding_bottom: none
