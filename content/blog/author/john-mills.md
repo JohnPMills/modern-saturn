@@ -3,7 +3,7 @@ title: John Mills
 sections:
   - type: hero_section
     title: John Mills
-    subtitle: The optional subtitle
+    subtitle: Founder
     align: center
     padding_top: medium
     padding_bottom: none
