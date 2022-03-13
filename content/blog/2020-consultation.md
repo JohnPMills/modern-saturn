@@ -1,6 +1,9 @@
 ---
 title: 2020 Consultation
-subtitle: lorem-ipsum
+subtitle: >-
+  In 2020, we held a consultation with a range of medical health professionals,
+  researchers, and gamers to try to better understand the challenges faced and
+  solutions available.
 date: '2022-03-13'
 categories: []
 tags: []
