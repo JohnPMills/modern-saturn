@@ -1,5 +1,5 @@
 ---
-title: Hilary Ouse
+title: Lee Cumbers
 sections:
   - type: hero_section
     title: Lee Cumbers
