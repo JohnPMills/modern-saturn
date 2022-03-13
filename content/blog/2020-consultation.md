@@ -18,7 +18,7 @@ seo:
   extra: []
 layout: post
 ---
-> This statement has two aims. The first is to highlight positive ways in which gaming could be used to \*\*enhance depression literacy \*\*and \*\*help-seeking behaviour \*\*in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
+> This statement has two aims. The first is to highlight positive ways in which gaming could be used to **enhance depression literacy** and **help-seeking behaviours **in **gamers**. The second is to provoke wider discussion across the various stakeholders (e.g., gamers, mental health practitioners, academics) as to the ways in which we can incorporate gaming to enhance mental health literacy more broadly.
 
 # **Introduction**
 
@@ -40,7 +40,7 @@ Within the present study, we aim to adopt the basic premise of utilising an intr
 
 This consultation was initiated by the Team Research Lab and attended by professional gamers, recreational gamers, streamers, researchers, and mental health practitioners from across the United Kingdom and Australia. Due to the Covid-19 pandemic, the consultation was conducted via video conferencing platform Zoom and lasted for approximately two hours. The consultation focused on answering five key questions members from the Team Research Lab had highlighted as important to understand before a mental health literacy training programme could be developed. Each of these questions and a summary of the responses provided follow. 
 
-## **1. What are the common mental health issues you are aware of? **
+## \*\*1. What are the common mental health issues you are aware of? \*\*
 
 While speaking to a few members within the esports community, they helped identify certain mental health issues. They described issues like low self-esteem, resulting in loss of sleep and poor eating patterns. Also, high-stress levels related to performance at a professional esports level leads to a negative impact across the team and anxiety. Due to the duration that gamers spend playing games, we also identified that there may be a lack of true social interaction with friends which leads to ‘feeling down’ or depressed. Despite not being a mental health issue, the lack of understanding of mental health is a common problem that has been seen within the gaming community. This is also heightened by the fact that it is difficult to identify signs of poor mental health if you haven’t met the people you are friends with online in real life. However, the anonymity of the interaction between friends also helps people be more open about their issues.  
 
@@ -50,7 +50,7 @@ We identified that common signs and symptoms that current gamers found was behav
 
 We found that nearly every team or player has experienced themselves or teammates suffering from mental health issues like anxiety or depression. Also, not many players are resilient to mental health issues, they shut down and stop communicating with teammates about their personal issues. It’s not nice when this happens as for many of us, our teams also act as friendship groups.
 
-## 3**. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours?** 
+## 3\*\*. As a leader for your respective team, do you have any suggestions for how we could integrate a mental health literacy training programme into a team like yours?\*\* 
 
 There was a general lack of understanding and knowledge that has been identified as a problem by the leaders of the respective teams, therefore, the sessions should integrate basic mental health and mental health first-aid. Needs to fit in around 30-40 hours of practice for professional players, with social gamers spending about 15 hours a week gaming. 
 
