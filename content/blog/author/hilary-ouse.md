@@ -2,7 +2,7 @@
 title: Hilary Ouse
 sections:
   - type: hero_section
-    title: Hilary Ouse
+    title: Dr John Mills
     subtitle: The optional subtitle
     align: center
     padding_top: medium
