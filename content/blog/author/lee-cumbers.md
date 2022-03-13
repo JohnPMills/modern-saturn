@@ -3,7 +3,7 @@ title: Lee Cumbers
 sections:
   - type: hero_section
     title: John Mills
-    subtitle: GvD Programme Lead
+    subtitle: GvD Founder
     align: center
     padding_top: medium
     padding_bottom: none
