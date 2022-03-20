@@ -20,9 +20,6 @@ sections:
     padding_bottom: large
     background_color: none
     content: >
-      We have two versions of the course available. 
-
-
       1.  Our long\[er] course uses a virtual learning environment and splits
       the course into 8-modules. Each module has a range of reading and
       activities to complete. In total, the course can be completed in stages
