@@ -13,7 +13,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: short-Course
+      - label: Short Course
         url: '#'
         style: link
         has_icon: false
