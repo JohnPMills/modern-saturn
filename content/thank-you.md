@@ -15,7 +15,7 @@ sections:
         no_follow: true
       - label: Short Course
         url: 'https://www.youtube.com/watch?v=bpC99qU7JwI'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
