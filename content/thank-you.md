@@ -19,9 +19,22 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    content: |+
+    content: >
       We have two versions of the course available. 
 
+
+      1.  Our long\[er] course uses a virtual learning environment and splits
+      the course into 8-modules. Each module has a range of reading and
+      activities to complete. In total, the course can be completed in stages
+      and will take around 2-hours to finish. To take the longer course, [click
+      here.](https://courses.awfullygood.org/login/index.php)
+
+
+      2.  Our short\[er] course is shared on YouTube and can be completed in
+      under an hour. It combines the video content from each of the 8 modules
+      and combines with four survey-based activities that will each take between
+      90-and 250 seconds to complete. To take the short course, [click
+      here](https://www.youtube.com/watch?v=bpC99qU7JwI).
 layout: advanced
 seo:
   title: Thank You from the Gamers vs. Depression (GvD) Team
