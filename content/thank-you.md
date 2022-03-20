@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: none
     content: >
-      1.  Our long\[er] course uses a virtual learning environment and splits
+      1.  Our long\[er] course uses a virtual learning environment (you will need to create a new account on this) and splits
       the course into 8-modules. Each module has a range of reading and
       activities to complete. In total, the course can be completed in stages
       and will take around 2-hours to finish. 
