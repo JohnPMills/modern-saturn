@@ -20,7 +20,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
     align: center
     padding_bottom: large
     background_color: none
