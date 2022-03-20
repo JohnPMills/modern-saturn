@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: We're stoked you're coming on this journey with us!
-    subtitle: We have two versions of our free online the course available.
+    subtitle: We have two versions of our free online course available.
     actions:
       - label: Long Course
         url: 'https://courses.awfullygood.org/login/index.php'
