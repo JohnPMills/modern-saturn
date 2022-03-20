@@ -19,6 +19,9 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    content: |+
+      We have two versions of the course available. 
+
 layout: advanced
 seo:
   title: Thank You from the Gamers vs. Depression (GvD) Team
