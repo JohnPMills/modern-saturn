@@ -5,7 +5,7 @@ sections:
     title: We're stoked you're coming on this journey with us!
     subtitle: We have two versions of the course available.
     actions:
-      - label: Begin
+      - label: Long Course
         url: 'https://courses.awfullygood.org/login/index.php'
         style: secondary
         has_icon: false
