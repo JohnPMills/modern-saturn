@@ -14,7 +14,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Short Course
-        url: '#'
+        url: 'https://www.youtube.com/watch?v=bpC99qU7JwI'
         style: link
         has_icon: false
         icon: arrow-left
