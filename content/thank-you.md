@@ -28,7 +28,7 @@ sections:
       1.  Our long\[er] course uses a virtual learning environment and splits
       the course into 8-modules. Each module has a range of reading and
       activities to complete. In total, the course can be completed in stages
-      and will take around 2-hours to finish. You will also need to create an accou
+      and will take around 2-hours to finish. 
 
 
       2.  Our short\[er] course is shared on YouTube and can be completed in
