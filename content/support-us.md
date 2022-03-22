@@ -1,7 +1,7 @@
 ---
 title: Support-Us
 sections:
-  - title: lorem-ipsum
+  - title: How You Can Help
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
