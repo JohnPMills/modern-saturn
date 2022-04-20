@@ -105,7 +105,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: 
+        image: images/Screenshot 2022-02-16 at 20.18.38.png
       - title: Lee Cumbers MSc
         content: >
           Lee is an avid gamer, spending a lot of his time playing high level
