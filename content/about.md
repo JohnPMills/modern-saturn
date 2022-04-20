@@ -89,23 +89,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Screenshot 2022-02-16 at 20.18.38.png
-       - title: Dr Stewart Vella
-        title_align: left
-        content: >
-          Dr Stewart Vella is the Director of the Global Alliance for Mental Health and Sport at the University of Wollongong, Australia. According to                        
-          Scopus, he is the most published researcher in the world on the topic of mental health and sport. He is also a Subject Matter Expert on mental 
-          health in sport with Movember. His work spans mental health programs, mental health guidelines,  psychological safety, and mental fitness. His 
-          “Ahead of the Game” program is currently being scaled globally, including as the official program of the Rugby League World Cup 2021.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/Screenshot 2022-02-16 at 20.18.38.png
       - title: Lee Cumbers MSc
         content: >
           Lee is an avid gamer, spending a lot of his time playing high level
@@ -114,16 +97,6 @@ sections:
           his undergraduate degree at the University of Hertfordshire in 2015
           and his Masters in Sport and Exercise Psychology at the University of
           Essex in 2021 -- graduating with distinction.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/Screenshot 2022-02-16 at 20.20.35.png
-       - title: Henry Titly-Wall MSc
-        content: >
-          Henry is a PhD candidate at the University of Essex and works as a Lecturer at UA92. His research focuses on talent identification practices 
-          in football. Henry previously achieved a master’s with distinction in sports coaching, an undergraduate degree in sports development, and has 
-          multiple industry qualifications, including: PFSA and FA awards in Talent Identification, and a UEFA B license in coaching football. 
         content_align: left
         actions: []
         actions_align: left
