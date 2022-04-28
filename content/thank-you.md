@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: We're stoked you're coming on this journey with us!
-    subtitle: Our course can be completed in under an hour and includes four modules.
+    subtitle: Our course can be completed in 30-minutes.
     actions:
       - label: Start
         url: 'https://essex.eu.qualtrics.com/jfe/form/SV_aV4naV0JTxmhl7E'
