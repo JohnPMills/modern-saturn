@@ -5,7 +5,7 @@ sections:
     title: READY TO LEVEL UP YOUR MENTAL HEALTH?
     actions:
       - label: START NOW
-        url: https://essex.eu.qualtrics.com/jfe/form/SV_aV4naV0JTxmhl7E
+        url: /sign-up
         style: secondary
         new_window: true
         no_follow: true
