@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: We're stoked you're coming on this journey with us!
-    subtitle: We have two versions of our free online course available.
+    subtitle: Our course can be completed in under an hour and includes four modules.
     actions:
       - label: Start
         url: 'https://essex.eu.qualtrics.com/jfe/form/SV_aV4naV0JTxmhl7E'
@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: none
     content: >
-      Our course can be completed in under an hour and includes four modules.  
+        Ready to go?
       
 layout: advanced
 seo:
