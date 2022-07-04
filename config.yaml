@@ -10,3 +10,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+googleAnalytics = "G-8HC0L8G6G8"
