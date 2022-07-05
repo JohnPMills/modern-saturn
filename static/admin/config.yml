@@ -67,7 +67,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: '.forestry/settings.yml'
+        file: 'config.json'
         description: 'General Site Settings'
         fields:
           - { label: 'Global title', name: 'site_title', widget: 'string' }
