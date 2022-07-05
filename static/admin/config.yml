@@ -2,25 +2,16 @@ backend:
   name: git-gateway
   branch: main
 
-  media_folder: "static/images/uploads"
-  public_folder: "/images/uploads"
-
-  collections:
-    - name: blog
-      label: "Blog"
-      folder: content/blog
-      create: true
-      slug: "{{year}}-{{slug}}"
-      fields:
-        - {label: "Title", name: "title", widget: "string", required: true}
-        - {label: "Publish Date", name: "date", widget: "date"}
-        - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
-        - {label: "Categories", name: "categories", widget: "string", required: true}
-        - {label: "Tags", name: "tags", widget: "list", required: false}
-        - {label: "Author", name: "author", widget: "hidden", default: John Mills}
-        - {label: "Author Image", name: "authorImage", widget: "hidden", default: "static/images/Screenshot 2021-11-30 at 14.56.13.png"}
-        - {label: "Header Image", name: "image", widget: "image", required: false}
-        - {label: "Commenting", name: "comments", widget: "boolean", deafult: true}
-        - {label: "Sharing", name: "share", widget: "boolean", default: true}
-        - {label: "Type", name: "type", widget: "hidden", default: post}
-        - {label: "Body", name: :"body", widget: "markdown"}
+collections:
+- name: "pages",
+  label: "Junctions",
+  files: 
+    - label: "Homepage",
+      name: "homepage",
+      file: "index.html"
+      fields: 
+        {
+          - { label: "Layout", name: "layout", widget: "hidden", default: "link.njk" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Destination", name: "destination", widget: "text" }
+        }
