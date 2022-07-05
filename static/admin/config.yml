@@ -3,11 +3,11 @@ backend:
   branch: main
 
 collections:
-- name: "pages",
-  label: "Junctions",
+- name: "blog"
+  label: "Blog"
   files: 
-    - label: "Homepage",
-      name: "homepage",
+- label: "Homepage"
+      name: "homepage"
       file: "index.html"
       fields: 
         {
