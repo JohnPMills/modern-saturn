@@ -4,14 +4,11 @@ backend:
 
 collections:
 - name: "blog"
-  label: "Blog"
+  label: "blog"
   files: 
-- label: "Homepage"
-      name: "homepage"
-      file: "index.html"
-      fields: 
-        {
-          - { label: "Layout", name: "layout", widget: "hidden", default: "link.njk" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Destination", name: "destination", widget: "text" }
-        }
+  fields: 
+      {
+        - { label: "Layout", name: "layout", widget: "hidden", default: "link.njk" }
+        - { label: "Description", name: "description", widget: "text" }
+        - { label: "Destination", name: "destination", widget: "text" }
+      }
