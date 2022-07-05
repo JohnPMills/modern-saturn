@@ -12,15 +12,10 @@ backend:
       create: true
       slug: "{{year}}-{{slug}}"
       fields:
-        - {label: "Title", name: "title", widget: "string", required: true}
-        - {label: "Publish Date", name: "date", widget: "date"}
-        - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
-        - {label: "Categories", name: "categories", widget: "string", required: true}
-        - {label: "Tags", name: "tags", widget: "list", required: false}
-        - {label: "Author", name: "author", widget: "hidden", default: John Mills}
-        - {label: "Author Image", name: "authorImage", widget: "hidden", default: "static/images/Screenshot 2021-11-30 at 14.56.13.png"}
-        - {label: "Header Image", name: "image", widget: "image", required: false}
-        - {label: "Commenting", name: "comments", widget: "boolean", deafult: true}
-        - {label: "Sharing", name: "share", widget: "boolean", default: true}
-        - {label: "Type", name: "type", widget: "hidden", default: post}
-        - {label: "Body", name: :"body", widget: "markdown"}
+  - label: "Title"
+    name: "title"
+    widget: "string"
+    pattern: ['.{10,}', "Must have at least 20 characters"]
+  - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+  - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
