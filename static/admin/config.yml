@@ -67,7 +67,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: '_data/settings.json'
+        file: '.forestry/settings.yml'
         description: 'General Site Settings'
         fields:
           - { label: 'Global title', name: 'site_title', widget: 'string' }
@@ -93,7 +93,7 @@ collections: # A list of collections the CMS should be able to edit
 
       - name: 'authors'
         label: 'Authors'
-        file: '_data/authors.yml'
+        file: '_data/team.yml'
         description: 'Author descriptions'
         fields:
           - name: authors
